@@ -299,7 +299,12 @@ export default function EventBoard({
                     <span className="badge gift">🎀 プレゼント</span>
                   )}
                   {e.types
-                    .filter((t) => !["free_sample", "minigame"].includes(t))
+                    .filter(
+                      (t) =>
+                        !["free_sample", "minigame", "gift", "novelty"].includes(
+                          t
+                        )
+                    )
                     .map((t) => (
                       <span className="badge" key={t}>
                         {EVENT_TYPE_EMOJI[t]} {EVENT_TYPE_LABELS[t]}
