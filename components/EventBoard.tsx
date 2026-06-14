@@ -259,6 +259,17 @@ export default function EventBoard({
             const st = getStatus(e, today);
             return (
               <article className="card" key={e.id}>
+                {e.image && (
+                  <a
+                    className="thumb"
+                    href={e.url || "#"}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src={e.image} alt={e.title} loading="lazy" />
+                  </a>
+                )}
                 <div className="card-top">
                   <span className="pref">📍 {e.prefecture}・{e.area}</span>
                   <span className={`status ${st}`}>{STATUS_LABEL[st]}</span>

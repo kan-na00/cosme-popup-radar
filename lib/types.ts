@@ -25,7 +25,9 @@ export interface CosmeEvent {
   /** 開催終了日 YYYY-MM-DD */
   endDate: string;
   url?: string;
-  /** 取得元の名称（@cosme / 伊勢丹 など） */
+  /** サムネイル画像URL（og:image など） */
+  image?: string;
+  /** 取得元の名称（PR TIMES など） */
   source: string;
   description?: string;
   tags?: string[];

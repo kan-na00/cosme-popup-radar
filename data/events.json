@@ -1,445 +1,146 @@
 {
-  "updatedAt": "2026-06-14T01:46:24.972Z",
+  "updatedAt": "2026-06-14T03:20:11.806Z",
   "events": [
     {
-      "id": "seed-cipicipi-lumine-est",
-      "title": "CipiCipi 夏メイク お試し&ミニゲーム",
-      "brand": "CipiCipi",
-      "types": [
-        "free_sample",
-        "minigame",
-        "popup"
-      ],
-      "prefecture": "東京",
-      "area": "新宿",
-      "venue": "ルミネエスト新宿 B1",
-      "address": "東京都新宿区新宿3-38-1",
-      "startDate": "2026-06-10",
-      "endDate": "2026-06-16",
-      "url": "https://www.lumine.ne.jp/est/",
-      "source": "サンプル(seed)",
-      "description": "SNSフォローでスロットゲームに挑戦、はずれなしでサンプルプレゼント。",
-      "tags": [
-        "SNSフォロー",
-        "スロット",
-        "はずれなし"
-      ],
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
-    },
-    {
-      "id": "seed-canmake-shinjuku-marui",
-      "title": "CANMAKE TOKYO 夏の新作タッチ&ゲットPOP UP",
-      "brand": "CANMAKE",
-      "types": [
-        "popup",
-        "free_sample",
-        "minigame"
-      ],
-      "prefecture": "東京",
-      "area": "新宿",
-      "venue": "新宿マルイ本館 1F",
-      "address": "東京都新宿区新宿3-30-13",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-21",
-      "url": "https://www.canmake.com/",
-      "source": "サンプル(seed)",
-      "description": "夏新色を全色タッチアップできるPOP UP。ガチャゲームで限定ミニコスメやサンプルが当たる。",
-      "tags": [
-        "新色",
-        "ガチャ",
-        "学割"
-      ],
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
-    },
-    {
-      "id": "seed-cezanne-shibuya-109",
-      "title": "CEZANNE プチプラ夏色 ガチャイベント",
-      "brand": "CEZANNE",
-      "types": [
-        "minigame",
-        "free_sample",
-        "popup"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "SHIBUYA109 B2",
-      "address": "東京都渋谷区道玄坂2-29-1",
-      "startDate": "2026-06-13",
-      "endDate": "2026-06-23",
-      "url": "https://www.shibuya109.jp/",
-      "source": "サンプル(seed)",
-      "description": "対象商品購入でガチャに挑戦、限定ミラーやサンプルが当たる。",
-      "tags": [
-        "プチプラ",
-        "ガチャ",
-        "限定"
-      ],
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
-    },
-    {
-      "id": "seed-cosme-tokyo-harajuku-summer",
-      "title": "@cosme TOKYO サマービューティーフェス サンプル無料配布",
-      "brand": "複数ブランド",
-      "types": [
-        "free_sample",
-        "novelty",
-        "popup"
-      ],
-      "prefecture": "東京",
-      "area": "原宿",
-      "venue": "@cosme TOKYO（原宿）",
-      "address": "東京都渋谷区神宮前1-14-27",
-      "startDate": "2026-06-14",
-      "endDate": "2026-06-30",
-      "url": "https://www.cosme.com/",
-      "source": "サンプル(seed)",
-      "description": "対象ブランドのスキンケア/ベースメイクのミニサンプルを先着で無料配布。アプリ提示でノベルティも。",
-      "tags": [
-        "先着",
-        "アプリ提示",
-        "スキンケア"
-      ],
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
-    },
-    {
-      "id": "seed-yokohama-landmark-multi",
-      "title": "ビューティーサンプルマルシェ in みなとみらい",
-      "brand": "複数ブランド",
-      "types": [
-        "free_sample",
-        "novelty"
-      ],
-      "prefecture": "神奈川",
-      "area": "横浜みなとみらい",
-      "venue": "ランドマークプラザ 1F サカタのタネ ガーデンスクエア",
-      "address": "神奈川県横浜市西区みなとみらい2-2-1",
-      "startDate": "2026-06-14",
-      "endDate": "2026-06-21",
-      "url": "https://www.yokohama-landmark.jp/",
-      "source": "サンプル(seed)",
-      "description": "複数コスメブランドが集合。アンケート回答でサンプルセットを無料配布。",
-      "tags": [
-        "複数ブランド",
-        "アンケート",
-        "週末"
-      ],
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
-    },
-    {
-      "id": "seed-shiseido-isetan-shinjuku",
-      "title": "SHISEIDO スキンケア カウンセリング&サンプル配布",
-      "brand": "SHISEIDO",
-      "types": [
-        "free_sample",
-        "workshop"
-      ],
-      "prefecture": "東京",
-      "area": "新宿",
-      "venue": "伊勢丹新宿店 本館1F 化粧品",
-      "address": "東京都新宿区新宿3-14-1",
-      "startDate": "2026-06-15",
-      "endDate": "2026-06-22",
-      "url": "https://www.mistore.jp/store/shinjuku.html",
-      "source": "サンプル(seed)",
-      "description": "肌診断を受けると美容液の数日分サンプルがもらえる。事前予約優先。",
-      "tags": [
-        "肌診断",
-        "予約優先",
-        "デパコス"
-      ],
-      "freeSample": true,
-      "hasGift": false,
-      "hasGame": false,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
-    },
-    {
-      "id": "seed-tachikawa-lumine-kbeauty",
-      "title": "K-BEAUTY フェア 立川 スタンプラリー",
-      "brand": "複数ブランド",
-      "types": [
-        "minigame",
-        "free_sample",
-        "novelty"
-      ],
-      "prefecture": "東京",
-      "area": "立川",
-      "venue": "ルミネ立川 各階",
-      "address": "東京都立川市曙町2-1-1",
-      "startDate": "2026-06-16",
-      "endDate": "2026-06-29",
-      "url": "https://www.lumine.ne.jp/tachikawa/",
-      "source": "サンプル(seed)",
-      "description": "館内スタンプラリーを集めると韓国コスメのサンプルやノベルティがもらえる。",
-      "tags": [
-        "スタンプラリー",
-        "韓国コスメ",
-        "館内回遊"
-      ],
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
-    },
-    {
-      "id": "seed-romand-shibuya-parco",
-      "title": "rom&nd ジューシーリップ 体験POP UP",
-      "brand": "rom&nd",
-      "types": [
-        "popup",
-        "minigame",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "渋谷PARCO 1F",
-      "address": "東京都渋谷区宇田川町15-1",
-      "startDate": "2026-06-18",
-      "endDate": "2026-06-29",
-      "url": "https://www.parco.jp/shibuya/",
-      "source": "サンプル(seed)",
-      "description": "新作ティントを試せる体験型ブース。ルーレットゲームで限定ポーチやサンプルが当たる。",
-      "tags": [
-        "韓国コスメ",
-        "ティント",
-        "ルーレット"
-      ],
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
-    },
-    {
-      "id": "seed-romand-yokohama-lumine",
-      "title": "rom&nd × ルミネ横浜 サマーティント POP UP",
-      "brand": "rom&nd",
-      "types": [
-        "popup",
-        "minigame",
-        "free_sample"
-      ],
-      "prefecture": "神奈川",
-      "area": "横浜",
-      "venue": "ルミネ横浜 2F",
-      "address": "神奈川県横浜市西区高島2-16-1",
-      "startDate": "2026-06-19",
-      "endDate": "2026-06-30",
-      "url": "https://www.lumine.ne.jp/yokohama/",
-      "source": "サンプル(seed)",
-      "description": "ルーレットゲームでサンプルや限定グッズが当たる体験型POP UP。",
-      "tags": [
-        "韓国コスメ",
-        "ルーレット",
-        "限定グッズ"
-      ],
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
-    },
-    {
-      "id": "seed-hince-omotesando",
-      "title": "hince ニュームードPOP UP STORE",
-      "brand": "hince",
-      "types": [
-        "popup",
-        "novelty"
-      ],
-      "prefecture": "東京",
-      "area": "表参道",
-      "venue": "表参道 特設スペース",
-      "address": "東京都渋谷区神宮前4丁目",
-      "startDate": "2026-06-20",
-      "endDate": "2026-07-06",
-      "url": "https://hince.jp/",
-      "source": "サンプル(seed)",
-      "description": "購入者先着でオリジナルノベルティをプレゼント。フォトスポットあり。",
-      "tags": [
-        "韓国コスメ",
-        "フォトスポット",
-        "先着"
-      ],
-      "freeSample": false,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
-    },
-    {
-      "id": "seed-sogo-yokohama-shiseido",
-      "title": "そごう横浜 ビューティーデイズ サンプル配布",
-      "brand": "複数ブランド",
-      "types": [
-        "free_sample",
-        "workshop"
-      ],
-      "prefecture": "神奈川",
-      "area": "横浜",
-      "venue": "そごう横浜店 1F 化粧品フロア",
-      "address": "神奈川県横浜市西区高島2-18-1",
-      "startDate": "2026-06-22",
-      "endDate": "2026-06-28",
-      "url": "https://www.sogo-seibu.jp/yokohama/",
-      "source": "サンプル(seed)",
-      "description": "デパコス各ブランドのミニサンプル配布。メイク実演イベントも開催。",
-      "tags": [
-        "デパコス",
-        "実演",
-        "サンプル"
-      ],
-      "freeSample": true,
-      "hasGift": false,
-      "hasGame": false,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
-    },
-    {
-      "id": "seed-kate-ikebukuro-sunshine",
-      "title": "KATE トーンディメンショナル 体感ブース",
-      "brand": "KATE",
+      "id": "prt-韓国発ニッチフレグランスブランド-saranghaeyo-サランヘヨ-が-銀座-蔦屋書店にて期間限定ポップアップストアを開催-銀座-2026-06-01",
+      "title": "韓国発ニッチフレグランスブランド「SARANGHAEYO（サランヘヨ）」が、銀座 蔦屋書店にて期間限定ポップアップストアを開催",
+      "brand": "TriDriven株式会社",
       "types": [
         "popup",
         "free_sample"
-      ],
-      "prefecture": "東京",
-      "area": "池袋",
-      "venue": "サンシャインシティ アルパB1",
-      "address": "東京都豊島区東池袋3-1",
-      "startDate": "2026-06-25",
-      "endDate": "2026-07-05",
-      "url": "https://www.sunshinecity.jp/",
-      "source": "サンプル(seed)",
-      "description": "新作パレットのタッチアップ体験。来場でミニサイズサンプル配布。",
-      "tags": [
-        "パレット",
-        "タッチアップ"
-      ],
-      "freeSample": true,
-      "hasGift": false,
-      "hasGame": false,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
-    },
-    {
-      "id": "seed-lazona-kawasaki-canmake",
-      "title": "プチプラコスメ つかみ取り&ミニゲーム祭り",
-      "brand": "複数ブランド",
-      "types": [
-        "minigame",
-        "free_sample",
-        "gift"
-      ],
-      "prefecture": "神奈川",
-      "area": "川崎",
-      "venue": "ラゾーナ川崎プラザ 1F ルーファ広場",
-      "address": "神奈川県川崎市幸区堀川町72-1",
-      "startDate": "2026-06-27",
-      "endDate": "2026-06-28",
-      "url": "https://mitsui-shopping-park.com/lazona-kawasaki/",
-      "source": "サンプル(seed)",
-      "description": "週末限定。ミニゲームクリアでコスメのつかみ取りに挑戦できる。",
-      "tags": [
-        "週末限定",
-        "つかみ取り",
-        "ファミリー"
-      ],
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
-    },
-    {
-      "id": "seed-dior-ginza-six",
-      "title": "Dior Beauty サマーコレクション ギフト体験",
-      "brand": "Dior",
-      "types": [
-        "popup",
-        "gift",
-        "novelty"
       ],
       "prefecture": "東京",
       "area": "銀座",
-      "venue": "GINZA SIX 2F",
-      "address": "東京都中央区銀座6-10-1",
-      "startDate": "2026-07-01",
-      "endDate": "2026-07-13",
-      "url": "https://www.ginza6.tokyo/",
-      "source": "サンプル(seed)",
-      "description": "対象購入でオリジナルポーチをプレゼント。香りの体験コーナーでサンプル配布。",
-      "tags": [
-        "デパコス",
-        "フレグランス",
-        "ポーチ"
+      "venue": "銀座 蔦屋書店 BOOK売場",
+      "startDate": "2026-06-01",
+      "endDate": "2026-07-03",
+      "url": "https://prtimes.jp/main/html/rd/p/000000011.000120553.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/120553/11/120553-11-4cd32c5e62021cea77cce2e24b8799a3-3811x2459.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "「SARANGHAEYO」とは 2020年にソウルで創業。創業者のSung Soo Kimは、高級フレグランスを展開するラグジュアリーグループでの16年の経験をもとに、写真と自身が訪れた土地からインスピレーションを受けな…",
+      "freeSample": true,
+      "hasGift": false,
+      "hasGame": false,
+      "collectedAt": "2026-06-01T00:00:00.000Z"
+    },
+    {
+      "id": "prt-ホワイトジェリー-ラインを日本で初公開-1-ディアダリア-韓国ドラマで話題沸騰のアンヒョソプと東京-原宿でポップアップストアを開催-原宿-2026-06-10",
+      "title": "⌈ホワイトジェリー⌋ラインを日本で初公開(※1) ディアダリア、 韓国ドラマで話題沸騰のアンヒョソプと東京・原宿でポップアップストアを開催",
+      "brand": "株式会社韓国高麗人蔘社",
+      "types": [
+        "popup",
+        "free_sample",
+        "minigame",
+        "gift"
       ],
+      "prefecture": "東京",
+      "area": "原宿",
+      "venue": "原宿",
+      "startDate": "2026-06-10",
+      "endDate": "2026-06-16",
+      "url": "https://prtimes.jp/main/html/rd/p/000000347.000076505.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/76505/347/76505-347-f485445d895ada4c6c75e6cf61e419b1-3900x2196.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "ラグジュアリーヴィーガンビューティーブランド「DEAR DAHLIA（ディアダリア）」は、 2026年6月10日（水）から16日（火）まで、東京・原宿の @cosme TOKYO にて、 新スキンケアライン発売を記念した…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-06-08T00:00:00.000Z"
+    },
+    {
+      "id": "prt-etude-エチュードの日本上陸15周年を記念したアーカイブpopup-etude-house-collection-を渋谷ロフトにて開催-渋谷-2026-06",
+      "title": "【ETUDE】エチュードの日本上陸15周年を記念したアーカイブPOPUP『ETUDE House Collection』を渋谷ロフトにて開催！",
+      "brand": "アモーレパシフィックジャパン株式会社",
+      "types": [
+        "popup",
+        "free_sample",
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-25",
+      "url": "https://prtimes.jp/main/html/rd/p/000000363.000021350.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/21350/363/21350-363-420af146e4dd60335338e5001d922f34-3307x2339.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "※画像はイメージです。 韓国コスメブランド「エチュード」は、今年日本上陸15周年を記念して、2026年6月12日(金)～6月25日(木)まで『ETUDE House Collection（エチュードハウスコレクション） …",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-06-08T00:00:00.000Z"
+    },
+    {
+      "id": "prt-カワイイ文化の先駆け-水森亜土とコスメ-デ-ボーテが初コラボレーション-ジェルミーワン-ジェルミーペタリー-ジーニッシュマニキュア-から-レトロカワイイ-ネイル",
+      "title": "カワイイ文化の先駆け・水森亜土とコスメ・デ・ボーテが初コラボレーション​「ジェルミーワン」「ジェルミーペタリー」「ジーニッシュマニキュア」から​レトロカワイイ♡ネイルコレクションが6月22日（月）発売",
+      "brand": "株式会社 コスメ・デ・ボーテ／Cosmé de Beauté Ltd.",
+      "types": [
+        "popup",
+        "free_sample",
+        "novelty"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷",
+      "startDate": "2026-06-22",
+      "endDate": "2026-07-05",
+      "url": "https://prtimes.jp/main/html/rd/p/000000119.000049074.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/49074/119/49074-119-ecc6a8fb2a5324b78efc16ec7d40b01c-1080x608.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社コスメ・デ・ボーテ（本社：東京都渋谷区 代表取締役社長：吉田 明人）は、世代を超えて愛される人気アーティスト・水森亜土とのコラボレーションによる限定ネイルコレクションを発売します。​ 本コレクションは、「KAWA…",
       "freeSample": true,
       "hasGift": true,
       "hasGame": false,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
+      "collectedAt": "2026-06-04T00:00:00.000Z"
     },
     {
-      "id": "seed-kamakura-organic-popup",
-      "title": "オーガニックコスメ お試しPOP UP in 鎌倉",
-      "brand": "複数ブランド",
+      "id": "prt-banila-co-seventeen-jeonghanのビジュアル登場-6月24日よりpopup-storeをzerobase表参道にて開催-表参道-2026",
+      "title": "【BANILA CO】SEVENTEEN JEONGHANのビジュアル登場！6月24日よりPOPUP STOREをZeroBase表参道にて開催！",
+      "brand": "モノック株式会社",
       "types": [
         "popup",
-        "free_sample"
-      ],
-      "prefecture": "神奈川",
-      "area": "鎌倉",
-      "venue": "鎌倉小町通り 特設スペース",
-      "address": "神奈川県鎌倉市小町2丁目",
-      "startDate": "2026-07-04",
-      "endDate": "2026-07-12",
-      "url": "https://example.com/kamakura-organic",
-      "source": "サンプル(seed)",
-      "description": "ナチュラル/オーガニック系ブランドのサンプルを試せる。ハンドケア体験あり。",
-      "tags": [
-        "オーガニック",
-        "ハンドケア",
-        "ナチュラル"
-      ],
-      "freeSample": true,
-      "hasGift": false,
-      "hasGame": false,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
-    },
-    {
-      "id": "seed-machida-fragrance-sample",
-      "title": "フレグランス サンプリング体験会 町田",
-      "brand": "複数ブランド",
-      "types": [
         "free_sample",
-        "workshop"
+        "minigame",
+        "novelty",
+        "gift"
       ],
       "prefecture": "東京",
-      "area": "町田",
-      "venue": "町田モディ 1F",
-      "address": "東京都町田市原町田6-1-6",
-      "startDate": "2026-07-08",
-      "endDate": "2026-07-14",
-      "url": "https://www.0101.co.jp/735/",
-      "source": "サンプル(seed)",
-      "description": "好みの香りを診断してフレグランスサンプルを無料でお持ち帰り。",
-      "tags": [
-        "フレグランス",
-        "香り診断",
-        "無料"
-      ],
+      "area": "表参道",
+      "venue": "ZeroBase表参道",
+      "startDate": "2026-06-24",
+      "endDate": "2026-07-05",
+      "url": "https://prtimes.jp/main/html/rd/p/000000181.000016416.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/16416/181/16416-181-7dc4b7084b3ee68748f1fa8231f104e3-2400x1200.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "韓国発の大人気コスメブランド BANILA CO（バニラコ） が、2026年6月にZeroBase表参道に期間限定POPUP STOREを開催！ 今回のPOPUP STOREでは、バニラコの大人気「エッセンス スキン ク…",
       "freeSample": true,
-      "hasGift": false,
-      "hasGame": false,
-      "collectedAt": "2026-06-14T01:00:00.000Z"
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-06-08T00:00:00.000Z"
+    },
+    {
+      "id": "prt-かぢボディ-で話題-腸活ブーム-の火付け役-加治ひとみさんが登壇-スペシャルトークイベント-panasonic-beauty-omotesando-meets-",
+      "title": "“かぢボディ”で話題。〈腸活ブーム〉の火付け役・加治ひとみさんが登壇。スペシャルトークイベント「Panasonic Beauty OMOTESANDO meets 加治ひとみ」を7月11日（土）に開催",
+      "brand": "パナソニック株式会社",
+      "types": [
+        "free_sample",
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "表参道",
+      "venue": "Panasonic Beauty OMOTESANDO B1F 参加費：無料",
+      "startDate": "2026-07-11",
+      "endDate": "2026-07-11",
+      "url": "https://prtimes.jp/main/html/rd/p/000000029.000163417.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/163417/29/163417-29-bdf2c4bf7617b9c9776e6f8780a5e642-1080x1350.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "パナソニック株式会社（以下、パナソニック）は、2026年7月11日（土）、美容アイテムを体感できる拠点「パナソニックビューティ表参道」にて、美腸プランナー・モデルとして活躍する加治ひとみさんをゲストに迎えたスペシャルトー…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-06-12T00:00:00.000Z"
     }
   ]
 }
