@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T23:22:16.880Z",
+  "updatedAt": "2026-06-17T23:21:13.886Z",
   "events": [
     {
       "id": "prt-韓国発ニッチフレグランスブランド-saranghaeyo-サランヘヨ-が-銀座-蔦屋書店にて期間限定ポップアップストアを開催-銀座-2026-06-01",
@@ -22,30 +22,6 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-06-01T00:00:00.000Z"
-    },
-    {
-      "id": "prt-ホワイトジェリー-ラインを日本で初公開-1-ディアダリア-韓国ドラマで話題沸騰のアンヒョソプと東京-原宿でポップアップストアを開催-原宿-2026-06-10",
-      "title": "⌈ホワイトジェリー⌋ラインを日本で初公開(※1) ディアダリア、 韓国ドラマで話題沸騰のアンヒョソプと東京・原宿でポップアップストアを開催",
-      "brand": "株式会社韓国高麗人蔘社",
-      "types": [
-        "popup",
-        "free_sample",
-        "minigame",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "原宿",
-      "venue": "原宿",
-      "startDate": "2026-06-10",
-      "endDate": "2026-06-16",
-      "url": "https://prtimes.jp/main/html/rd/p/000000347.000076505.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/76505/347/76505-347-f485445d895ada4c6c75e6cf61e419b1-3900x2196.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "ラグジュアリーヴィーガンビューティーブランド「DEAR DAHLIA（ディアダリア）」は、 2026年6月10日（水）から16日（火）まで、東京・原宿の @cosme TOKYO にて、 新スキンケアライン発売を記念した…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-06-08T00:00:00.000Z"
     },
     {
       "id": "prt-etude-エチュードの日本上陸15周年を記念したアーカイブpopup-etude-house-collection-を渋谷ロフトにて開催-渋谷-2026-06",
@@ -118,6 +94,31 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-06-08T00:00:00.000Z"
+    },
+    {
+      "id": "prt-ラ-プレリー-ヘラルボニーとの-アート-コラボレーションを展開-美へのまなざし-と-異彩-が響き合う-アートとアイケアの特別な体験-東京-2026-06-24",
+      "title": "〈ラ・プレリー〉ヘラルボニーとの、アート・コラボレーションを展開“美へのまなざし”と“異彩”が響き合う、アートとアイケアの特別な体験",
+      "brand": "ラ･プレリージャパン株式会社",
+      "types": [
+        "popup",
+        "free_sample",
+        "novelty",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "東京",
+      "venue": "東京",
+      "startDate": "2026-06-24",
+      "endDate": "2026-06-30",
+      "url": "https://prtimes.jp/main/html/rd/p/000000031.000156423.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/156423/31/156423-31-13c895f3a62521be5046b916f5ffa8d0-788x574.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "スイス発のラグジュアリースキンケアブランド〈ラ・プレリー〉は、株式会社ヘラルボニーとのアート・コラボレーションを展開いたします。 ヘラルボニーは、「異彩を、放て。」をミッションに、新たな文化の創出を目指すクリエイティブカ…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-06-17T00:00:00.000Z"
     },
     {
       "id": "prt-かぢボディ-で話題-腸活ブーム-の火付け役-加治ひとみさんが登壇-スペシャルトークイベント-panasonic-beauty-omotesando-meets-",
