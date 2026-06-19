@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T23:43:08.615Z",
+  "updatedAt": "2026-06-19T22:53:34.731Z",
   "events": [
     {
       "id": "prt-韓国発ニッチフレグランスブランド-saranghaeyo-サランヘヨ-が-銀座-蔦屋書店にて期間限定ポップアップストアを開催-銀座-2026-06-01",
@@ -121,6 +121,49 @@
       "collectedAt": "2026-06-17T00:00:00.000Z"
     },
     {
+      "id": "prt-韓国最大級のホームショッピングプラットフォーム-ロッテホームショッピング-と共同出展が実現-ライフスタイルweek内ヘルス-ビューティーグッズ-expo夏に-b",
+      "title": "韓国最大級のホームショッピングプラットフォーム「ロッテホームショッピング」と共同出展が実現！ライフスタイルWeek内ヘルス＆ビューティーグッズ EXPO夏に「BNR17®」「O&#x27;LABS」などを出展",
+      "brand": "ジャパンピープル商事株式会社",
+      "types": [
+        "free_sample"
+      ],
+      "prefecture": "東京",
+      "area": "東京",
+      "venue": "東京ビッグサイト",
+      "startDate": "2026-06-24",
+      "endDate": "2026-06-24",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000178900.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/178900/3/178900-3-00a6471a895b4b0736f363c25c0daf4b-1776x994.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "ジャパンピープル商事株式会社（本社：東京都港区、代表：キム・ハリム（Kim Halim））は、2026年6月24日（水）〜26日（金）の3日間、東京ビッグサイトで開催される「ライフスタイルWeek内ヘルス＆ビューティーグ…",
+      "freeSample": true,
+      "hasGift": false,
+      "hasGame": false,
+      "collectedAt": "2026-06-19T00:00:00.000Z"
+    },
+    {
+      "id": "prt-foundue-premium-showcase-with-seo-in-guk-第二部プログラム詳細公開-東京-2026-07-09",
+      "title": "「FOUNDUE Premium Showcase with SEO IN GUK」第二部プログラム詳細公開！",
+      "brand": "株式会社WAK",
+      "types": [
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "東京",
+      "venue": "全体が一体となって楽しめる特別企画満載です",
+      "startDate": "2026-07-09",
+      "endDate": "2026-07-09",
+      "url": "https://prtimes.jp/main/html/rd/p/000000030.000168735.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/168735/30/168735-30-6f22932002112b02421be5b725d48c99-1104x1440.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "「FOUNDUE Premium Showcase with SEO IN GUK」では、ブランドの世界観やビューティートークをお届けする第一部に続き、第二部ではソ・イングクとファンの皆さまが一緒に楽しめる参加型プログラ…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-06-19T00:00:00.000Z"
+    },
+    {
       "id": "prt-かぢボディ-で話題-腸活ブーム-の火付け役-加治ひとみさんが登壇-スペシャルトークイベント-panasonic-beauty-omotesando-meets-",
       "title": "“かぢボディ”で話題。〈腸活ブーム〉の火付け役・加治ひとみさんが登壇。スペシャルトークイベント「Panasonic Beauty OMOTESANDO meets 加治ひとみ」を7月11日（土）に開催",
       "brand": "パナソニック株式会社",
@@ -142,6 +185,29 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-06-12T00:00:00.000Z"
+    },
+    {
+      "id": "prt-nhkカルチャー-キレイの最前線-が福岡に-nカル美容フェス-7月18日-土-19日-日-に初開催-青山-2026-07-18",
+      "title": "【NHKカルチャー】“キレイの最前線”が福岡に！「Nカル美容フェス」 7月18日(土)・19日(日)に初開催",
+      "brand": "株式会社エヌエイチケイ文化センター",
+      "types": [
+        "free_sample",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "青山",
+      "venue": "受講 詳細はこちら 河北メイク論 2026 講師：へア＆メイクアップアーティスト 河北裕",
+      "startDate": "2026-07-18",
+      "endDate": "2026-07-18",
+      "url": "https://prtimes.jp/main/html/rd/p/000000721.000071793.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/71793/721/71793-721-8e489237ee12fb8ca33c1df511fd034d-1200x628.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "■「憧れのあの人」に直接学べる、特別な2日間 「Nカル美容フェスin福岡」は、“自分らしく、もっとキレイを楽しもう”をテーマに、美容のプロフェッショナルが集結するイベントです。 雑誌やSNS、YouTubeなどで活躍する…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-06-19T00:00:00.000Z"
     }
   ]
 }
