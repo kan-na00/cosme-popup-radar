@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T23:06:23.397Z",
+  "updatedAt": "2026-06-24T23:02:04.636Z",
   "events": [
     {
       "id": "prt-韓国発ニッチフレグランスブランド-saranghaeyo-サランヘヨ-が-銀座-蔦屋書店にて期間限定ポップアップストアを開催-銀座-2026-06-01",
@@ -162,6 +162,31 @@
       "freeSample": false,
       "hasGift": true,
       "hasGame": true,
+      "collectedAt": "2026-06-24T00:00:00.000Z"
+    },
+    {
+      "id": "prt-10日間で約10-000人以上が来場した話題の2an-popupが渋谷ロフトにカムバック-渋谷-2026-06-26",
+      "title": "10日間で約10,000人以上が来場した話題の2aN POPUPが渋谷ロフトにカムバック！",
+      "brand": "WONDER LINE Co.,Ltd.",
+      "types": [
+        "popup",
+        "free_sample",
+        "novelty",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷",
+      "startDate": "2026-06-26",
+      "endDate": "2026-07-09",
+      "url": "https://prtimes.jp/main/html/rd/p/000000172.000013975.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/13975/172/13975-172-a5ff13f7112057cc8d1882aa93338e2d-820x461.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "韓国発のメイクアップブランド「2aN（トゥーエーエヌ）」の日本総代理店であるWONDER LINE株式会社（本社：東京都渋谷区）は、2026年6月26日（金）から7月9日（木）までの期間、渋谷ロフトにてPOPUPイベント…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
       "collectedAt": "2026-06-24T00:00:00.000Z"
     },
     {
