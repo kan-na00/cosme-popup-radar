@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T23:15:02.069Z",
+  "updatedAt": "2026-06-26T23:02:51.378Z",
   "events": [
     {
       "id": "prt-韓国発ニッチフレグランスブランド-saranghaeyo-サランヘヨ-が-銀座-蔦屋書店にて期間限定ポップアップストアを開催-銀座-2026-06-01",
@@ -22,30 +22,6 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-06-01T00:00:00.000Z"
-    },
-    {
-      "id": "prt-etude-エチュードの日本上陸15周年を記念したアーカイブpopup-etude-house-collection-を渋谷ロフトにて開催-渋谷-2026-06",
-      "title": "【ETUDE】エチュードの日本上陸15周年を記念したアーカイブPOPUP『ETUDE House Collection』を渋谷ロフトにて開催！",
-      "brand": "アモーレパシフィックジャパン株式会社",
-      "types": [
-        "popup",
-        "free_sample",
-        "minigame",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "渋谷",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-25",
-      "url": "https://prtimes.jp/main/html/rd/p/000000363.000021350.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/21350/363/21350-363-420af146e4dd60335338e5001d922f34-3307x2339.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "※画像はイメージです。 韓国コスメブランド「エチュード」は、今年日本上陸15周年を記念して、2026年6月12日(金)～6月25日(木)まで『ETUDE House Collection（エチュードハウスコレクション） …",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-06-08T00:00:00.000Z"
     },
     {
       "id": "prt-カワイイ文化の先駆け-水森亜土とコスメ-デ-ボーテが初コラボレーション-ジェルミーワン-ジェルミーペタリー-ジーニッシュマニキュア-から-レトロカワイイ-ネイル",
@@ -144,6 +120,32 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-06-24T00:00:00.000Z"
+    },
+    {
+      "id": "prt-ジェルミーワン-ジーニッシュマニキュア-阪神梅田本店-c-cubeにて合同popupを開催-渋谷-2026-07-01",
+      "title": "【ジェルミーワン・ジーニッシュマニキュア】​阪神梅田本店 C.CUBEにて合同POPUPを開催​",
+      "brand": "株式会社 コスメ・デ・ボーテ／Cosmé de Beauté Ltd.",
+      "types": [
+        "popup",
+        "free_sample",
+        "minigame",
+        "novelty",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷",
+      "startDate": "2026-07-01",
+      "endDate": "2026-07-07",
+      "url": "https://prtimes.jp/main/html/rd/p/000000124.000049074.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/49074/124/49074-124-e32a6237f2386dfd9619cab7d5643e40-2250x1267.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社コスメ・デ・ボーテ（本社：東京都渋谷区 代表取締役社長：吉田 明人）は、阪神梅田本店 C.CUBEにて、『ジェルミーワン』と『ジーニッシュマニキュア』の2ブランド合同でのPOPUPを7月1日（水）から7月7日（火…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-06-26T00:00:00.000Z"
     },
     {
       "id": "prt-foundue-premium-showcase-with-seo-in-guk-第二部プログラム詳細公開-東京-2026-07-09",
