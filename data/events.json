@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T22:53:39.288Z",
+  "updatedAt": "2026-06-30T23:07:56.102Z",
   "events": [
     {
       "id": "prt-韓国発ニッチフレグランスブランド-saranghaeyo-サランヘヨ-が-銀座-蔦屋書店にて期間限定ポップアップストアを開催-銀座-2026-06-01",
@@ -172,6 +172,31 @@
       "collectedAt": "2026-06-29T00:00:00.000Z"
     },
     {
+      "id": "prt-雪肌精-グローバルブランドミューズ-number-i-平野-紫耀-神宮寺-勇太-岸-優太-さんが-冷やし雪肌精-体感pop-up-sekkisei-coolin",
+      "title": "『雪肌精』グローバルブランドミューズ Number_i（平野 紫耀・神宮寺 勇太・岸 優太）さんが－“冷やし雪肌精”体感POP-UP－「SEKKISEI COOLING LOUNGE」に来場！",
+      "brand": "株式会社コーセー",
+      "types": [
+        "popup",
+        "free_sample",
+        "minigame",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "銀座",
+      "venue": "となるMaison KOSÉ銀座では",
+      "startDate": "2026-07-01",
+      "endDate": "2026-08-31",
+      "url": "https://prtimes.jp/main/html/rd/p/000000783.000041232.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/41232/783/41232-783-1ccab50d74628da85445a673e1f0d2ad-3456x2304.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社コーセー（本社：東京都中央区、代表取締役社長：田中慎二）は、当社のグローバルスキンケアブランド『雪肌精』にて、強い紫外線による乾燥などの肌ダメージが加速する夏の酷暑に、『雪肌精』をひんやりと冷やして使用することで…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
       "id": "prt-foundue-premium-showcase-with-seo-in-guk-第二部プログラム詳細公開-東京-2026-07-09",
       "title": "「FOUNDUE Premium Showcase with SEO IN GUK」第二部プログラム詳細公開！",
       "brand": "株式会社WAK",
@@ -238,6 +263,31 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-06-19T00:00:00.000Z"
+    },
+    {
+      "id": "prt-イベントレポート-イガリシノブによるメイクデモを披露-whomee-リブランディング発表会を開催-渋谷-2026-08-21",
+      "title": "【イベントレポート】イガリシノブによるメイクデモを披露「whomee」リブランディング発表会を開催",
+      "brand": "株式会社MUSCAT GROUP",
+      "types": [
+        "popup",
+        "free_sample",
+        "novelty",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "POP UP STORE",
+      "startDate": "2026-08-21",
+      "endDate": "2026-08-27",
+      "url": "https://prtimes.jp/main/html/rd/p/000000297.000019306.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/19306/297/19306-297-241e2e27ed7466486fd950d19f5fbad1-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社MUSCAT GROUP（本社：東京都渋谷区、代表取締役：大久保 遼、証券コード：195A）の連結子会社で、「WinK TO COMMUNITY」をミッションに、心躍るプロダクト・サービスを創出する株式会社Win…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-06-30T00:00:00.000Z"
     }
   ]
 }
