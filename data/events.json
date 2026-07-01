@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T23:07:56.102Z",
+  "updatedAt": "2026-07-01T23:11:18.571Z",
   "events": [
     {
       "id": "prt-韓国発ニッチフレグランスブランド-saranghaeyo-サランヘヨ-が-銀座-蔦屋書店にて期間限定ポップアップストアを開催-銀座-2026-06-01",
@@ -70,31 +70,6 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-06-08T00:00:00.000Z"
-    },
-    {
-      "id": "prt-ラ-プレリー-ヘラルボニーとの-アート-コラボレーションを展開-美へのまなざし-と-異彩-が響き合う-アートとアイケアの特別な体験-東京-2026-06-24",
-      "title": "〈ラ・プレリー〉ヘラルボニーとの、アート・コラボレーションを展開“美へのまなざし”と“異彩”が響き合う、アートとアイケアの特別な体験",
-      "brand": "ラ･プレリージャパン株式会社",
-      "types": [
-        "popup",
-        "free_sample",
-        "novelty",
-        "gift",
-        "workshop"
-      ],
-      "prefecture": "東京",
-      "area": "東京",
-      "venue": "東京",
-      "startDate": "2026-06-24",
-      "endDate": "2026-06-30",
-      "url": "https://prtimes.jp/main/html/rd/p/000000031.000156423.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/156423/31/156423-31-13c895f3a62521be5046b916f5ffa8d0-788x574.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "スイス発のラグジュアリースキンケアブランド〈ラ・プレリー〉は、株式会社ヘラルボニーとのアート・コラボレーションを展開いたします。 ヘラルボニーは、「異彩を、放て。」をミッションに、新たな文化の創出を目指すクリエイティブカ…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-06-17T00:00:00.000Z"
     },
     {
       "id": "prt-10日間で約10-000人以上が来場した話題の2an-popupが渋谷ロフトにカムバック-渋谷-2026-06-26",
@@ -194,6 +169,49 @@
       "freeSample": true,
       "hasGift": true,
       "hasGame": true,
+      "collectedAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "id": "prt-韓国no-1-ダーマコスメブランド-aestura-夏のインナードライ肌に着目したpop-upイベントをアインズ-トルペ-新宿東口店にて7月3日-金-より開催-",
+      "title": "韓国NO.1*ダーマコスメブランド「AESTURA」 夏のインナードライ肌に着目したPOP UPイベントをアインズ＆トルペ 新宿東口店にて7月3日(金)より開催",
+      "brand": "アモーレパシフィックジャパン株式会社",
+      "types": [
+        "popup",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "新宿",
+      "venue": "アインズ＆トルペ 新宿東口店",
+      "startDate": "2026-07-03",
+      "endDate": "2026-07-23",
+      "url": "https://prtimes.jp/main/html/rd/p/000000044.000119328.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/119328/44/119328-44-7a6ca19f20232bbd677cea84f129653b-2003x1350.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "韓国化粧品業界のリーディングカンパニーであるアモーレパシフィックの⽇本法⼈、アモーレパシフィックジャパン株式会社（所在地：東京都渋谷区）が展開する韓国No.1*ダーマコスメブランド「AESTURA」は、2026年7月3日…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "id": "prt-ファインダイニング発想の韓国発ビューティーブランドkuoca-クオカ-が-香水夏市curated-by-isetan-men-x27-s-に初出展-渋谷-202",
+      "title": "ファインダイニング発想の韓国発ビューティーブランドkuoca(クオカ)が「香水夏市curated by ISETAN MEN&#x27;S」に初出展",
+      "brand": "株式会社インテルコスメシ・ジャパン",
+      "types": [
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "伊勢丹新宿店メンズ館1階コスメティクス・プロモーション kuoca",
+      "startDate": "2026-07-08",
+      "endDate": "2026-07-28",
+      "url": "https://prtimes.jp/main/html/rd/p/000000062.000079227.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/79227/62/79227-62-e2563bb48e456b83587be9f913ec4679-3900x2602.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "kuoca(クオカ) イノベーティブな海外コスメ＆フレグランスブランドを展開する株式会社インテルコスメシ・ジャパン（本社：東京都渋谷区、代表取締役社⾧：豆田健司）は、日本総代理店として展開する韓国・ソウル発のファインダイ…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
       "collectedAt": "2026-07-01T00:00:00.000Z"
     },
     {
