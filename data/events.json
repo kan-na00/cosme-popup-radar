@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T23:11:18.571Z",
+  "updatedAt": "2026-07-02T23:01:33.072Z",
   "events": [
     {
       "id": "prt-韓国発ニッチフレグランスブランド-saranghaeyo-サランヘヨ-が-銀座-蔦屋書店にて期間限定ポップアップストアを開催-銀座-2026-06-01",
@@ -170,6 +170,31 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "id": "prt-cosme-nagoya-が誕生1周年-感謝を込めた特別イベント-1st-anniversary-with-thanks-を開催-東京-2026-07-01",
+      "title": "「@cosme NAGOYA」が誕生1周年！ 感謝を込めた特別イベント「1st Anniversary with Thanks!」を開催",
+      "brand": "株式会社アイスタイル",
+      "types": [
+        "popup",
+        "free_sample",
+        "minigame",
+        "novelty",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "東京",
+      "venue": "@cosme NAGOYA",
+      "startDate": "2026-07-01",
+      "endDate": "2026-07-07",
+      "url": "https://prtimes.jp/main/html/rd/p/000000500.000005126.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/5126/500/5126-500-613b507ae2982a34656f0b66290ae145-1080x720.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社アイスタイル（代表取締役社長：遠藤 宗）および連結子会社である株式会社アイスタイルリテールは、フラッグシップショップ＠cosme NAGOYAにて、オープン1周年を記念したキャンペーンイベント「@cosme NA…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-07-02T00:00:00.000Z"
     },
     {
       "id": "prt-韓国no-1-ダーマコスメブランド-aestura-夏のインナードライ肌に着目したpop-upイベントをアインズ-トルペ-新宿東口店にて7月3日-金-より開催-",
