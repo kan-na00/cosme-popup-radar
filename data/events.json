@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T23:01:33.072Z",
+  "updatedAt": "2026-07-03T22:58:54.332Z",
   "events": [
     {
       "id": "prt-韓国発ニッチフレグランスブランド-saranghaeyo-サランヘヨ-が-銀座-蔦屋書店にて期間限定ポップアップストアを開催-銀座-2026-06-01",
@@ -219,6 +219,27 @@
       "collectedAt": "2026-07-01T00:00:00.000Z"
     },
     {
+      "id": "prt-7月も継続決定-夏の予約争奪戦をリード-ハイクオリティな施術が実質最大半額-nailie-beauty-初回ヘア予約で最大5-000円分ポイント還元-渋谷-20",
+      "title": "【7月も継続決定！】夏の予約争奪戦をリード！ハイクオリティな施術が実質最大半額、『Nailie Beauty』初回ヘア予約で最大5,000円分ポイント還元",
+      "brand": "株式会社ネイリー",
+      "types": [
+        "popup"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷",
+      "startDate": "2026-07-04",
+      "endDate": "2026-07-31",
+      "url": "https://prtimes.jp/main/html/rd/p/000000082.000029775.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/29775/82/29775-82-70a96d72383ee7b2e8e3e18e07ee8ce3-3900x2274.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社ネイリー（本社：東京都渋谷区、代表取締役CEO：浅倉健吾）が運営する美容予約アプリ「Nailie Beauty（ネイリービューティー）」は、2026年7月4日（土）より、初めてヘア予約を利用するユーザーを対象とし…",
+      "freeSample": false,
+      "hasGift": false,
+      "hasGame": false,
+      "collectedAt": "2026-07-03T00:00:00.000Z"
+    },
+    {
       "id": "prt-ファインダイニング発想の韓国発ビューティーブランドkuoca-クオカ-が-香水夏市curated-by-isetan-men-x27-s-に初出展-渋谷-202",
       "title": "ファインダイニング発想の韓国発ビューティーブランドkuoca(クオカ)が「香水夏市curated by ISETAN MEN&#x27;S」に初出展",
       "brand": "株式会社インテルコスメシ・ジャパン",
@@ -262,6 +283,53 @@
       "collectedAt": "2026-06-19T00:00:00.000Z"
     },
     {
+      "id": "prt-ジェルミーワン-ジェルミーペタリー-ジーニッシュマニキュア-水森亜土とのコラボレーションを記念し-ハンズ名古屋店にて合同popupを開催-渋谷-2026-07-",
+      "title": "【ジェルミーワン・ジェルミーペタリー・ジーニッシュマニキュア】水森亜土とのコラボレーションを記念し、ハンズ名古屋店にて合同POPUPを開催",
+      "brand": "株式会社 コスメ・デ・ボーテ／Cosmé de Beauté Ltd.",
+      "types": [
+        "popup",
+        "free_sample",
+        "novelty",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷",
+      "startDate": "2026-07-10",
+      "endDate": "2026-08-02",
+      "url": "https://prtimes.jp/main/html/rd/p/000000125.000049074.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/49074/125/49074-125-a4b2f864085371528cb3d47a861adf49-1080x608.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社コスメ・デ・ボーテ（本社：東京都渋谷区 代表取締役社長：吉田 明人）は、世代を超えて愛される人気イラストレーター・水森亜土とのコラボレーションを記念し、ハンズ名古屋店にて『ジェルミーワン』『ジェルミーペタリー』『…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-07-03T00:00:00.000Z"
+    },
+    {
+      "id": "prt-錦糸町パルコ-おもちゃ箱を開けたようなワクワクを-暮らしを彩る世界の最旬雑貨が大集合する-favorite-pick-up-pop-up-store-を7月10",
+      "title": "【錦糸町パルコ】おもちゃ箱を開けたようなワクワクを！暮らしを彩る世界の最旬雑貨が大集合する『FAVORITE PICK-UP POP-UP STORE！』を7月10日(金)より開催！",
+      "brand": "株式会社ヴィレッジヴァンガードコーポレーション",
+      "types": [
+        "popup",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "錦糸町",
+      "venue": "錦糸町パルコ 2F 特設会場",
+      "startDate": "2026-07-10",
+      "endDate": "2026-08-30",
+      "url": "https://prtimes.jp/main/html/rd/p/000006337.000018131.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/18131/6337/18131-6337-1f15f5d964802a76fcacb6bfc56a3cdd-1909x2700.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "錦糸町パルコ（東京都墨田区）では、2026年7月10日（金）から8月30日（日）までの52日間、国内外で今注目を集めるライフスタイル雑貨やビューティーブランドを集めた期間限定ショップ『FAVORITE PICK-UP P…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-07-03T00:00:00.000Z"
+    },
+    {
       "id": "prt-かぢボディ-で話題-腸活ブーム-の火付け役-加治ひとみさんが登壇-スペシャルトークイベント-panasonic-beauty-omotesando-meets-",
       "title": "“かぢボディ”で話題。〈腸活ブーム〉の火付け役・加治ひとみさんが登壇。スペシャルトークイベント「Panasonic Beauty OMOTESANDO meets 加治ひとみ」を7月11日（土）に開催",
       "brand": "パナソニック株式会社",
@@ -283,6 +351,30 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-06-12T00:00:00.000Z"
+    },
+    {
+      "id": "prt-sns投稿でトライアルサイズ現品が当たる-話題の-オルビス-ザ-クレンジング-オイル-が体験できるイベント-オルビスlab-を2026年7月15日から7月21日",
+      "title": "SNS投稿でトライアルサイズ現品が当たる！話題の『オルビス ザ クレンジング オイル』が体験できるイベント「オルビスLAB.」を2026年7月15日から7月21日まで@cosme OSAKAにて開催！",
+      "brand": "オルビス株式会社",
+      "types": [
+        "popup",
+        "free_sample",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "東京",
+      "venue": "にて開催した体験イベントでは",
+      "startDate": "2026-07-15",
+      "endDate": "2026-07-21",
+      "url": "https://prtimes.jp/main/html/rd/p/000000722.000002061.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/2061/722/2061-722-5f6013de2f4efcd1169d4f23c17475ab-3796x2126.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "オルビス株式会社（本社：東京都品川区、代表取締役社長：山口 裕絵）は、2026年7月15日(水)～7月21日(火)の期間、@cosme OSAKA（大阪市北区梅田3-1-3 ルクア イーレ 3F）にて国内史上初の快挙※1…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-07-03T00:00:00.000Z"
     },
     {
       "id": "prt-nhkカルチャー-キレイの最前線-が福岡に-nカル美容フェス-7月18日-土-19日-日-に初開催-青山-2026-07-18",
