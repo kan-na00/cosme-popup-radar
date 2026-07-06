@@ -1,54 +1,6 @@
 {
-  "updatedAt": "2026-07-05T22:58:57.928Z",
+  "updatedAt": "2026-07-06T23:04:02.689Z",
   "events": [
-    {
-      "id": "prt-カワイイ文化の先駆け-水森亜土とコスメ-デ-ボーテが初コラボレーション-ジェルミーワン-ジェルミーペタリー-ジーニッシュマニキュア-から-レトロカワイイ-ネイル",
-      "title": "カワイイ文化の先駆け・水森亜土とコスメ・デ・ボーテが初コラボレーション​「ジェルミーワン」「ジェルミーペタリー」「ジーニッシュマニキュア」から​レトロカワイイ♡ネイルコレクションが6月22日（月）発売",
-      "brand": "株式会社 コスメ・デ・ボーテ／Cosmé de Beauté Ltd.",
-      "types": [
-        "popup",
-        "free_sample",
-        "novelty"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "渋谷",
-      "startDate": "2026-06-22",
-      "endDate": "2026-07-05",
-      "url": "https://prtimes.jp/main/html/rd/p/000000119.000049074.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/49074/119/49074-119-ecc6a8fb2a5324b78efc16ec7d40b01c-1080x608.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "株式会社コスメ・デ・ボーテ（本社：東京都渋谷区 代表取締役社長：吉田 明人）は、世代を超えて愛される人気アーティスト・水森亜土とのコラボレーションによる限定ネイルコレクションを発売します。​ 本コレクションは、「KAWA…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-06-04T00:00:00.000Z"
-    },
-    {
-      "id": "prt-banila-co-seventeen-jeonghanのビジュアル登場-6月24日よりpopup-storeをzerobase表参道にて開催-表参道-2026",
-      "title": "【BANILA CO】SEVENTEEN JEONGHANのビジュアル登場！6月24日よりPOPUP STOREをZeroBase表参道にて開催！",
-      "brand": "モノック株式会社",
-      "types": [
-        "popup",
-        "free_sample",
-        "minigame",
-        "novelty",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "表参道",
-      "venue": "ZeroBase表参道",
-      "startDate": "2026-06-24",
-      "endDate": "2026-07-05",
-      "url": "https://prtimes.jp/main/html/rd/p/000000181.000016416.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/16416/181/16416-181-7dc4b7084b3ee68748f1fa8231f104e3-2400x1200.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "韓国発の大人気コスメブランド BANILA CO（バニラコ） が、2026年6月にZeroBase表参道に期間限定POPUP STOREを開催！ 今回のPOPUP STOREでは、バニラコの大人気「エッセンス スキン ク…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-06-08T00:00:00.000Z"
-    },
     {
       "id": "prt-10日間で約10-000人以上が来場した話題の2an-popupが渋谷ロフトにカムバック-渋谷-2026-06-26",
       "title": "10日間で約10,000人以上が来場した話題の2aN POPUPが渋谷ロフトにカムバック！",
@@ -218,6 +170,28 @@
       "collectedAt": "2026-07-03T00:00:00.000Z"
     },
     {
+      "id": "prt-アタイと無敵にかがやいちゃおうよ-11万粒のデコストーンで無敵にかがやくクロミが渋谷に巨大野外広告で出現-7月6日-月-7月12日-日-shibuya109渋谷",
+      "title": "「アタイと無敵にかがやいちゃおうよ」　11万粒のデコストーンで無敵にかがやくクロミが渋谷に巨大野外広告で出現　7月6日（月）-7月12日（日）SHIBUYA109渋谷店にて公開",
+      "brand": "ユニリーバ・ジャパン・カスタマーマーケティング株式会社",
+      "types": [
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "”が登場します",
+      "startDate": "2026-07-06",
+      "endDate": "2026-07-12",
+      "url": "https://prtimes.jp/main/html/rd/p/000000214.000086691.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/86691/214/86691-214-b0c848e6949ec3cc8890d0add679306e-3900x2599.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "ユニリーバ・ジャパン・カスタマーマーケティング株式会社（本社：東京都目黒区、代表取締役社長：エド・ブリオラ）が展開するトータルビューティーケアブランド「LUX（ラックス）」は、株式会社サンリオの人気キャラクター「クロミ」…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-07-06T00:00:00.000Z"
+    },
+    {
       "id": "prt-ファインダイニング発想の韓国発ビューティーブランドkuoca-クオカ-が-香水夏市curated-by-isetan-men-x27-s-に初出展-渋谷-202",
       "title": "ファインダイニング発想の韓国発ビューティーブランドkuoca(クオカ)が「香水夏市curated by ISETAN MEN&#x27;S」に初出展",
       "brand": "株式会社インテルコスメシ・ジャパン",
@@ -353,6 +327,29 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-07-03T00:00:00.000Z"
+    },
+    {
+      "id": "prt-アクシージア-cosme-osakaにて2026年7月15日-水-7月21日-火-popup開催-lisblancの心地よさに出会う特別な一週間-新宿-2026",
+      "title": "【アクシージア】@cosme OSAKAにて2026年7月15日（水）～7月21日（火） POPUP開催！LisBlancの心地よさに出会う特別な一週間",
+      "brand": "株式会社アクシージア",
+      "types": [
+        "popup",
+        "free_sample",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "新宿",
+      "venue": "新宿",
+      "startDate": "2026-07-15",
+      "endDate": "2026-07-21",
+      "url": "https://prtimes.jp/main/html/rd/p/000000213.000067650.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/67650/213/67650-213-1005e6985249e6756199c288e12330d5-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社アクシージア（本社：東京都新宿区、代表取締役社長：段 卓）は、2026年7月15日（水）から7月21日（火）まで、@cosme OSAKAにて期間限定のPOPUPイベントを開催いたします。今回のPOPUPでは、リ…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-07-06T00:00:00.000Z"
     },
     {
       "id": "prt-nhkカルチャー-キレイの最前線-が福岡に-nカル美容フェス-7月18日-土-19日-日-に初開催-青山-2026-07-18",
