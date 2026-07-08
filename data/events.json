@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T22:57:52.566Z",
+  "updatedAt": "2026-07-08T23:02:51.229Z",
   "events": [
     {
       "id": "prt-10日間で約10-000人以上が来場した話題の2an-popupが渋谷ロフトにカムバック-渋谷-2026-06-26",
@@ -25,32 +25,6 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-06-24T00:00:00.000Z"
-    },
-    {
-      "id": "prt-ジェルミーワン-ジーニッシュマニキュア-阪神梅田本店-c-cubeにて合同popupを開催-渋谷-2026-07-01",
-      "title": "【ジェルミーワン・ジーニッシュマニキュア】​阪神梅田本店 C.CUBEにて合同POPUPを開催​",
-      "brand": "株式会社 コスメ・デ・ボーテ／Cosmé de Beauté Ltd.",
-      "types": [
-        "popup",
-        "free_sample",
-        "minigame",
-        "novelty",
-        "gift",
-        "workshop"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "渋谷",
-      "startDate": "2026-07-01",
-      "endDate": "2026-07-07",
-      "url": "https://prtimes.jp/main/html/rd/p/000000124.000049074.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/49074/124/49074-124-e32a6237f2386dfd9619cab7d5643e40-2250x1267.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "株式会社コスメ・デ・ボーテ（本社：東京都渋谷区 代表取締役社長：吉田 明人）は、阪神梅田本店 C.CUBEにて、『ジェルミーワン』と『ジーニッシュマニキュア』の2ブランド合同でのPOPUPを7月1日（水）から7月7日（火…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-06-26T00:00:00.000Z"
     },
     {
       "id": "prt-韓国発スキンケアブランド-manyo-期間限定pop-upを銀座ロフトで開催-銀座-2026-07-01",
@@ -100,31 +74,6 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-07-01T00:00:00.000Z"
-    },
-    {
-      "id": "prt-cosme-nagoya-が誕生1周年-感謝を込めた特別イベント-1st-anniversary-with-thanks-を開催-東京-2026-07-01",
-      "title": "「@cosme NAGOYA」が誕生1周年！ 感謝を込めた特別イベント「1st Anniversary with Thanks!」を開催",
-      "brand": "株式会社アイスタイル",
-      "types": [
-        "popup",
-        "free_sample",
-        "minigame",
-        "novelty",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "東京",
-      "venue": "@cosme NAGOYA",
-      "startDate": "2026-07-01",
-      "endDate": "2026-07-07",
-      "url": "https://prtimes.jp/main/html/rd/p/000000500.000005126.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/5126/500/5126-500-613b507ae2982a34656f0b66290ae145-1080x720.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "株式会社アイスタイル（代表取締役社長：遠藤 宗）および連結子会社である株式会社アイスタイルリテールは、フラッグシップショップ＠cosme NAGOYAにて、オープン1周年を記念したキャンペーンイベント「@cosme NA…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-07-02T00:00:00.000Z"
     },
     {
       "id": "prt-韓国no-1-ダーマコスメブランド-aestura-夏のインナードライ肌に着目したpop-upイベントをアインズ-トルペ-新宿東口店にて7月3日-金-より開催-",
@@ -373,6 +322,52 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-06-19T00:00:00.000Z"
+    },
+    {
+      "id": "prt-hmv-books-shibuya-10周年-お客様がエンタメと出会い-体験し-共感する空間-をテーマにした店舗リニューアル第2弾-イベントスペースの増設やコス",
+      "title": "【HMV&BOOKS SHIBUYA 10周年】「お客様がエンタメと出会い、体験し、共感する空間」をテーマにした店舗リニューアル第2弾 イベントスペースの増設やコスメエリアへの新コンセプト導入など",
+      "brand": "株式会社ローソンエンタテインメント",
+      "types": [
+        "free_sample",
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "東京",
+      "venue": "リニューアル第2弾として",
+      "startDate": "2026-07-18",
+      "endDate": "2026-07-31",
+      "url": "https://prtimes.jp/main/html/rd/p/000000690.000034304.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/34304/690/34304-690-9b3116fdd3dbf02b087afbc1bd2fec26-2243x1785.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社ローソンエンタテインメント（本社：東京都品川区、代表取締役社長：野口 透）が運営する「HMV＆BOOKS SHIBUYA」は、オープン10周年を記念した店舗リニューアル第2弾として、2026年7月18日(土)にイ…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-07-08T00:00:00.000Z"
+    },
+    {
+      "id": "prt-マッシュグループの人気ファッション-ビューティー18ブランド横断型の5日間限定イベント-mash-summer-week-2026-が今年も開催決定-第2回目は",
+      "title": "マッシュグループの人気ファッション&ビューティー18ブランド横断型の5日間限定イベント「MASH SUMMER WEEK 2026」が今年も開催決定！第2回目は「サンリオキャラクターズ」がナビゲート！",
+      "brand": "株式会社マッシュホールディングス",
+      "types": [
+        "popup",
+        "novelty",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "西武渋谷店",
+      "startDate": "2026-07-25",
+      "endDate": "2026-08-05",
+      "url": "https://prtimes.jp/main/html/rd/p/000004284.000018505.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/18505/4284/18505-4284-724a3aa316e826eb0156682bc96f82db-1152x1440.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "ファッション、ビューティー、フード等の事業を展開する株式会社マッシュホールディングス（本社：東京都千代田区、代表取締役社長：近藤広幸）が展開するマッシュグループ公式アプリ「MASH STORE(マッシュ ストア)」と株式…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-07-08T00:00:00.000Z"
     },
     {
       "id": "prt-イベントレポート-イガリシノブによるメイクデモを披露-whomee-リブランディング発表会を開催-渋谷-2026-08-21",
