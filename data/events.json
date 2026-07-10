@@ -1,30 +1,28 @@
 {
-  "updatedAt": "2026-07-09T23:08:30.294Z",
+  "updatedAt": "2026-07-10T22:57:29.331Z",
   "events": [
     {
-      "id": "prt-10日間で約10-000人以上が来場した話題の2an-popupが渋谷ロフトにカムバック-渋谷-2026-06-26",
-      "title": "10日間で約10,000人以上が来場した話題の2aN POPUPが渋谷ロフトにカムバック！",
-      "brand": "WONDER LINE Co.,Ltd.",
+      "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
+      "title": "7月のパナソニックビューティ表参道では、人気コスメブランドSISIの人気アイテムが当たる体験ビンゴラリーを実施中。",
+      "brand": "パナソニック株式会社",
       "types": [
-        "popup",
         "free_sample",
-        "novelty",
-        "gift",
-        "workshop"
+        "minigame",
+        "gift"
       ],
       "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "渋谷",
-      "startDate": "2026-06-26",
-      "endDate": "2026-07-09",
-      "url": "https://prtimes.jp/main/html/rd/p/000000172.000013975.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/13975/172/13975-172-a5ff13f7112057cc8d1882aa93338e2d-820x461.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "area": "表参道",
+      "venue": "表参道",
+      "startDate": "2026-05-18",
+      "endDate": "2026-10-31",
+      "url": "https://prtimes.jp/main/html/rd/p/000000031.000163417.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/163417/31/163417-31-20778d8e169e46d951452ece51bc790b-2481x1748.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "source": "PR TIMES",
-      "description": "韓国発のメイクアップブランド「2aN（トゥーエーエヌ）」の日本総代理店であるWONDER LINE株式会社（本社：東京都渋谷区）は、2026年6月26日（金）から7月9日（木）までの期間、渋谷ロフトにてPOPUPイベント…",
+      "description": "パナソニック株式会社（以下、パナソニック）は、パナソニックの美容アイテムを体験できるパナソニックビューティ表参道にて2026年夏も性別・年代問わずお立ち寄りいただける美容イベントを多数開催しております。 パナソニックビュ…",
       "freeSample": true,
       "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-06-24T00:00:00.000Z"
+      "hasGame": true,
+      "collectedAt": "2026-07-10T00:00:00.000Z"
     },
     {
       "id": "prt-韓国発スキンケアブランド-manyo-期間限定pop-upを銀座ロフトで開催-銀座-2026-07-01",
@@ -160,28 +158,6 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-07-01T00:00:00.000Z"
-    },
-    {
-      "id": "prt-foundue-premium-showcase-with-seo-in-guk-第二部プログラム詳細公開-東京-2026-07-09",
-      "title": "「FOUNDUE Premium Showcase with SEO IN GUK」第二部プログラム詳細公開！",
-      "brand": "株式会社WAK",
-      "types": [
-        "minigame",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "東京",
-      "venue": "全体が一体となって楽しめる特別企画満載です",
-      "startDate": "2026-07-09",
-      "endDate": "2026-07-09",
-      "url": "https://prtimes.jp/main/html/rd/p/000000030.000168735.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/168735/30/168735-30-6f22932002112b02421be5b725d48c99-1104x1440.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "「FOUNDUE Premium Showcase with SEO IN GUK」では、ブランドの世界観やビューティートークをお届けする第一部に続き、第二部ではソ・イングクとファンの皆さまが一緒に楽しめる参加型プログラ…",
-      "freeSample": false,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-06-19T00:00:00.000Z"
     },
     {
       "id": "prt-ジェルミーワン-ジェルミーペタリー-ジーニッシュマニキュア-水森亜土とのコラボレーションを記念し-ハンズ名古屋店にて合同popupを開催-渋谷-2026-07-",
