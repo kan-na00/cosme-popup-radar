@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T22:43:07.908Z",
+  "updatedAt": "2026-07-13T22:53:22.466Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -117,28 +117,6 @@
       "collectedAt": "2026-07-03T00:00:00.000Z"
     },
     {
-      "id": "prt-アタイと無敵にかがやいちゃおうよ-11万粒のデコストーンで無敵にかがやくクロミが渋谷に巨大野外広告で出現-7月6日-月-7月12日-日-shibuya109渋谷",
-      "title": "「アタイと無敵にかがやいちゃおうよ」　11万粒のデコストーンで無敵にかがやくクロミが渋谷に巨大野外広告で出現　7月6日（月）-7月12日（日）SHIBUYA109渋谷店にて公開",
-      "brand": "ユニリーバ・ジャパン・カスタマーマーケティング株式会社",
-      "types": [
-        "minigame",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "”が登場します",
-      "startDate": "2026-07-06",
-      "endDate": "2026-07-12",
-      "url": "https://prtimes.jp/main/html/rd/p/000000214.000086691.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/86691/214/86691-214-b0c848e6949ec3cc8890d0add679306e-3900x2599.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "ユニリーバ・ジャパン・カスタマーマーケティング株式会社（本社：東京都目黒区、代表取締役社長：エド・ブリオラ）が展開するトータルビューティーケアブランド「LUX（ラックス）」は、株式会社サンリオの人気キャラクター「クロミ」…",
-      "freeSample": false,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-07-06T00:00:00.000Z"
-    },
-    {
       "id": "prt-ファインダイニング発想の韓国発ビューティーブランドkuoca-クオカ-が-香水夏市curated-by-isetan-men-x27-s-に初出展-渋谷-202",
       "title": "ファインダイニング発想の韓国発ビューティーブランドkuoca(クオカ)が「香水夏市curated by ISETAN MEN&#x27;S」に初出展",
       "brand": "株式会社インテルコスメシ・ジャパン",
@@ -252,6 +230,29 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-07-06T00:00:00.000Z"
+    },
+    {
+      "id": "prt-美と健康のインナーケアサロンが名駅に-夏の-隠れバテ-を5分で可視化-エステプロ-ラボがジェイアール名古屋タカシマヤに期間限定オープン-銀座-2026-07-1",
+      "title": "【美と健康のインナーケアサロンが名駅に】夏の“隠れバテ”を5分で可視化 エステプロ・ラボがジェイアール名古屋タカシマヤに期間限定オープン",
+      "brand": "株式会社プロラボホールディングス",
+      "types": [
+        "popup",
+        "free_sample",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "銀座",
+      "venue": "情報】",
+      "startDate": "2026-07-15",
+      "endDate": "2026-08-04",
+      "url": "https://prtimes.jp/main/html/rd/p/000000155.000018221.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/18221/155/18221-155-004618afd2397826fd772d6066efc3df-3900x2600.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社プロラボホールディングス（東京都港区、代表取締役会長 兼 CEO：佐々木広行）は、2026年7月15日(水)～8月4日（火）の期間、ジェイアール名古屋タカシマヤ本館9Fイベントスポット2 にて、インナービューティ…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-07-13T00:00:00.000Z"
     },
     {
       "id": "prt-nhkカルチャー-キレイの最前線-が福岡に-nカル美容フェス-7月18日-土-19日-日-に初開催-青山-2026-07-18",
