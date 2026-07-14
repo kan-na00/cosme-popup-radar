@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T22:53:22.466Z",
+  "updatedAt": "2026-07-14T22:54:51.896Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -253,6 +253,29 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-07-13T00:00:00.000Z"
+    },
+    {
+      "id": "prt-スポーツビューティーブランド-one-breath-が-渋谷の老舗銭湯-改良湯-とコラボレーション-期間限定イベント-ワンブレスの湯-を開催-渋谷-2026-0",
+      "title": "スポーツビューティーブランド「ONE BREATH」が、渋谷の老舗銭湯「改良湯」とコラボレーション。期間限定イベント『ワンブレスの湯』を開催",
+      "brand": "株式会社BUB",
+      "types": [
+        "free_sample",
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "を通じて",
+      "startDate": "2026-07-15",
+      "endDate": "2026-07-29",
+      "url": "https://prtimes.jp/main/html/rd/p/000000020.000108126.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/108126/20/108126-20-c1ca24f12fa27982ab56cc75297fbdd7-3900x2346.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社BUB（本社：東京都渋谷区）は、2026年7月15日（水）から7月29日（水）までの期間、創業111年目を迎える渋谷区の老舗銭湯「改良湯」とコラボレーションし、期間限定イベント『ワンブレスの湯』を開催いたします。…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-07-14T00:00:00.000Z"
     },
     {
       "id": "prt-nhkカルチャー-キレイの最前線-が福岡に-nカル美容フェス-7月18日-土-19日-日-に初開催-青山-2026-07-18",
