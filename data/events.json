@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T22:54:51.896Z",
+  "updatedAt": "2026-07-15T22:56:20.965Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -370,6 +370,27 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-06-30T00:00:00.000Z"
+    },
+    {
+      "id": "prt-伊勢丹新宿店の化粧品フロアが2027年夏-リフレッシュオープン-グローバルビューティーアミューズメントフロア-へ進化-新宿-2026-10-08",
+      "title": "伊勢丹新宿店の化粧品フロアが2027年夏 リフレッシュオープン。「グローバルビューティーアミューズメントフロア」へ進化",
+      "brand": "株式会社　三越伊勢丹ホールディングス",
+      "types": [
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "新宿",
+      "venue": "にて初のアート個展を開催予定です",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-12",
+      "url": "https://prtimes.jp/main/html/rd/p/000003084.000008372.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/8372/3084/8372-3084-a331f4dbc48d14664b594fd65793810e-960x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "三越伊勢丹グループは、「お客さまの暮らしを豊かにする“特別な”百貨店」を目指し、世界中から支持される高感度・上質消費の実現に取り組んでいます。 その中核となる化粧品フロアは、このたび「グローバル ビューティー アミューズ…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-07-15T00:00:00.000Z"
     }
   ]
 }
