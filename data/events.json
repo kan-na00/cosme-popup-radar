@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T22:56:20.965Z",
+  "updatedAt": "2026-07-16T22:54:27.602Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -345,6 +345,52 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-07-08T00:00:00.000Z"
+    },
+    {
+      "id": "prt-コスメのサステナブルな活用を追求したポップアップストアを開催-全18ブランドが集結の-コスメリゴランドストア-supported-by-cosme-kitche",
+      "title": "コスメのサステナブルな活用を追求したポップアップストアを開催！全18ブランドが集結の「コスメリゴランドストア supported by Cosme Kitchen」ルミネ新宿にて3社協業で実施",
+      "brand": "株式会社マッシュホールディングス",
+      "types": [
+        "popup",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "新宿",
+      "venue": "ルミネ新宿 ルミネ1 2F 「Gallery1」 l 内容 【コンテンツ①】ポップアップ",
+      "startDate": "2026-07-25",
+      "endDate": "2026-07-25",
+      "url": "https://prtimes.jp/main/html/rd/p/000004306.000018505.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/18505/4306/18505-4306-a76ccaba4791c6c196dd6924a37c2259-1521x1034.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社マッシュビューティーラボ(東京都千代田区/代表取締役社長 豊山YAMU陽子)が運営するナチュラル＆オーガニックのセレクトショップ「Cosme Kitchen（コスメキッチン）」は、株式会社ルミネ、サステナブルコス…",
+      "freeSample": false,
+      "hasGift": false,
+      "hasGame": false,
+      "collectedAt": "2026-07-16T00:00:00.000Z"
+    },
+    {
+      "id": "prt-oxo-project-韓国薬局コスメ-exoproxyl-が日本初上陸-ジョンズ-ホプキンス大学出身の創業者が手がけるforbes受賞ブランドが表参道に登場-",
+      "title": "【OXO Project】韓国薬局コスメ「EXOPROXYL」が日本初上陸。ジョンズ・ホプキンス大学出身の創業者が手がけるForbes受賞ブランドが表参道に登場",
+      "brand": "株式会社IROA",
+      "types": [
+        "popup",
+        "free_sample",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "表参道",
+      "venue": "表参道",
+      "startDate": "2026-08-07",
+      "endDate": "2026-08-09",
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000169123.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/169123/13/169123-13-b95097aeb1b440e1abc81c5e2e3c3fbd-3900x2699.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "韓国発のスキンケアブランド「EXOPROXYL（エクソプロキシル）」が、株式会社IROAが主催する韓国ウェルネス＆ビューティーPOP UP「OXO Project」に出展します。 本イベントは、2026年8月7日（金）か…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-07-16T00:00:00.000Z"
     },
     {
       "id": "prt-イベントレポート-イガリシノブによるメイクデモを披露-whomee-リブランディング発表会を開催-渋谷-2026-08-21",
