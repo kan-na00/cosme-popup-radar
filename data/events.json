@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T22:54:27.602Z",
+  "updatedAt": "2026-07-17T22:44:49.173Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -276,6 +276,29 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-07-14T00:00:00.000Z"
+    },
+    {
+      "id": "prt-医療従事者が-今日の自分を-整える-three-classico-コラボレーションスクラブ-7月16日-木-発売-丸の内-2026-07-16",
+      "title": "医療従事者が「今日の自分を、整える。」THREE × Classico コラボレーションスクラブ、7月16日(木)発売",
+      "brand": "クラシコ株式会社",
+      "types": [
+        "free_sample",
+        "novelty",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "丸の内",
+      "venue": "にて発売いたします",
+      "startDate": "2026-07-16",
+      "endDate": "2026-08-02",
+      "url": "https://prtimes.jp/main/html/rd/p/000000200.000018274.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/18274/200/18274-200-ca46736aa4d55925c29e5c795702be3c-2880x1512.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "テーラード技術を取り入れた白衣を中心に、メディカルアパレルの企画・開発・販売を行うクラシコ株式会社（所在地：東京都港区／代表取締役CEO：大和 新）は、株式会社ACRO（所在地：東京都品川区／代表取締役社長：宮﨑 稔章）…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-07-16T00:00:00.000Z"
     },
     {
       "id": "prt-nhkカルチャー-キレイの最前線-が福岡に-nカル美容フェス-7月18日-土-19日-日-に初開催-青山-2026-07-18",
