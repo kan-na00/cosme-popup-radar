@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T22:56:13.240Z",
+  "updatedAt": "2026-07-21T22:52:28.656Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -324,6 +324,29 @@
       "collectedAt": "2026-07-08T00:00:00.000Z"
     },
     {
+      "id": "prt-ジルスチュアート-ビューティ-フォールコレクション-blooming-chiffon-をコンセプトにした先行販売pop-up-イベントを全国三都市にて開催-新宿",
+      "title": "【ジルスチュアート　ビューティ】フォールコレクション❝Blooming Chiffon❞をコンセプトにした先行販売POP UP イベントを全国三都市にて開催。",
+      "brand": "株式会社コーセー（戦略ブランド事業部）",
+      "types": [
+        "popup",
+        "novelty",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "新宿",
+      "venue": "阪急うめだ本店 2階プロモーションスペース21",
+      "startDate": "2026-07-22",
+      "endDate": "2026-07-28",
+      "url": "https://prtimes.jp/main/html/rd/p/000000172.000047341.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/47341/172/47341-172-6cdc78742d1623f39cb98040db2b8d6d-1592x1125.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "ジルスチュアート ビューティは、2026年7月22日（水）から阪急うめだ本店を皮切りに、伊勢丹新宿店、ジェイアール名古屋タカシマヤにてPOP UP イベントを開催いたします。 フォールコレクション❝Blooming Ch…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-07-21T00:00:00.000Z"
+    },
+    {
       "id": "prt-マッシュグループの人気ファッション-ビューティー18ブランド横断型の5日間限定イベント-mash-summer-week-2026-が今年も開催決定-第2回目は",
       "title": "マッシュグループの人気ファッション&ビューティー18ブランド横断型の5日間限定イベント「MASH SUMMER WEEK 2026」が今年も開催決定！第2回目は「サンリオキャラクターズ」がナビゲート！",
       "brand": "株式会社マッシュホールディングス",
@@ -391,6 +414,28 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-07-16T00:00:00.000Z"
+    },
+    {
+      "id": "prt-化粧文化ギャラリー-夏休みキッズデーを開催-青山-2026-08-20",
+      "title": "化粧文化ギャラリー、夏休みキッズデーを開催",
+      "brand": "ポーラ文化研究所",
+      "types": [
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "青山",
+      "venue": "ポーラ青山ビル",
+      "startDate": "2026-08-20",
+      "endDate": "2026-08-20",
+      "url": "https://prtimes.jp/main/html/rd/p/000000038.000046215.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/46215/38/46215-38-24ff22458228bb3656713b6c8b559249-1909x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "「夏休みキッズデー」フライヤー ポーラ文化研究所（東京・港区南青山）が運営する化粧文化ギャラリーにて、夏休み企画として予約不要・参加無料の「夏休みキッズデー」を開催します。本イベントは、昨年に続き今回で2回目となり、新た…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-07-21T00:00:00.000Z"
     },
     {
       "id": "prt-イベントレポート-イガリシノブによるメイクデモを披露-whomee-リブランディング発表会を開催-渋谷-2026-08-21",
