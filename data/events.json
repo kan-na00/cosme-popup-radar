@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T22:54:59.112Z",
+  "updatedAt": "2026-07-29T22:57:16.467Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -69,27 +69,6 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-07-03T00:00:00.000Z"
-    },
-    {
-      "id": "prt-ファインダイニング発想の韓国発ビューティーブランドkuoca-クオカ-が-香水夏市curated-by-isetan-men-x27-s-に初出展-渋谷-202",
-      "title": "ファインダイニング発想の韓国発ビューティーブランドkuoca(クオカ)が「香水夏市curated by ISETAN MEN&#x27;S」に初出展",
-      "brand": "株式会社インテルコスメシ・ジャパン",
-      "types": [
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "伊勢丹新宿店メンズ館1階コスメティクス・プロモーション kuoca",
-      "startDate": "2026-07-08",
-      "endDate": "2026-07-28",
-      "url": "https://prtimes.jp/main/html/rd/p/000000062.000079227.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/79227/62/79227-62-e2563bb48e456b83587be9f913ec4679-3900x2602.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "kuoca(クオカ) イノベーティブな海外コスメ＆フレグランスブランドを展開する株式会社インテルコスメシ・ジャパン（本社：東京都渋谷区、代表取締役社⾧：豆田健司）は、日本総代理店として展開する韓国・ソウル発のファインダイ…",
-      "freeSample": false,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-07-01T00:00:00.000Z"
     },
     {
       "id": "prt-ジェルミーワン-ジェルミーペタリー-ジーニッシュマニキュア-水森亜土とのコラボレーションを記念し-ハンズ名古屋店にて合同popupを開催-渋谷-2026-07-",
@@ -229,29 +208,6 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-07-08T00:00:00.000Z"
-    },
-    {
-      "id": "prt-ジルスチュアート-ビューティ-フォールコレクション-blooming-chiffon-をコンセプトにした先行販売pop-up-イベントを全国三都市にて開催-新宿",
-      "title": "【ジルスチュアート　ビューティ】フォールコレクション❝Blooming Chiffon❞をコンセプトにした先行販売POP UP イベントを全国三都市にて開催。",
-      "brand": "株式会社コーセー（戦略ブランド事業部）",
-      "types": [
-        "popup",
-        "novelty",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "新宿",
-      "venue": "阪急うめだ本店 2階プロモーションスペース21",
-      "startDate": "2026-07-22",
-      "endDate": "2026-07-28",
-      "url": "https://prtimes.jp/main/html/rd/p/000000172.000047341.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/47341/172/47341-172-6cdc78742d1623f39cb98040db2b8d6d-1592x1125.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "ジルスチュアート ビューティは、2026年7月22日（水）から阪急うめだ本店を皮切りに、伊勢丹新宿店、ジェイアール名古屋タカシマヤにてPOP UP イベントを開催いたします。 フォールコレクション❝Blooming Ch…",
-      "freeSample": false,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-07-21T00:00:00.000Z"
     },
     {
       "id": "prt-韓国発コスメブランド-too-cool-for-school-渋谷ロフトで期間限定pop-upイベントを開催-人気商品やオリジナルグッズが当たるsnsキャンペー",
