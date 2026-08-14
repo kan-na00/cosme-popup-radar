@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T22:36:57.115Z",
+  "updatedAt": "2026-08-14T22:17:57.891Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -70,31 +70,6 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-07-03T00:00:00.000Z"
-    },
-    {
-      "id": "prt-韓国発コスメブランド-too-cool-for-school-渋谷ロフトで期間限定pop-upイベントを開催-人気商品やオリジナルグッズが当たるsnsキャンペー",
-      "title": "韓国発コスメブランド「too cool for school」渋谷ロフトで期間限定POP-UPイベントを開催／人気商品やオリジナルグッズが当たるSNSキャンペーンも実施",
-      "brand": "TOO COOL FOR SCHOOL CO., LTD",
-      "types": [
-        "popup",
-        "free_sample",
-        "minigame",
-        "novelty",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "にて「too cool for school」の商品を1点以上ご購入いただき",
-      "startDate": "2026-07-24",
-      "endDate": "2026-08-13",
-      "url": "https://prtimes.jp/main/html/rd/p/000000029.000119385.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/119385/29/119385-29-1f6620adf49a1cc2ef3038155119370c-1280x800.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "韓国発のコスメブランド「too cool for school（トゥークールフォースクール）」は、7月24日（金）～8月13日（木）に渋谷ロフト2階美容・健康雑貨フロアにてPOP-UPイベントを開催いたします。本POP-…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-07-21T00:00:00.000Z"
     },
     {
       "id": "prt-化粧文化ギャラリー-夏休みキッズデーを開催-青山-2026-08-20",
