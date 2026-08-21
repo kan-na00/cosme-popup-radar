@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:21:52.809Z",
+  "updatedAt": "2026-08-21T22:19:11.534Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -70,28 +70,6 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-07-03T00:00:00.000Z"
-    },
-    {
-      "id": "prt-化粧文化ギャラリー-夏休みキッズデーを開催-青山-2026-08-20",
-      "title": "化粧文化ギャラリー、夏休みキッズデーを開催",
-      "brand": "ポーラ文化研究所",
-      "types": [
-        "gift",
-        "workshop"
-      ],
-      "prefecture": "東京",
-      "area": "青山",
-      "venue": "ポーラ青山ビル",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "url": "https://prtimes.jp/main/html/rd/p/000000038.000046215.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/46215/38/46215-38-24ff22458228bb3656713b6c8b559249-1909x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "「夏休みキッズデー」フライヤー ポーラ文化研究所（東京・港区南青山）が運営する化粧文化ギャラリーにて、夏休み企画として予約不要・参加無料の「夏休みキッズデー」を開催します。本イベントは、昨年に続き今回で2回目となり、新た…",
-      "freeSample": false,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-07-21T00:00:00.000Z"
     },
     {
       "id": "prt-イベントレポート-イガリシノブによるメイクデモを披露-whomee-リブランディング発表会を開催-渋谷-2026-08-21",
