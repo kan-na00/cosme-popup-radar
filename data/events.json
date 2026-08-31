@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T23:51:10.111Z",
+  "updatedAt": "2026-08-31T00:10:12.712Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -48,28 +48,6 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-07-01T00:00:00.000Z"
-    },
-    {
-      "id": "prt-錦糸町パルコ-おもちゃ箱を開けたようなワクワクを-暮らしを彩る世界の最旬雑貨が大集合する-favorite-pick-up-pop-up-store-を7月10",
-      "title": "【錦糸町パルコ】おもちゃ箱を開けたようなワクワクを！暮らしを彩る世界の最旬雑貨が大集合する『FAVORITE PICK-UP POP-UP STORE！』を7月10日(金)より開催！",
-      "brand": "株式会社ヴィレッジヴァンガードコーポレーション",
-      "types": [
-        "popup",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "錦糸町",
-      "venue": "錦糸町パルコ 2F 特設会場",
-      "startDate": "2026-07-10",
-      "endDate": "2026-08-30",
-      "url": "https://prtimes.jp/main/html/rd/p/000006337.000018131.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/18131/6337/18131-6337-1f15f5d964802a76fcacb6bfc56a3cdd-1909x2700.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "錦糸町パルコ（東京都墨田区）では、2026年7月10日（金）から8月30日（日）までの52日間、国内外で今注目を集めるライフスタイル雑貨やビューティーブランドを集めた期間限定ショップ『FAVORITE PICK-UP P…",
-      "freeSample": false,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-07-03T00:00:00.000Z"
     },
     {
       "id": "prt-伊勢丹新宿店の化粧品フロアが2027年夏-リフレッシュオープン-グローバルビューティーアミューズメントフロア-へ進化-新宿-2026-10-08",
