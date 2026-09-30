@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T01:00:17.166Z",
+  "updatedAt": "2026-09-30T04:14:06.369Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -25,6 +25,118 @@
       "collectedAt": "2026-07-10T00:00:00.000Z"
     },
     {
+      "id": "prt-oui-nails-ピールオフマニキュア-1秒まつエク-がジェイアール京都伊勢丹に期間限定登場-新しいセルフビューティー体験を提案-渋谷-2026-09-30",
+      "title": "「oui nails ピールオフマニキュア」「1秒まつエク™」がジェイアール京都伊勢丹に期間限定登場。新しいセルフビューティー体験を提案",
+      "brand": "HISTORIC株式会社",
+      "types": [
+        "popup",
+        "minigame",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷",
+      "startDate": "2026-09-30",
+      "endDate": "2026-10-13",
+      "url": "https://prtimes.jp/main/html/rd/p/000000074.000031205.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/31205/74/31205-74-04cd1f29478c891f3a95f9b67d8f491f-2160x2160.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "HISTORIC株式会社（東京オフィス：東京都渋谷区）は、2026年9月30日（水）から10月13日（火）まで、ジェイアール京都伊勢丹 3階 キレイテラスにて、ネイルブランド「oui nails（ウィネイルズ）」の「ou…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "prt-話題の韓国プレミアムコスメ-florodora-フローロドラ-を渋谷で体験-qoo10メガポと連動した渋谷sample-house出店で-試して-買える-体験型",
+      "title": "話題の韓国プレミアムコスメ「FLORODORA（フローロドラ）」を渋谷で体験！Qoo10メガポと連動した渋谷SAMPLE HOUSE出店で“試して・買える”体験型 プロモーションを展開",
+      "brand": "KLEE Co., Ltd.",
+      "types": [
+        "free_sample",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-09",
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000186258.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/186258/6/186258-6-bae4d89c1301bf85384dc50a798fd651-294x395.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "韓国発のプレミアムビューティーブランド「FLORODORA（フローロドラ）」は、2026年10月1日（木）から10月9日（金）までQoo10で開催される「メガポ」に参加します。また、渋谷で開催される「Qoo10 SAMP…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "prt-espoir-popupイベント-easy-professional-beauty-espoir-base-makeup-studio-を渋谷ロフト1階-間坂ス",
+      "title": "【espoir】POPUPイベント『Easy Professional Beauty -espoir Base Makeup Studio-』を渋谷ロフト1階 間坂ステージにて開催！",
+      "brand": "アモーレパシフィックジャパン株式会社",
+      "types": [
+        "popup",
+        "free_sample",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "の様子やフォトスポットで撮影した写真を",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-15",
+      "url": "https://prtimes.jp/main/html/rd/p/000000381.000021350.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/21350/381/21350-381-9a924dd9308a19049562ae57bcaba6c5-1689x931.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "大胆かつダイナミックに、一歩先を行くメイクアップをブランドコンセプトに掲げる韓国発のメイクアップクリエーションブランド「espoir（エスポア）」は、体験型イベント『Easy Professional Beauty -e…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "prt-paul-joe-beaute-秋の気分を-フィグから-ルミネエスト新宿で-fig-fig-fig-を開催-新宿-2026-10-03",
+      "title": "【PAUL & JOE BEAUTE】秋の気分を、フィグから。ルミネエスト新宿で「FIG, FIG, FIG!」を開催！",
+      "brand": "株式会社アルビオン",
+      "types": [
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "新宿",
+      "venue": "PAUL & JOE ルミネエスト新宿店 ■",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "url": "https://prtimes.jp/main/html/rd/p/000000045.000169347.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/169347/45/169347-45-54617707b360ea9eca96ad3439d68e6f-3900x3900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "秋の気分を、フィグから。 香りも、ボディも、肌も。 PAUL & JOEの秋、はじまります。 株式会社アルビオンが展開する「PAUL & JOE BEAUTE」は、2026年10月3日（土）・4日（日）の2日間、ルミネエ…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "prt-sinn-puret-が-salon-de-parfum-2026-に登場-新フレグランスコレクションと三越伊勢丹限定ヘアオイルを先行発売-会場限定セット-先着",
+      "title": "SINN PURETÉが「Salon de parfum 2026」に登場。新フレグランスコレクションと三越伊勢丹限定ヘアオイルを先行発売。会場限定セット＆先着特典も。",
+      "brand": "株式会社JIMOS",
+      "types": [
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-12",
+      "url": "https://prtimes.jp/main/html/rd/p/000000394.000056376.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/56376/394/56376-394-a0657c9475ac9da2f199985d6a6f0649-1200x600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "『SINN PURETÉ（シンピュルテ）』（製販元：株式会社アナイスカンパニー 東京都渋谷区、発売元：株式会社JIMOS 福岡県福岡市）は、2026年10月7日(水)～12日(月・祝)に伊勢丹新宿店で開催される「Salo…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
       "id": "prt-伊勢丹新宿店の化粧品フロアが2027年夏-リフレッシュオープン-グローバルビューティーアミューズメントフロア-へ進化-新宿-2026-10-08",
       "title": "伊勢丹新宿店の化粧品フロアが2027年夏 リフレッシュオープン。「グローバルビューティーアミューズメントフロア」へ進化",
       "brand": "株式会社　三越伊勢丹ホールディングス",
@@ -44,6 +156,28 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-07-15T00:00:00.000Z"
+    },
+    {
+      "id": "prt-ムシンサ-関西最大級-3-400点の商品を展開-試着できる-musinsa-osaka-pop-up-store-2026-を10月23日-金-11月8日-日-",
+      "title": "ムシンサ、関西最大級 3,400点の商品を展開&試着できる「MUSINSA Osaka Pop-Up Store 2026」を10月23日(金)〜11月8日(日)の期間、大阪・梅田にて開催！",
+      "brand": "株式会社 MUSINSA JAPAN",
+      "types": [
+        "popup",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "原宿",
+      "venue": "には全71ブランドが集結し",
+      "startDate": "2026-10-23",
+      "endDate": "2026-11-08",
+      "url": "https://prtimes.jp/main/html/rd/p/000000107.000071607.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/71607/107/71607-107-1ab6f497820ccc4ebf4c0eedceda03eb-1056x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "韓国を代表するファッションプラットフォーム「MUSINSA（ムシンサ）」は、2026年10月23日（金）より17日間、大阪・梅田の「VS.（ヴイエス）」にて、『MUSINSA Osaka Pop-Up Store 202…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-09-30T00:00:00.000Z"
     }
   ]
 }
