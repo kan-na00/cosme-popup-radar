@@ -299,18 +299,14 @@ async function prtimesSearchUrls(keyword) {
   const html = await fetchText(url);
   const $ = cheerio.load(html);
   const found = [];
-  $('a[class^="release-card_link__"]').each((_, el) => {
-    const href = $(el).attr("href");
-    const title = $(el)
-      .find('[class^="release-card_title__"]')
-      .first()
-      .text()
-      .trim();
-    if (href && href.includes("/main/html/rd/p/")) {
-      found.push({
-        url: href.startsWith("http") ? href : "https://prtimes.jp" + href,
-        title,
-      });
+  const seen = new Set();
+  // リリースへのリンクはURLパターンで拾う（PR TIMESのクラス名変更に強い）
+  $('a[href*="/main/html/rd/p/"]').each((_, el) => {
+    const href = $(el).attr("href") || "";
+    const m = href.match(/\/main\/html\/rd\/p\/\d+\.\d+\.html/);
+    if (m && !seen.has(m[0])) {
+      seen.add(m[0]);
+      found.push({ url: "https://prtimes.jp" + m[0], title: "" });
     }
   });
   return found.slice(0, PER_KEYWORD);
