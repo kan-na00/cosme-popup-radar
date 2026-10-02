@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T01:02:26.615Z",
+  "updatedAt": "2026-10-02T01:16:31.033Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -158,6 +158,73 @@
       "collectedAt": "2026-07-15T00:00:00.000Z"
     },
     {
+      "id": "prt-私は-私の好きな色を塗る-100色以上の個性を指先に-ネイルポリッシュブランド-illo-が渋谷-大阪でpop-upを開催-渋谷-2026-10-08",
+      "title": "「私は、私の好きな色を塗る。」100色以上の個性を指先に。ネイルポリッシュブランド「iLLO」が渋谷・大阪でPOP UPを開催",
+      "brand": "株式会社コティスエルト",
+      "types": [
+        "popup"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷スクランブルスクエア",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-14",
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000058953.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/58953/6/58953-6-0ef580630ee4b1b74fc8946e3be795c9-1920x1280.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "ネイルポリッシュブランド「iLLO（アイロ）」は、渋谷スクランブルスクエア【2026年10月8日（木）〜10月14日（水）】・大阪ルクアイーレ【2026年10月9日（金）〜10月15日（木）】にてPOP UP EVENT…",
+      "freeSample": false,
+      "hasGift": false,
+      "hasGame": false,
+      "collectedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "prt-rom-ndの10thバースデーをお祝い-10周年記念popup-dear-bestie-10th-rom-nd-birthday-party-を期間限定開催-",
+      "title": "rom&ndの10thバースデーをお祝い 10周年記念POPUP「Dear, Bestie 10th rom&nd birthday party! 」を期間限定開催",
+      "brand": "株式会社韓国高麗人蔘社",
+      "types": [
+        "popup",
+        "free_sample",
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "表参道",
+      "venue": "表参道",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-28",
+      "url": "https://prtimes.jp/main/html/rd/p/000000460.000076505.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/76505/460/76505-460-605b0e532cf167d9710ecd5887ca57b6-3200x1600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "韓国コスメブランド「rom&nd（ロムアンド）」は、ブランド誕生10周年を記念したPOPUP「Dear, Bestie 10th rom&nd birthday party! 」を、2026年10月10日（土）から10月…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "prt-mytrex-ビューティーワールド-大阪-出展-個室体験ブース-予約開始-東京-2026-10-19",
+      "title": "【MYTREX】「ビューティーワールド 大阪」出展、「個室体験ブース」予約開始",
+      "brand": "株式会社 創通メディカル",
+      "types": [
+        "free_sample",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "東京",
+      "venue": "東京",
+      "startDate": "2026-10-19",
+      "endDate": "2026-10-21",
+      "url": "https://prtimes.jp/main/html/rd/p/000000212.000047658.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/47658/212/47658-212-6cbac953c42091159a8943e414aa8551-2560x1440.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社創通メディカル(本社:福岡県福岡市)が展開する、美容健康機器ブランド「MYTREX（マイトレックス）」は、2026年10月19日（月）～21日（水）までインテックス大阪にて開催される西日本最大級の総合ビューティ見…",
+      "freeSample": true,
+      "hasGift": false,
+      "hasGame": false,
+      "collectedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
       "id": "prt-ムシンサ-関西最大級-3-400点の商品を展開-試着できる-musinsa-osaka-pop-up-store-2026-を10月23日-金-11月8日-日-",
       "title": "ムシンサ、関西最大級 3,400点の商品を展開&試着できる「MUSINSA Osaka Pop-Up Store 2026」を10月23日(金)〜11月8日(日)の期間、大阪・梅田にて開催！",
       "brand": "株式会社 MUSINSA JAPAN",
@@ -178,6 +245,27 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "prt-the-japan-beauty-runway-2027年4月24日-東京国際フォーラムで開催美容-ファッション-ダンスが融合-jbr-official-mod",
+      "title": "「The JAPAN BEAUTY RUNWAY」2027年4月24日、東京国際フォーラムで開催美容・ファッション・ダンスが融合、「JBR OFFICIAL MODEL CONTEST」も始動",
+      "brand": "有限会社えびす屋",
+      "types": [
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "東京",
+      "venue": "として",
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-24",
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000189795.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/189795/6/189795-6-4e537db1aef92276d42221a6149c985d-1280x1280.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "2024年に誕生し、全国各地で多くの挑戦と感動を生み出してきた「JAPAN美活FESTA」が、2027年より「The JAPAN BEAUTY RUNWAY（JBR）」として新たに生まれ変わります。 美容・ファッション・…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-10-01T00:00:00.000Z"
     }
   ]
 }
