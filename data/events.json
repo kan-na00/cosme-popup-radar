@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T00:54:17.330Z",
+  "updatedAt": "2026-10-04T00:20:26.612Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -95,25 +95,26 @@
       "collectedAt": "2026-09-24T00:00:00.000Z"
     },
     {
-      "id": "prt-paul-joe-beaute-秋の気分を-フィグから-ルミネエスト新宿で-fig-fig-fig-を開催-新宿-2026-10-03",
-      "title": "【PAUL & JOE BEAUTE】秋の気分を、フィグから。ルミネエスト新宿で「FIG, FIG, FIG!」を開催！",
-      "brand": "株式会社アルビオン",
+      "id": "prt-おもてなしセレクション-を1300年の歴史ある名湯で体験-佐賀県-嬉野温泉-和多屋別荘-でポップアップショップがスタート-横浜-2026-10-03",
+      "title": "「おもてなしセレクション」を1300年の歴史ある名湯で体験！佐賀県・嬉野温泉「和多屋別荘」でポップアップショップがスタート",
+      "brand": "ENGAWA株式会社",
       "types": [
-        "gift"
+        "popup",
+        "free_sample"
       ],
-      "prefecture": "東京",
-      "area": "新宿",
-      "venue": "PAUL & JOE ルミネエスト新宿店 ■",
+      "prefecture": "神奈川",
+      "area": "横浜",
+      "venue": "となる「和多屋別荘」は",
       "startDate": "2026-10-03",
-      "endDate": "2026-10-03",
-      "url": "https://prtimes.jp/main/html/rd/p/000000045.000169347.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/169347/45/169347-45-54617707b360ea9eca96ad3439d68e6f-3900x3900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "endDate": "2026-11-01",
+      "url": "https://prtimes.jp/main/html/rd/p/000000265.000017308.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/17308/265/17308-265-d2d96fc2b1b83b209b40020fd6184dbc-3303x2202.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "source": "PR TIMES",
-      "description": "秋の気分を、フィグから。 香りも、ボディも、肌も。 PAUL & JOEの秋、はじまります。 株式会社アルビオンが展開する「PAUL & JOE BEAUTE」は、2026年10月3日（土）・4日（日）の2日間、ルミネエ…",
-      "freeSample": false,
-      "hasGift": true,
+      "description": "日本の優れた商品・サービスを発掘・認定し、国内外に発信するプログラム「OMOTENASHI Selection（おもてなしセレクション）」は、2026年10月3日(土)〜11月1日(日)の期間、佐賀県・嬉野温泉の老舗旅館…",
+      "freeSample": true,
+      "hasGift": false,
       "hasGame": false,
-      "collectedAt": "2026-09-30T00:00:00.000Z"
+      "collectedAt": "2026-10-03T00:00:00.000Z"
     },
     {
       "id": "prt-sinn-puret-が-salon-de-parfum-2026-に登場-新フレグランスコレクションと三越伊勢丹限定ヘアオイルを先行発売-会場限定セット-先着",
