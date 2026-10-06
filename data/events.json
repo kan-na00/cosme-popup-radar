@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T00:24:31.492Z",
+  "updatedAt": "2026-10-06T02:02:12.815Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -226,6 +226,29 @@
       "collectedAt": "2026-10-02T00:00:00.000Z"
     },
     {
+      "id": "prt-スキンケアブランド-asune-アスネ-が10月16日-金-10月22日-木-の期間限定でpop-up-storeを原宿で開催-新商品2アイテムを先行販売-原宿",
+      "title": "スキンケアブランド〈ASUNE（アスネ）〉が10月16日（金）～10月22日（木）の期間限定でPOP UP STOREを原宿で開催！新商品2アイテムを先行販売！",
+      "brand": "株式会社ダイヤコーポレーション",
+      "types": [
+        "popup",
+        "novelty",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "原宿",
+      "venue": "にお並びください",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-22",
+      "url": "https://prtimes.jp/main/html/rd/p/000000556.000042551.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/42551/556/42551-556-8760db2c33ee914f54699972466c374f-1080x1350.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社ダイヤコーポレーション（所在地：東京都新宿区 代表取締役：太田大哉）、株式会社トキメキクリエイト（所在地：東京都港区 代表取締役：中町純平）は、クリエイター中町綾によるスキンケアブランド〈ASUNE（アスネ）〉の…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-10-06T00:00:00.000Z"
+    },
+    {
       "id": "prt-mytrex-ビューティーワールド-大阪-出展-個室体験ブース-予約開始-東京-2026-10-19",
       "title": "【MYTREX】「ビューティーワールド 大阪」出展、「個室体験ブース」予約開始",
       "brand": "株式会社 創通メディカル",
@@ -246,6 +269,29 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "prt-3つの新作を-ひと足もふた足もお先に-unmix初のスキンケアラインを体験する代官山-蔦屋書店-pop-up-ローンチイベント開催-代官山-2026-10-21",
+      "title": "3つの新作を、ひと足もふた足もお先に。UNMIX初のスキンケアラインを体験する代官山 蔦屋書店 POP-UP & ローンチイベント開催",
+      "brand": "株式会社YOSHIKAWA OPERATING JAPAN",
+      "types": [
+        "free_sample",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "代官山",
+      "venue": "代官山 蔦屋書店 3号館2階 SHARE LOUNGEイベントスペース「Session;",
+      "startDate": "2026-10-21",
+      "endDate": "2026-11-05",
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000174792.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/174792/5/174792-5-4ca081665504ac7fe250bceb8536e75f-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "2026年10月21日（水）より、代官山 蔦屋書店にてPOP-UPを開催いたします。 ブランド初となる新スキンケアラインをはじめ、人気製品の新色、2027年2月発売の美しさを追求しバージョンアップした製品を先行発売いたし…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-10-05T00:00:00.000Z"
     },
     {
       "id": "prt-ムシンサ-関西最大級-3-400点の商品を展開-試着できる-musinsa-osaka-pop-up-store-2026-を10月23日-金-11月8日-日-",
