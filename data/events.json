@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T02:02:12.815Z",
+  "updatedAt": "2026-10-07T01:11:48.994Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -224,6 +224,30 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-10-02T00:00:00.000Z"
+    },
+    {
+      "id": "prt-district-seoul-shibuya-edition-ディストリクト-ソウル-シブヤ-エディション-渋谷-2026-10-15",
+      "title": "「DISTRICT SEOUL SHIBUYA EDITION」（ディストリクト ソウル シブヤ エディション)",
+      "brand": "株式会社喜多ピーアール",
+      "types": [
+        "popup",
+        "minigame",
+        "novelty",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "がポップアップ出店します",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-28",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000149331.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/149331/3/149331-3-215b88a6e7ebebc29ccd4ad70ee1e03d-1913x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "開催期間：10月15日（木）～10月28日（水） 韓国・新世界百貨店を運営する株式会社新世界（本社：ソウル特別市、社長：パク・ジュヒョン）は、渋谷の商業3施設：渋谷ヒカリエ／渋谷スクランブルスクエア／SHIBUYA109…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-10-06T00:00:00.000Z"
     },
     {
       "id": "prt-スキンケアブランド-asune-アスネ-が10月16日-金-10月22日-木-の期間限定でpop-up-storeを原宿で開催-新商品2アイテムを先行販売-原宿",
