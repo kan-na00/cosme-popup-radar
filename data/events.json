@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T01:11:48.994Z",
+  "updatedAt": "2026-10-08T01:32:22.096Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -226,6 +226,29 @@
       "collectedAt": "2026-10-02T00:00:00.000Z"
     },
     {
+      "id": "prt-stella-beaute-ステラボーテ-伊勢丹新宿-本館地下2階-ビューティアポセカリーで期間限定pop-up-storeを開催-新宿-2026-10-14",
+      "title": "STELLA BEAUTE(ステラボーテ)、伊勢丹新宿 本館地下2階 ビューティアポセカリーで期間限定POP UP STOREを開催",
+      "brand": "株式会社Kirala",
+      "types": [
+        "popup",
+        "free_sample",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "新宿",
+      "venue": "伊勢丹新宿店",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-27",
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000056060.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/56060/42/56060-42-065e6e972e56c5e57ba754254810224b-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "ビューティブランドSTELLA BEAUTE(ステラボーテ)は、2026年10月14日（水）から10月27日（火）までの期間限定で、伊勢丹新宿店 本館地下2階 ビューティアポセカリーにてPOP UP STOREを開催いた…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-10-07T00:00:00.000Z"
+    },
+    {
       "id": "prt-district-seoul-shibuya-edition-ディストリクト-ソウル-シブヤ-エディション-渋谷-2026-10-15",
       "title": "「DISTRICT SEOUL SHIBUYA EDITION」（ディストリクト ソウル シブヤ エディション)",
       "brand": "株式会社喜多ピーアール",
@@ -338,6 +361,30 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "prt-tokyo-beauty-week2026-体験型コンテンツ-beauty-walk-は10月26日-月-より予約開始-チケットプラン-業界の垣根を越えた共創パ",
+      "title": "「Tokyo Beauty Week2026」体験型コンテンツ「Beauty Walk」は10月26日（月）より予約開始　チケットプラン、業界の垣根を越えた共創パートナー第1弾発表",
+      "brand": "株式会社アイスタイル",
+      "types": [
+        "popup",
+        "novelty",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "原宿",
+      "venue": "を巡りながら",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-24",
+      "url": "https://prtimes.jp/main/html/rd/p/000000521.000005126.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/5126/521/5126-521-6dd924fbe3430990f785e1a281bdc3c6-600x400.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "Tokyo Beauty Week実行委員会（企画・運営：株式会社アイスタイル）は、2026年11月18日（水）～11月24日（火）の7日間、原宿・表参道エリアにて開催する「Tokyo Beauty Week 2026」…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-10-07T00:00:00.000Z"
     },
     {
       "id": "prt-the-japan-beauty-runway-2027年4月24日-東京国際フォーラムで開催美容-ファッション-ダンスが融合-jbr-official-mod",
