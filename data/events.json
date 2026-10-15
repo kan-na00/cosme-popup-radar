@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:50:07.524Z",
+  "updatedAt": "2026-10-15T00:16:27.245Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -69,27 +69,6 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-10-03T00:00:00.000Z"
-    },
-    {
-      "id": "prt-私は-私の好きな色を塗る-100色以上の個性を指先に-ネイルポリッシュブランド-illo-が渋谷-大阪でpop-upを開催-渋谷-2026-10-08",
-      "title": "「私は、私の好きな色を塗る。」100色以上の個性を指先に。ネイルポリッシュブランド「iLLO」が渋谷・大阪でPOP UPを開催",
-      "brand": "株式会社コティスエルト",
-      "types": [
-        "popup"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "渋谷スクランブルスクエア",
-      "startDate": "2026-10-08",
-      "endDate": "2026-10-14",
-      "url": "https://prtimes.jp/main/html/rd/p/000000006.000058953.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/58953/6/58953-6-0ef580630ee4b1b74fc8946e3be795c9-1920x1280.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "ネイルポリッシュブランド「iLLO（アイロ）」は、渋谷スクランブルスクエア【2026年10月8日（木）〜10月14日（水）】・大阪ルクアイーレ【2026年10月9日（金）〜10月15日（木）】にてPOP UP EVENT…",
-      "freeSample": false,
-      "hasGift": false,
-      "hasGame": false,
-      "collectedAt": "2026-10-01T00:00:00.000Z"
     },
     {
       "id": "prt-one-breath-saunahouse-スポーツの日-に合わせてsnsキャンペーンを開催-渋谷-2026-10-09",
@@ -184,6 +163,28 @@
       "collectedAt": "2026-10-07T00:00:00.000Z"
     },
     {
+      "id": "prt-ランコム-伊勢丹新宿店カウンターがリモデルオープン-ホリデー-コレクシオン先行発売や伊勢丹新宿店限定キットなど-特別なオープン記念特典が多数登場-新宿-2026",
+      "title": "ランコム 伊勢丹新宿店カウンターがリモデルオープン！ホリデー コレクシオン先行発売や伊勢丹新宿店限定キットなど、特別なオープン記念特典が多数登場。",
+      "brand": "日本ロレアル株式会社",
+      "types": [
+        "free_sample",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "新宿",
+      "venue": "限定で登場",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-18",
+      "url": "https://prtimes.jp/main/html/rd/p/000000339.000012459.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/12459/339/12459-339-b9036ca2d9427153d986a285fc98980d-700x600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "日本ロレアル株式会社（本社：東京都新宿区）のラグジュアリー化粧品ブランド「ランコム」は、伊勢丹新宿店 本館1階 イセタン ビューティー コスメティックスのランコムカウンターを2026年10月14日（水）にリモデルオープン…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
       "id": "prt-district-seoul-shibuya-edition-ディストリクト-ソウル-シブヤ-エディション-渋谷-2026-10-15",
       "title": "「DISTRICT SEOUL SHIBUYA EDITION」（ディストリクト ソウル シブヤ エディション)",
       "brand": "株式会社喜多ピーアール",
@@ -229,6 +230,30 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "id": "prt-tirtir-新作クッションファンデのオフライン発売を記念し-渋谷ロフト1階間坂ステージにてpopup-storeを開催-10-17-土-10-30-金-渋谷-",
+      "title": "【TIRTIR】新作クッションファンデのオフライン発売を記念し、渋谷ロフト1階間坂ステージにてPOPUP STOREを開催！10/17（土）～10/30（金）",
+      "brand": "株式会社Goodai Global Japan",
+      "types": [
+        "popup",
+        "free_sample",
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷",
+      "startDate": "2026-10-17",
+      "endDate": "2026-11-05",
+      "url": "https://prtimes.jp/main/html/rd/p/000000081.000127171.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/127171/81/127171-81-b434e413bd42d4400a5805bbb655fe6c-3332x2500.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "※画像はイメージです 株式会社Goodai Global Japan（本社：東京都港区、代表取締役社長：呉 東勲）が展開する韓国発のコスメブランド「TIRTIR（ティルティル）」は、新作クッションファンデーション『ティン…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-10-14T00:00:00.000Z"
     },
     {
       "id": "prt-mytrex-ビューティーワールド-大阪-出展-個室体験ブース-予約開始-東京-2026-10-19",
@@ -296,6 +321,32 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "prt-キヅナツキ先生の人気漫画-ギ-ン-とのコラボコスメが-icouleur-アイクルール-より登場-描き下ろしビジュアルをあしらったアイシャドウを11月7日発売-渋",
+      "title": "キヅナツキ先生の人気漫画『ギヴン』とのコラボコスメが「iCouleur（アイクルール）」より登場！描き下ろしビジュアルをあしらったアイシャドウを11月7日発売",
+      "brand": "株式会社サイバーエージェント アニメ＆IP事業本部",
+      "types": [
+        "popup",
+        "free_sample",
+        "minigame",
+        "novelty",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "：SHIBUYA109渋谷店",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-27",
+      "url": "https://prtimes.jp/main/html/rd/p/000000323.000085936.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/85936/323/85936-323-3f3c104c567f5ca641fc75966b1aeb75-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社サイバーエージェント（本社：東京都渋谷区、代表取締役社長：山内隆裕、東証プライム市場：証券コード4751）は、\"わたしの推しでわたしを彩る\"をコンセプトに『推し』とのコラボコスメを展開するコスメブランド「iCou…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-10-14T00:00:00.000Z"
     },
     {
       "id": "prt-tokyo-beauty-week2026-体験型コンテンツ-beauty-walk-は10月26日-月-より予約開始-チケットプラン-業界の垣根を越えた共創パ",
