@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:16:27.245Z",
+  "updatedAt": "2026-10-16T00:02:25.426Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -25,30 +25,6 @@
       "collectedAt": "2026-07-10T00:00:00.000Z"
     },
     {
-      "id": "prt-espoir-popupイベント-easy-professional-beauty-espoir-base-makeup-studio-を渋谷ロフト1階-間坂ス",
-      "title": "【espoir】POPUPイベント『Easy Professional Beauty -espoir Base Makeup Studio-』を渋谷ロフト1階 間坂ステージにて開催！",
-      "brand": "アモーレパシフィックジャパン株式会社",
-      "types": [
-        "popup",
-        "free_sample",
-        "gift",
-        "workshop"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "の様子やフォトスポットで撮影した写真を",
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-15",
-      "url": "https://prtimes.jp/main/html/rd/p/000000381.000021350.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/21350/381/21350-381-9a924dd9308a19049562ae57bcaba6c5-1689x931.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "大胆かつダイナミックに、一歩先を行くメイクアップをブランドコンセプトに掲げる韓国発のメイクアップクリエーションブランド「espoir（エスポア）」は、体験型イベント『Easy Professional Beauty -e…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-09-24T00:00:00.000Z"
-    },
-    {
       "id": "prt-おもてなしセレクション-を1300年の歴史ある名湯で体験-佐賀県-嬉野温泉-和多屋別荘-でポップアップショップがスタート-横浜-2026-10-03",
       "title": "「おもてなしセレクション」を1300年の歴史ある名湯で体験！佐賀県・嬉野温泉「和多屋別荘」でポップアップショップがスタート",
       "brand": "ENGAWA株式会社",
@@ -69,28 +45,6 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-10-03T00:00:00.000Z"
-    },
-    {
-      "id": "prt-one-breath-saunahouse-スポーツの日-に合わせてsnsキャンペーンを開催-渋谷-2026-10-09",
-      "title": "ONE BREATH × saunahouse、「スポーツの日」に合わせてSNSキャンペーンを開催！",
-      "brand": "株式会社BUB",
-      "types": [
-        "minigame",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "をつくります",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-15",
-      "url": "https://prtimes.jp/main/html/rd/p/000000025.000108126.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/108126/25/108126-25-61ffe5f02a01c6cdd91a11d72c502206-3900x2067.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "株式会社BUB（本社：東京都渋谷区、代表取締役：梅澤慶気）が展開するスポーツビューティーブランド「ONE BREATH（ワンブレス）」は、2026年10月12日（月・祝）の「スポーツの日」に合わせて、現在コラボレーション…",
-      "freeSample": false,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-10-08T00:00:00.000Z"
     },
     {
       "id": "prt-rom-ndの10thバースデーをお祝い-10周年記念popup-dear-bestie-10th-rom-nd-birthday-party-を期間限定開催-",
@@ -321,6 +275,29 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "prt-韓国コスメ-雑貨popup-釜山でさんぽ-を東京-原宿で開催-10月27日-31日の5日間-韓国のコスメやお菓子が集結-原宿-2026-10-27",
+      "title": "韓国コスメ＆雑貨POPUP「釜山でさんぽ」を東京・原宿で開催！10月27日～31日の5日間、韓国のコスメやお菓子が集結",
+      "brand": "株式会社Inflers",
+      "types": [
+        "popup",
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "原宿",
+      "venue": "東京・原宿｜神宮前4-25-29 2F ・東京メトロ 明治神宮前駅より徒歩3分 ・東京メ",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-31",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000191339.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/191339/2/191339-2-75606a81d58273110e52278757fcc192-904x510.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "■ 会場：東京・原宿｜神宮前4-25-29 2F ・東京メトロ 明治神宮前駅より徒歩3分 ・東京メトロ 表参道駅より徒歩7分 ・山手線 原宿駅より徒歩8分 開催期間：2026年10月27日（火）～10月31日（土） 営業…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-10-15T00:00:00.000Z"
     },
     {
       "id": "prt-キヅナツキ先生の人気漫画-ギ-ン-とのコラボコスメが-icouleur-アイクルール-より登場-描き下ろしビジュアルをあしらったアイシャドウを11月7日発売-渋",
