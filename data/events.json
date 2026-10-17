@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T00:02:25.426Z",
+  "updatedAt": "2026-10-17T00:08:11.741Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -253,6 +253,27 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "prt-株式会社noah-中野マルイにて韓国ビューティー-ウェルネスのポップアップストアを開催-韓国ブランドの日本市場進出を後押しする-実践の場-渋谷-2026-10-",
+      "title": "株式会社NOAH、中野マルイにて韓国ビューティー＆ウェルネスのポップアップストアを開催　～韓国ブランドの日本市場進出を後押しする“実践の場”～",
+      "brand": "株式会社ＮＯＡＨ",
+      "types": [
+        "popup"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "となる中野マルイは",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-25",
+      "url": "https://prtimes.jp/main/html/rd/p/000000009.000159332.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/159332/9/159332-9-318e1afccca29660e5d3518a110064fa-1537x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "K-LIFE STYLE ポップアップ 招待状 日韓クロスボーダー貿易・コンサルティングを手がける株式会社NOAH（本社：東京都港区）は、2026年10月21日（水）から25日（日）までの5日間、中野マルイ（東京都中野区…",
+      "freeSample": false,
+      "hasGift": false,
+      "hasGame": false,
+      "collectedAt": "2026-10-16T00:00:00.000Z"
     },
     {
       "id": "prt-ムシンサ-関西最大級-3-400点の商品を展開-試着できる-musinsa-osaka-pop-up-store-2026-を10月23日-金-11月8日-日-",
