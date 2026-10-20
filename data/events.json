@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T23:53:21.896Z",
+  "updatedAt": "2026-10-20T00:53:40.036Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -115,28 +115,6 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-10-07T00:00:00.000Z"
-    },
-    {
-      "id": "prt-ランコム-伊勢丹新宿店カウンターがリモデルオープン-ホリデー-コレクシオン先行発売や伊勢丹新宿店限定キットなど-特別なオープン記念特典が多数登場-新宿-2026",
-      "title": "ランコム 伊勢丹新宿店カウンターがリモデルオープン！ホリデー コレクシオン先行発売や伊勢丹新宿店限定キットなど、特別なオープン記念特典が多数登場。",
-      "brand": "日本ロレアル株式会社",
-      "types": [
-        "free_sample",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "新宿",
-      "venue": "限定で登場",
-      "startDate": "2026-10-14",
-      "endDate": "2026-10-18",
-      "url": "https://prtimes.jp/main/html/rd/p/000000339.000012459.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/12459/339/12459-339-b9036ca2d9427153d986a285fc98980d-700x600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "日本ロレアル株式会社（本社：東京都新宿区）のラグジュアリー化粧品ブランド「ランコム」は、伊勢丹新宿店 本館1階 イセタン ビューティー コスメティックスのランコムカウンターを2026年10月14日（水）にリモデルオープン…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-10-14T00:00:00.000Z"
     },
     {
       "id": "prt-district-seoul-shibuya-edition-ディストリクト-ソウル-シブヤ-エディション-渋谷-2026-10-15",
@@ -267,13 +245,36 @@
       "startDate": "2026-10-21",
       "endDate": "2026-10-25",
       "url": "https://prtimes.jp/main/html/rd/p/000000009.000159332.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/159332/9/159332-9-318e1afccca29660e5d3518a110064fa-1537x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "image": "https://prcdn.freetls.fastly.net/release_image/159332/9/159332-9-7487ff45a96ccfc5a46914bcefa53c7e-1537x2700.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "source": "PR TIMES",
-      "description": "K-LIFE STYLE ポップアップ 招待状 日韓クロスボーダー貿易・コンサルティングを手がける株式会社NOAH（本社：東京都港区）は、2026年10月21日（水）から25日（日）までの5日間、中野マルイ（東京都中野区…",
+      "description": "日韓クロスボーダー貿易・コンサルティングを手がける株式会社NOAH（本社：東京都港区）は、2026年10月21日（水）から25日（日）までの5日間、中野マルイ（東京都中野区）にて、韓国のビューティー＆ウェルネスブランドを…",
       "freeSample": false,
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-10-16T00:00:00.000Z"
+    },
+    {
+      "id": "prt-10月22日開幕-uka-ダンスエンターテイメント演劇-passion-北斎の描く夢-スペシャルコラボレーション展開決定-六本木-2026-10-22",
+      "title": "【10月22日開幕】uka×ダンスエンターテイメント演劇『PASSION ― 北斎の描く夢 ―』スペシャルコラボレーション展開決定！",
+      "brand": "株式会社ホリプロ",
+      "types": [
+        "free_sample",
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "六本木",
+      "venue": "】 ・uka 東京ミッドタウン 六本木 ・uka park side suite ・uk",
+      "startDate": "2026-10-22",
+      "endDate": "2026-11-03",
+      "url": "https://prtimes.jp/main/html/rd/p/000001368.000028143.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/28143/1368/28143-1368-1017fb389fc1254b624ff590dbbd4fac-1500x1000.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "今月10月22日(木)に開幕する『PASSION ― 北斎の描く夢 ―』。本作は、ダンス・演劇・音楽が融合し、葛飾北斎の描くことへの尽きることのない情熱に迫る舞台作品。この度、上演を記念して、トータルビューティーサロンu…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-10-19T00:00:00.000Z"
     },
     {
       "id": "prt-ムシンサ-関西最大級-3-400点の商品を展開-試着できる-musinsa-osaka-pop-up-store-2026-を10月23日-金-11月8日-日-",
@@ -369,6 +370,27 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-10-07T00:00:00.000Z"
+    },
+    {
+      "id": "prt-yolu-初のコラボカフェが表参道に限定オープン-限定-夜パフェ-やドリンクを楽しめる新作ヘアマスク付きメニューが登場-表参道-2026-11-19",
+      "title": "「YOLU」初のコラボカフェが表参道に限定オープン！限定「夜パフェ」やドリンクを楽しめる新作ヘアマスク付きメニューが登場！",
+      "brand": "株式会社Ｉ－ｎｅ",
+      "types": [
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "表参道",
+      "venue": "「MOSKA by GingerGarden",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "url": "https://prtimes.jp/main/html/rd/p/000001039.000012002.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/12002/1039/12002-1039-2eff79e9f773e29935f995ee2edb0e83-3900x2842.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社Ｉ－ｎｅ (本社：大阪市中央区) が展開するナイトケアビューティーブランド「YOLU（ヨル）」は、ブランドの世界観を表現した『YOLU MELLOW NIGHT Cafe（ヨル メロウナイト カフェ）』を東京都港…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-10-19T00:00:00.000Z"
     },
     {
       "id": "prt-the-japan-beauty-runway-2027年4月24日-東京国際フォーラムで開催美容-ファッション-ダンスが融合-jbr-official-mod",
