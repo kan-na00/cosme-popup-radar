@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T00:53:40.036Z",
+  "updatedAt": "2026-10-21T00:21:39.205Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -45,6 +45,29 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-10-03T00:00:00.000Z"
+    },
+    {
+      "id": "prt-京都発-謎のヘアケアブランドkyoto-beauty-ららぽーとtokyo-bayコスメポップアップ-cosmesta-に出展-10-20-火-10-26-月-",
+      "title": "【京都発】謎のヘアケアブランドKYOTO BEAUTY、ららぽーとTOKYO-BAYコスメポップアップ「COSMESTA」に出展。10/20（火）〜10/26（月）",
+      "brand": "合同会社ビューティフルズ",
+      "types": [
+        "popup",
+        "novelty",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "上野",
+      "venue": "三井ショッピングパーク ららぽーとTOKYO-BAY内「LaLaport CLOSET」",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-26",
+      "url": "https://prtimes.jp/main/html/rd/p/000000018.000171672.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/171672/18/171672-18-f2f976385c9855c44d577a89ba9b4f50-1920x1280.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "合同会社ビューティフルズ（本社：京都府京都市西京区桂上野東町164 代表：豊田秀哉）は、自社ブランドとして設立した【KYOTO BEAUTY（キョウト・ビューティー）】をららぽーとTOKYO-BAYにて開催されるコスメポ…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-10-20T00:00:00.000Z"
     },
     {
       "id": "prt-rom-ndの10thバースデーをお祝い-10周年記念popup-dear-bestie-10th-rom-nd-birthday-party-を期間限定開催-",
@@ -322,6 +345,27 @@
       "collectedAt": "2026-10-15T00:00:00.000Z"
     },
     {
+      "id": "prt-jr東日本が展開する複合アウトドア施設-リトデポ-とone-breath-ワンブレス-が初コラボ-渋谷-2026-11-01",
+      "title": "JR東日本が展開する複合アウトドア施設「リトデポ」とONE BREATH（ワンブレス）が初コラボ",
+      "brand": "株式会社BUB",
+      "types": [
+        "free_sample"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "”から",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-15",
+      "url": "https://prtimes.jp/main/html/rd/p/000000026.000108126.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/108126/26/108126-26-f582d8705f2c284011f1f7096fe7a858-2048x1085.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社BUB（本社：東京都渋谷区、代表取締役：梅澤慶気）が展開するスポーツビューティーブランド「ONE BREATH（ワンブレス）」は、東日本旅客鉄道株式会社（以下、JR東日本）が事業主体となり、株式会社ジェイアール東…",
+      "freeSample": true,
+      "hasGift": false,
+      "hasGame": false,
+      "collectedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
       "id": "prt-キヅナツキ先生の人気漫画-ギ-ン-とのコラボコスメが-icouleur-アイクルール-より登場-描き下ろしビジュアルをあしらったアイシャドウを11月7日発売-渋",
       "title": "キヅナツキ先生の人気漫画『ギヴン』とのコラボコスメが「iCouleur（アイクルール）」より登場！描き下ろしビジュアルをあしらったアイシャドウを11月7日発売",
       "brand": "株式会社サイバーエージェント アニメ＆IP事業本部",
@@ -412,6 +456,28 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "prt-10周年を迎えるラキャルプフェス-第10回-my-organic-friends-fes-2027年5月開催決定-自然と共に生きる美容の未来を-共につくる-渋谷",
+      "title": "10周年を迎えるラキャルプフェス「第10回 My Organic Friends Fes 」　2027年5月開催決定　〜自然と共に生きる美容の未来を、共につくる〜",
+      "brand": "株式会社　ラ キャルプ",
+      "types": [
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "WITH HARAJUKU HALL",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-21",
+      "url": "https://prtimes.jp/main/html/rd/p/000000070.000034999.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/34999/70/34999-70-576e57c2c3af74c84e404f4688c45a53-480x480.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "My Organic Friends Fes 〜ラキャルプフェス〜 ウェルネスビューティー分野のPRエージェンシーである株式会社ラキャルプ（本社：東京都渋谷区、代表取締役：新井ミホ）は、自社主催のウェルネスビューティーの…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-10-20T00:00:00.000Z"
     }
   ]
 }
