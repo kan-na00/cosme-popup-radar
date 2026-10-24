@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T00:22:22.314Z",
+  "updatedAt": "2026-10-24T00:13:35.282Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -319,6 +319,29 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "prt-mash-park-project-26-メイクアップやアート制作-縁日のようなアクティビティなど-大人も子どももわくわく楽しめるワークショップを多数開催-東京",
+      "title": "【MASH PARK PROJECT ’26】メイクアップやアート制作、縁日のようなアクティビティなど、大人も子どももわくわく楽しめるワークショップを多数開催！",
+      "brand": "株式会社マッシュホールディングス",
+      "types": [
+        "minigame",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "東京",
+      "venue": "内ではお子様も一緒にお楽しみいただけるワークショップを多数ご用意しております",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "url": "https://prtimes.jp/main/html/rd/p/000004494.000018505.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/18505/4494/18505-4494-e773d9539d7cbfa233c0a4992371b63e-1500x650.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社マッシュホールディングス(本社：東京都千代田区麹町／代表取締役社長：近藤広幸、以下マッシュグループ)は2026年11月6日(金)・11月7日(土)の2日間、本社にて第10回目となる参加型チャリティイベント「MAS…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-10-23T00:00:00.000Z"
     },
     {
       "id": "prt-キヅナツキ先生の人気漫画-ギ-ン-とのコラボコスメが-icouleur-アイクルール-より登場-描き下ろしビジュアルをあしらったアイシャドウを11月7日発売-渋",
