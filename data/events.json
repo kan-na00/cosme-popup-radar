@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T23:45:30.359Z",
+  "updatedAt": "2026-10-27T01:04:13.046Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -45,29 +45,6 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-10-03T00:00:00.000Z"
-    },
-    {
-      "id": "prt-京都発-謎のヘアケアブランドkyoto-beauty-ららぽーとtokyo-bayコスメポップアップ-cosmesta-に出展-10-20-火-10-26-月-",
-      "title": "【京都発】謎のヘアケアブランドKYOTO BEAUTY、ららぽーとTOKYO-BAYコスメポップアップ「COSMESTA」に出展。10/20（火）〜10/26（月）",
-      "brand": "合同会社ビューティフルズ",
-      "types": [
-        "popup",
-        "novelty",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "上野",
-      "venue": "三井ショッピングパーク ららぽーとTOKYO-BAY内「LaLaport CLOSET」",
-      "startDate": "2026-10-06",
-      "endDate": "2026-10-26",
-      "url": "https://prtimes.jp/main/html/rd/p/000000018.000171672.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/171672/18/171672-18-f2f976385c9855c44d577a89ba9b4f50-1920x1280.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "合同会社ビューティフルズ（本社：京都府京都市西京区桂上野東町164 代表：豊田秀哉）は、自社ブランドとして設立した【KYOTO BEAUTY（キョウト・ビューティー）】をららぽーとTOKYO-BAYにて開催されるコスメポ…",
-      "freeSample": false,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-10-20T00:00:00.000Z"
     },
     {
       "id": "prt-rom-ndの10thバースデーをお祝い-10周年記念popup-dear-bestie-10th-rom-nd-birthday-party-を期間限定開催-",
@@ -209,27 +186,6 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "id": "prt-株式会社noah-中野マルイにて韓国ビューティー-ウェルネスのポップアップストアを開催-韓国ブランドの日本市場進出を後押しする-実践の場-渋谷-2026-10-",
-      "title": "株式会社NOAH、中野マルイにて韓国ビューティー＆ウェルネスのポップアップストアを開催　～韓国ブランドの日本市場進出を後押しする“実践の場”～",
-      "brand": "株式会社ＮＯＡＨ",
-      "types": [
-        "popup"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "となる中野マルイは",
-      "startDate": "2026-10-21",
-      "endDate": "2026-10-25",
-      "url": "https://prtimes.jp/main/html/rd/p/000000009.000159332.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/159332/9/159332-9-7487ff45a96ccfc5a46914bcefa53c7e-1537x2700.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "日韓クロスボーダー貿易・コンサルティングを手がける株式会社NOAH（本社：東京都港区）は、2026年10月21日（水）から25日（日）までの5日間、中野マルイ（東京都中野区）にて、韓国のビューティー＆ウェルネスブランドを…",
-      "freeSample": false,
-      "hasGift": false,
-      "hasGame": false,
-      "collectedAt": "2026-10-16T00:00:00.000Z"
     },
     {
       "id": "prt-10月22日開幕-uka-ダンスエンターテイメント演劇-passion-北斎の描く夢-スペシャルコラボレーション展開決定-六本木-2026-10-22",
@@ -441,6 +397,30 @@
       "collectedAt": "2026-10-21T00:00:00.000Z"
     },
     {
+      "id": "prt-ビューティーの祭典-tokyo-beauty-week2026-体験型コンテンツ-beauty-walk-チケット予約開始-原宿-2026-11-18",
+      "title": "ビューティーの祭典「Tokyo Beauty Week2026」体験型コンテンツ「Beauty Walk」チケット予約開始！",
+      "brand": "株式会社アイスタイル",
+      "types": [
+        "popup",
+        "novelty",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "原宿",
+      "venue": "を巡りながら",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-24",
+      "url": "https://prtimes.jp/main/html/rd/p/000000531.000005126.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/5126/531/5126-531-6dd924fbe3430990f785e1a281bdc3c6-600x400.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "Tokyo Beauty Week実行委員会（企画・運営：株式会社アイスタイル）は、2026年11月18日（水）～11月24日（火）の7日間、原宿・表参道エリアにて開催する「Tokyo Beauty Week 2026」…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-10-26T00:00:00.000Z"
+    },
+    {
       "id": "prt-yolu-初のコラボカフェが表参道に限定オープン-限定-夜パフェ-やドリンクを楽しめる新作ヘアマスク付きメニューが登場-表参道-2026-11-19",
       "title": "「YOLU」初のコラボカフェが表参道に限定オープン！限定「夜パフェ」やドリンクを楽しめる新作ヘアマスク付きメニューが登場！",
       "brand": "株式会社Ｉ－ｎｅ",
@@ -460,6 +440,28 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "id": "prt-and-st-tokyo-が-tokyo-beauty-week-2026-に参加-テーマは-wear-your-beauty-美しさを-着る-原宿-2026-",
+      "title": "「and ST TOKYO」が「Tokyo Beauty Week 2026」に参加！テーマは「WEAR YOUR BEAUTY＝美しさを\"着る\"」",
+      "brand": "株式会社アンドエスティHD",
+      "types": [
+        "novelty",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "原宿",
+      "venue": "をコンセプトにした原宿のフラッグシップストア「and ST TOKYO",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-23",
+      "url": "https://prtimes.jp/main/html/rd/p/000003341.000001304.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/1304/3341/1304-3341-eb8a7c53faf6254f3af50f4f25f3f525-1920x1280.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "アンドエスティHD グループでモール＆メディア事業やBtoB事業を展開する株式会社アンドエスティ（本社︓東京都渋⾕区渋⾕2-21-1、代表取締役社⻑ CEO︓櫻井 裕也）は、“すきとつながる”場所をコンセプトにした原宿の…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-10-26T00:00:00.000Z"
     },
     {
       "id": "prt-the-japan-beauty-runway-2027年4月24日-東京国際フォーラムで開催美容-ファッション-ダンスが融合-jbr-official-mod",
