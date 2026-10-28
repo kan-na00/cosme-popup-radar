@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T01:04:13.046Z",
+  "updatedAt": "2026-10-28T00:56:36.300Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -69,52 +69,6 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "prt-stella-beaute-ステラボーテ-伊勢丹新宿-本館地下2階-ビューティアポセカリーで期間限定pop-up-storeを開催-新宿-2026-10-14",
-      "title": "STELLA BEAUTE(ステラボーテ)、伊勢丹新宿 本館地下2階 ビューティアポセカリーで期間限定POP UP STOREを開催",
-      "brand": "株式会社Kirala",
-      "types": [
-        "popup",
-        "free_sample",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "新宿",
-      "venue": "伊勢丹新宿店",
-      "startDate": "2026-10-14",
-      "endDate": "2026-10-27",
-      "url": "https://prtimes.jp/main/html/rd/p/000000042.000056060.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/56060/42/56060-42-065e6e972e56c5e57ba754254810224b-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "ビューティブランドSTELLA BEAUTE(ステラボーテ)は、2026年10月14日（水）から10月27日（火）までの期間限定で、伊勢丹新宿店 本館地下2階 ビューティアポセカリーにてPOP UP STOREを開催いた…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-10-07T00:00:00.000Z"
-    },
-    {
-      "id": "prt-stella-beaute-ステラボーテ-伊勢丹新宿店-本館地下2階-ビューティアポセカリーで期間限定pop-up-storeを開催-新宿-2026-10-14",
-      "title": "STELLA BEAUTE(ステラボーテ)、伊勢丹新宿店 本館地下2階 ビューティアポセカリーで期間限定POP UP STOREを開催",
-      "brand": "株式会社Kirala",
-      "types": [
-        "popup",
-        "free_sample",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "新宿",
-      "venue": "伊勢丹新宿店",
-      "startDate": "2026-10-14",
-      "endDate": "2026-10-27",
-      "url": "https://prtimes.jp/main/html/rd/p/000000042.000056060.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/56060/42/56060-42-065e6e972e56c5e57ba754254810224b-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "ビューティブランドSTELLA BEAUTE(ステラボーテ)は、2026年10月14日（水）から10月27日（火）までの期間限定で、伊勢丹新宿店 本館地下2階 ビューティアポセカリーにてPOP UP STOREを開催いた…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-10-07T00:00:00.000Z"
     },
     {
       "id": "prt-district-seoul-shibuya-edition-ディストリクト-ソウル-シブヤ-エディション-渋谷-2026-10-15",
@@ -275,6 +229,32 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "prt-tirtir-自分らしい輝きを見つけるホテルステイ-がテーマの体験型popup-glam-suite-of-glow-を表参道にて期間限定開催-11月3日-火-",
+      "title": "【TIRTIR】\"自分らしい輝きを見つけるホテルステイ\"がテーマの体験型POPUP『GLAM SUITE OF GLOW』を表参道にて期間限定開催。11月3日（火・祝）～11月8日（日）",
+      "brand": "株式会社Goodai Global Japan",
+      "types": [
+        "popup",
+        "free_sample",
+        "minigame",
+        "novelty",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "表参道",
+      "venue": "内を自由にお楽しみいただけます",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-08",
+      "url": "https://prtimes.jp/main/html/rd/p/000000085.000127171.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/127171/85/127171-85-40e9f6d40a2cc1b5278a0e6c1fa56a30-1080x1350.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社Goodai Global Japan（本社：東京都港区、代表取締役社長：呉 東勲）が展開する韓国発のコスメブランド「TIRTIR（ティルティル）」は、2026年11月3日（火・祝）～11月8日（日）までの6日間…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-10-27T00:00:00.000Z"
     },
     {
       "id": "prt-mash-park-project-26-メイクアップやアート制作-縁日のようなアクティビティなど-大人も子どももわくわく楽しめるワークショップを多数開催-東京",
