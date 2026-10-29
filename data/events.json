@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T00:56:36.300Z",
+  "updatedAt": "2026-10-29T01:29:59.877Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -45,54 +45,6 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-10-03T00:00:00.000Z"
-    },
-    {
-      "id": "prt-rom-ndの10thバースデーをお祝い-10周年記念popup-dear-bestie-10th-rom-nd-birthday-party-を期間限定開催-",
-      "title": "rom&ndの10thバースデーをお祝い 10周年記念POPUP「Dear, Bestie 10th rom&nd birthday party! 」を期間限定開催",
-      "brand": "株式会社韓国高麗人蔘社",
-      "types": [
-        "popup",
-        "free_sample",
-        "minigame",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "表参道",
-      "venue": "表参道",
-      "startDate": "2026-10-10",
-      "endDate": "2026-10-28",
-      "url": "https://prtimes.jp/main/html/rd/p/000000460.000076505.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/76505/460/76505-460-605b0e532cf167d9710ecd5887ca57b6-3200x1600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "韓国コスメブランド「rom&nd（ロムアンド）」は、ブランド誕生10周年を記念したPOPUP「Dear, Bestie 10th rom&nd birthday party! 」を、2026年10月10日（土）から10月…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "prt-district-seoul-shibuya-edition-ディストリクト-ソウル-シブヤ-エディション-渋谷-2026-10-15",
-      "title": "「DISTRICT SEOUL SHIBUYA EDITION」（ディストリクト ソウル シブヤ エディション)",
-      "brand": "株式会社喜多ピーアール",
-      "types": [
-        "popup",
-        "minigame",
-        "novelty",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "がポップアップ出店します",
-      "startDate": "2026-10-15",
-      "endDate": "2026-10-28",
-      "url": "https://prtimes.jp/main/html/rd/p/000000003.000149331.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/149331/3/149331-3-215b88a6e7ebebc29ccd4ad70ee1e03d-1913x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "開催期間：10月15日（木）～10月28日（水） 韓国・新世界百貨店を運営する株式会社新世界（本社：ソウル特別市、社長：パク・ジュヒョン）は、渋谷の商業3施設：渋谷ヒカリエ／渋谷スクランブルスクエア／SHIBUYA109…",
-      "freeSample": false,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-10-06T00:00:00.000Z"
     },
     {
       "id": "prt-tirtir-新作クッションファンデのオフライン発売を記念し-渋谷ロフト1階間坂ステージにてpopup-storeを開催-10-17-土-10-30-金-渋谷-",
@@ -399,6 +351,28 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "id": "prt-tokyo-beauty-week-2026-子どもたちの-自分らしさ-を育むキッズメイク企画を実施-私らしいメイク-を表現するフォトコンテスト-my-beau",
+      "title": "Tokyo Beauty Week 2026、子どもたちの「自分らしさ」を育むキッズメイク企画を実施 「私らしいメイク」を表現するフォトコンテスト「My Beauty Challenge」",
+      "brand": "株式会社アイスタイル",
+      "types": [
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "原宿",
+      "venue": "1回目：2026年11月21日",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-24",
+      "url": "https://prtimes.jp/main/html/rd/p/000000532.000005126.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/5126/532/5126-532-e3a1c113fb9e7764d48e6c1192a02e68-601x401.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "Tokyo Beauty Week実行委員会（企画・運営：株式会社アイスタイル）は、2026年11月18日（水）～11月24日（火）に原宿・表参道エリアで開催するビューティーの祭典「Tokyo Beauty Week 2…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-10-28T00:00:00.000Z"
     },
     {
       "id": "prt-yolu-初のコラボカフェが表参道に限定オープン-限定-夜パフェ-やドリンクを楽しめる新作ヘアマスク付きメニューが登場-表参道-2026-11-19",
