@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:29:59.877Z",
+  "updatedAt": "2026-10-30T01:31:25.746Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -416,6 +416,29 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "id": "prt-その日に選んだマスクの色に-プロが-似合わせ-メイク-マスク-アイライナーブランド-mascode-渋谷でpopup開催-渋谷-2026-11-21",
+      "title": "その日に選んだマスクの色に、プロが“似合わせ”メイク。マスク＆アイライナーブランド「MASCODE」、渋谷でPOPUP開催",
+      "brand": "株式会社サン・スマイル",
+      "types": [
+        "popup",
+        "novelty",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "内のフォトブースでプロカメラマンが撮影",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-23",
+      "url": "https://prtimes.jp/main/html/rd/p/000000505.000012773.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/12773/505/12773-505-3eb4d584b7047331fb607f844abdf36e-1500x750.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社サン・スマイル(本社：東京都港区／代表取締役社長：田中徳也)が展開する『MASCODE（マスコード）』は、2026年11月22日（日）・23日（月・祝）の2日間、渋谷キャストスペース（東京都渋谷区）にてPOPUP…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-10-30T00:00:00.000Z"
     },
     {
       "id": "prt-the-japan-beauty-runway-2027年4月24日-東京国際フォーラムで開催美容-ファッション-ダンスが融合-jbr-official-mod",
