@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T01:31:25.746Z",
+  "updatedAt": "2026-10-31T01:24:23.048Z",
   "events": [
     {
       "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
@@ -279,6 +279,29 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "prt-追加情報解禁-総勢50人以上のフリマ出店や無料ワークショップも-wwdjapan-主催フリマイベントを11月14日-土-に開催-渋谷-2026-11-14",
+      "title": "【追加情報解禁】総勢50人以上のフリマ出店や無料ワークショップも！　「WWDJAPAN」主催フリマイベントを11月14日（土）に開催",
+      "brand": "株式会社INFASパブリケーションズ",
+      "types": [
+        "minigame",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷近辺",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "url": "https://prtimes.jp/main/html/rd/p/000000220.000080364.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/80364/220/80364-220-cc98563b3dbe89cec207f985e1b802f7-1200x800.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "ファッション＆ビューティ業界メディア「WWDJAPAN」主催、サステナブルな社会実現に向けたサステナブル・カルチャー体験型フリーマーケット 「WWDJAPAN REUSE MARKET 2026 AUTUMN」 は、「C…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-10-30T00:00:00.000Z"
     },
     {
       "id": "prt-tokyo-beauty-week2026-体験型コンテンツ-beauty-walk-は10月26日-月-より予約開始-チケットプラン-業界の垣根を越えた共創パ",
