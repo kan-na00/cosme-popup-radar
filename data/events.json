@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-10-31T01:24:23.048Z",
+  "updatedAt": "2026-11-01T00:39:23.349Z",
   "events": [
-    {
-      "id": "prt-7月のパナソニックビューティ表参道では-人気コスメブランドsisiの人気アイテムが当たる体験ビンゴラリーを実施中-表参道-2026-05-18",
-      "title": "7月のパナソニックビューティ表参道では、人気コスメブランドSISIの人気アイテムが当たる体験ビンゴラリーを実施中。",
-      "brand": "パナソニック株式会社",
-      "types": [
-        "free_sample",
-        "minigame",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "表参道",
-      "venue": "表参道",
-      "startDate": "2026-05-18",
-      "endDate": "2026-10-31",
-      "url": "https://prtimes.jp/main/html/rd/p/000000031.000163417.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/163417/31/163417-31-20778d8e169e46d951452ece51bc790b-2481x1748.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "パナソニック株式会社（以下、パナソニック）は、パナソニックの美容アイテムを体験できるパナソニックビューティ表参道にて2026年夏も性別・年代問わずお立ち寄りいただける美容イベントを多数開催しております。 パナソニックビュ…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-07-10T00:00:00.000Z"
-    },
     {
       "id": "prt-おもてなしセレクション-を1300年の歴史ある名湯で体験-佐賀県-嬉野温泉-和多屋別荘-でポップアップショップがスタート-横浜-2026-10-03",
       "title": "「おもてなしセレクション」を1300年の歴史ある名湯で体験！佐賀県・嬉野温泉「和多屋別荘」でポップアップショップがスタート",
@@ -137,29 +114,6 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-09-30T00:00:00.000Z"
-    },
-    {
-      "id": "prt-韓国コスメ-雑貨popup-釜山でさんぽ-を東京-原宿で開催-10月27日-31日の5日間-韓国のコスメやお菓子が集結-原宿-2026-10-27",
-      "title": "韓国コスメ＆雑貨POPUP「釜山でさんぽ」を東京・原宿で開催！10月27日～31日の5日間、韓国のコスメやお菓子が集結",
-      "brand": "株式会社Inflers",
-      "types": [
-        "popup",
-        "minigame",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "原宿",
-      "venue": "東京・原宿｜神宮前4-25-29 2F ・東京メトロ 明治神宮前駅より徒歩3分 ・東京メ",
-      "startDate": "2026-10-27",
-      "endDate": "2026-10-31",
-      "url": "https://prtimes.jp/main/html/rd/p/000000002.000191339.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/191339/2/191339-2-75606a81d58273110e52278757fcc192-904x510.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "■ 会場：東京・原宿｜神宮前4-25-29 2F ・東京メトロ 明治神宮前駅より徒歩3分 ・東京メトロ 表参道駅より徒歩7分 ・山手線 原宿駅より徒歩8分 開催期間：2026年10月27日（火）～10月31日（土） 営業…",
-      "freeSample": false,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-10-15T00:00:00.000Z"
     },
     {
       "id": "prt-jr東日本が展開する複合アウトドア施設-リトデポ-とone-breath-ワンブレス-が初コラボ-渋谷-2026-11-01",
