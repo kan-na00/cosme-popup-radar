@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T01:12:19.654Z",
+  "updatedAt": "2026-11-03T03:16:29.050Z",
   "events": [
     {
       "id": "prt-tirtir-新作クッションファンデのオフライン発売を記念し-渋谷ロフト1階間坂ステージにてpopup-storeを開催-10-17-土-10-30-金-渋谷-",
@@ -115,6 +115,27 @@
       "collectedAt": "2026-10-21T00:00:00.000Z"
     },
     {
+      "id": "prt-kanebo-パラリンアート-私を動かす-光-と-色彩-障がい者アートコンテスト-作品募集開始-東京-2026-11-01",
+      "title": "KANEBO × パラリンアート「私を動かす『光』と『色彩』」障がい者アートコンテスト 作品募集開始！",
+      "brand": "一般社団法人障がい者自立推進機構",
+      "types": [
+        "novelty"
+      ],
+      "prefecture": "東京",
+      "area": "東京",
+      "venue": "東京",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-30",
+      "url": "https://prtimes.jp/main/html/rd/p/000000111.000064050.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/64050/111/64050-111-05ed4bac974d202cc2568e2d0f7428fb-156x54.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "一般社団法人障がい者自立推進機構 パラリンアート運営事務局（所在地：東京都港区、代表理事：松永 昭弘、以下「パラリンアート」）は、「I HOPE.」を掲げ、美ではなく、希望を発信する化粧品ブランド「KANEBO」とゴール…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
       "id": "prt-tirtir-自分らしい輝きを見つけるホテルステイ-がテーマの体験型popup-glam-suite-of-glow-を表参道にて期間限定開催-11月3日-火-",
       "title": "【TIRTIR】\"自分らしい輝きを見つけるホテルステイ\"がテーマの体験型POPUP『GLAM SUITE OF GLOW』を表参道にて期間限定開催。11月3日（火・祝）～11月8日（日）",
       "brand": "株式会社Goodai Global Japan",
@@ -141,6 +162,27 @@
       "collectedAt": "2026-10-27T00:00:00.000Z"
     },
     {
+      "id": "prt-メンズ専門美容室-l-mark-アンファー-スカルプd-ネクストプラス-と連携-表参道-2026-11-04",
+      "title": "メンズ専門美容室「L-MARK」、アンファー「スカルプD ネクストプラス」と連携！",
+      "brand": "株式会社L-MARK",
+      "types": [
+        "free_sample"
+      ],
+      "prefecture": "東京",
+      "area": "表参道",
+      "venue": "表参道",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-30",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000152391.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/152391/7/152391-7-68764d0cdbb39f12c328cfb6c5bd47a3-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "全国でメンズ専門美容室を展開する株式会社L-MARK（本社：大阪府寝屋川市、代表取締役：池谷義彦、以下「L-MARK」）は、アンファー株式会社（本社：東京都千代田区、以下「アンファー」）が展開するヘアケアブランド「スカル…",
+      "freeSample": true,
+      "hasGift": false,
+      "hasGame": false,
+      "collectedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
       "id": "prt-mash-park-project-26-メイクアップやアート制作-縁日のようなアクティビティなど-大人も子どももわくわく楽しめるワークショップを多数開催-東京",
       "title": "【MASH PARK PROJECT ’26】メイクアップやアート制作、縁日のようなアクティビティなど、大人も子どももわくわく楽しめるワークショップを多数開催！",
       "brand": "株式会社マッシュホールディングス",
@@ -162,6 +204,29 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "prt-韓国のビューティー-ファッション-ライフスタイルブランドが集結-sobune-seoul-life-in-omotesando-表参道-2026-11-06",
+      "title": "韓国のビューティー・ファッション・ライフスタイルブランドが集結！「SOBUNE × SEOUL LIFE in OMOTESANDO」",
+      "brand": "Sobune Co., Ltd",
+      "types": [
+        "popup",
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "表参道",
+      "venue": "STUMP BASE 1F ・",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000193802.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/193802/1/193802-1-21987bbf36c5ae50f7da6d845c56f3a9-1920x1279.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "SOBUNE × SEOUL LIFE 韓国のビューティーをはじめ、ファッションやライフスタイルなど、多彩なジャンルのブランドが集まるポップアップイベント「SEOUL LIFE」が、2026年11月6日（金）から8日（日…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-11-03T00:00:00.000Z"
     },
     {
       "id": "prt-キヅナツキ先生の人気漫画-ギ-ン-とのコラボコスメが-icouleur-アイクルール-より登場-描き下ろしビジュアルをあしらったアイシャドウを11月7日発売-渋",
