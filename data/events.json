@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T03:16:29.050Z",
+  "updatedAt": "2026-11-04T01:51:58.100Z",
   "events": [
     {
       "id": "prt-tirtir-新作クッションファンデのオフライン発売を記念し-渋谷ロフト1階間坂ステージにてpopup-storeを開催-10-17-土-10-30-金-渋谷-",
@@ -47,29 +47,6 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "id": "prt-10月22日開幕-uka-ダンスエンターテイメント演劇-passion-北斎の描く夢-スペシャルコラボレーション展開決定-六本木-2026-10-22",
-      "title": "【10月22日開幕】uka×ダンスエンターテイメント演劇『PASSION ― 北斎の描く夢 ―』スペシャルコラボレーション展開決定！",
-      "brand": "株式会社ホリプロ",
-      "types": [
-        "free_sample",
-        "minigame",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "六本木",
-      "venue": "】 ・uka 東京ミッドタウン 六本木 ・uka park side suite ・uk",
-      "startDate": "2026-10-22",
-      "endDate": "2026-11-03",
-      "url": "https://prtimes.jp/main/html/rd/p/000001368.000028143.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/28143/1368/28143-1368-1017fb389fc1254b624ff590dbbd4fac-1500x1000.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "今月10月22日(木)に開幕する『PASSION ― 北斎の描く夢 ―』。本作は、ダンス・演劇・音楽が融合し、葛飾北斎の描くことへの尽きることのない情熱に迫る舞台作品。この度、上演を記念して、トータルビューティーサロンu…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-10-19T00:00:00.000Z"
     },
     {
       "id": "prt-ムシンサ-関西最大級-3-400点の商品を展開-試着できる-musinsa-osaka-pop-up-store-2026-を10月23日-金-11月8日-日-",
@@ -301,6 +278,28 @@
       "collectedAt": "2026-10-30T00:00:00.000Z"
     },
     {
+      "id": "prt-フランスno-1-フレグランスブランド-adopt-が贈る-小さなフレンチクリスマス-有楽町マルイに日本初期間限定ポップアップストアが登場-有楽町-2026-1",
+      "title": "フランスNo.1*フレグランスブランド「Adopt」が贈る、小さなフレンチクリスマス！有楽町マルイに日本初期間限定ポップアップストアが登場",
+      "brand": "株式会社 Delight Trading",
+      "types": [
+        "popup",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "有楽町",
+      "venue": "有楽町マルイ1F",
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-29",
+      "url": "https://prtimes.jp/main/html/rd/p/000000011.000143237.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/143237/11/143237-11-2f2596c31c83f4c2be1ed905bc09191e-3900x3900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "Bonjour, Christmas！ 今年のホリデーシーズン、フランスNo.1*フレグランスブランド「Adopt（アドプト）」が、有楽町マルイにちょっぴりフレンチなクリスマスをお届けします。 11月16日（月）から29…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-11-04T00:00:00.000Z"
+    },
+    {
       "id": "prt-tokyo-beauty-week2026-体験型コンテンツ-beauty-walk-は10月26日-月-より予約開始-チケットプラン-業界の垣根を越えた共創パ",
       "title": "「Tokyo Beauty Week2026」体験型コンテンツ「Beauty Walk」は10月26日（月）より予約開始　チケットプラン、業界の垣根を越えた共創パートナー第1弾発表",
       "brand": "株式会社アイスタイル",
@@ -459,6 +458,28 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "prt-開催決定-韓国発ec-w-concept-が11月26日-木-より11日間-渋谷にて過去最大級のpop-up-wonderful-holidays-from-s",
+      "title": "【開催決定】韓国発EC「W CONCEPT」が11月26日(木)より11日間、渋谷にて過去最大級のPOP-UP「WONDERFUL HOLIDAYS FROM SEOUL」を開催",
+      "brand": "W Concept Korea Co., Ltd.",
+      "types": [
+        "popup",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "内でお気に入りのアイテムを見つけたら",
+      "startDate": "2026-11-26",
+      "endDate": "2026-12-06",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000193747.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/193747/1/193747-1-a17182d9e36134a0f574bbce431b93aa-1600x791.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "韓国のデザイナーズブランドや最先端ライフスタイルを牽引するECプラットフォーム「W CONCEPT（ダブリューコンセプト）」は、2026年11月26日（木）〜12月6日（日）の11日間にわたり、東京・渋谷にて過去最大規模…",
+      "freeSample": false,
+      "hasGift": false,
+      "hasGame": false,
+      "collectedAt": "2026-11-04T00:00:00.000Z"
     },
     {
       "id": "prt-the-japan-beauty-runway-2027年4月24日-東京国際フォーラムで開催美容-ファッション-ダンスが融合-jbr-official-mod",
