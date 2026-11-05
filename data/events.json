@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T01:51:58.100Z",
+  "updatedAt": "2026-11-05T01:58:24.026Z",
   "events": [
     {
       "id": "prt-tirtir-新作クッションファンデのオフライン発売を記念し-渋谷ロフト1階間坂ステージにてpopup-storeを開催-10-17-土-10-30-金-渋谷-",
@@ -276,6 +276,29 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "prt-グローバルスキンケアブランドskin1004-渋谷の人気銭湯-改良湯-とコラボ-センテラの湯-を開催-渋谷-2026-11-15",
+      "title": "【グローバルスキンケアブランドSKIN1004】渋谷の人気銭湯「改良湯」とコラボ！『センテラの湯』を開催！",
+      "brand": "株式会社Goodai Global Japan",
+      "types": [
+        "free_sample",
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "改良湯",
+      "startDate": "2026-11-15",
+      "endDate": "2026-12-06",
+      "url": "https://prtimes.jp/main/html/rd/p/000000087.000127171.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/127171/87/127171-87-5a1dee9c2fb4dc3291e62969255d73b3-1536x1024.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "グローバルスキンケアブランド「SKIN1004（スキンワンオーオーフォー）」は、2026年11月15日（日）〜2026年12月6日（日）の期間、都内の人気銭湯「改良湯」にて「センテラの湯」を開催いたします。イベント限定の…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-11-05T00:00:00.000Z"
     },
     {
       "id": "prt-フランスno-1-フレグランスブランド-adopt-が贈る-小さなフレンチクリスマス-有楽町マルイに日本初期間限定ポップアップストアが登場-有楽町-2026-1",
