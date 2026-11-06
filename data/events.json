@@ -1,53 +1,6 @@
 {
-  "updatedAt": "2026-11-05T01:58:24.026Z",
+  "updatedAt": "2026-11-06T01:58:24.417Z",
   "events": [
-    {
-      "id": "prt-tirtir-新作クッションファンデのオフライン発売を記念し-渋谷ロフト1階間坂ステージにてpopup-storeを開催-10-17-土-10-30-金-渋谷-",
-      "title": "【TIRTIR】新作クッションファンデのオフライン発売を記念し、渋谷ロフト1階間坂ステージにてPOPUP STOREを開催！10/17（土）～10/30（金）",
-      "brand": "株式会社Goodai Global Japan",
-      "types": [
-        "popup",
-        "free_sample",
-        "minigame",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "渋谷",
-      "startDate": "2026-10-17",
-      "endDate": "2026-11-05",
-      "url": "https://prtimes.jp/main/html/rd/p/000000081.000127171.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/127171/81/127171-81-b434e413bd42d4400a5805bbb655fe6c-3332x2500.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "※画像はイメージです 株式会社Goodai Global Japan（本社：東京都港区、代表取締役社長：呉 東勲）が展開する韓国発のコスメブランド「TIRTIR（ティルティル）」は、新作クッションファンデーション『ティン…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "prt-3つの新作を-ひと足もふた足もお先に-unmix初のスキンケアラインを体験する代官山-蔦屋書店-pop-up-ローンチイベント開催-代官山-2026-10-21",
-      "title": "3つの新作を、ひと足もふた足もお先に。UNMIX初のスキンケアラインを体験する代官山 蔦屋書店 POP-UP & ローンチイベント開催",
-      "brand": "株式会社YOSHIKAWA OPERATING JAPAN",
-      "types": [
-        "free_sample",
-        "gift",
-        "workshop"
-      ],
-      "prefecture": "東京",
-      "area": "代官山",
-      "venue": "代官山 蔦屋書店 3号館2階 SHARE LOUNGEイベントスペース「Session;",
-      "startDate": "2026-10-21",
-      "endDate": "2026-11-05",
-      "url": "https://prtimes.jp/main/html/rd/p/000000005.000174792.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/174792/5/174792-5-4ca081665504ac7fe250bceb8536e75f-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "2026年10月21日（水）より、代官山 蔦屋書店にてPOP-UPを開催いたします。 ブランド初となる新スキンケアラインをはじめ、人気製品の新色、2027年2月発売の美しさを追求しバージョンアップした製品を先行発売いたし…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-10-05T00:00:00.000Z"
-    },
     {
       "id": "prt-ムシンサ-関西最大級-3-400点の商品を展開-試着できる-musinsa-osaka-pop-up-store-2026-を10月23日-金-11月8日-日-",
       "title": "ムシンサ、関西最大級 3,400点の商品を展開&試着できる「MUSINSA Osaka Pop-Up Store 2026」を10月23日(金)〜11月8日(日)の期間、大阪・梅田にて開催！",
@@ -230,6 +183,51 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "prt-木漏れ日をイメージした温かい光に包まれる-クリスマス-エリア-が初登場ラグジュアリーホテルのクリスマスホリデー-六本木-2026-11-07",
+      "title": "木漏れ日をイメージした温かい光に包まれる「クリスマス エリア」が初登場ラグジュアリーホテルのクリスマスホリデー",
+      "brand": "グランド ハイアット 東京",
+      "types": [
+        "popup"
+      ],
+      "prefecture": "東京",
+      "area": "六本木",
+      "venue": "1階ロビーエリア 点灯時間： 7:00～23:00 ◆サンタクロース グリーティング 実",
+      "startDate": "2026-11-07",
+      "endDate": "2026-12-25",
+      "url": "https://prtimes.jp/main/html/rd/p/000000397.000030821.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/30821/397/30821-397-bbfc23c4ea0d0d59fe92bd51e78b8b9f-1536x1024.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "都会の喧騒にそびえ立つダイナミックなラグジュアリーホテル、グランド ハイアット 東京（東京都港区、総支配人： マイケル ゴールデン）は、2026年のホリデーシーズンのテーマを「The Beauty of Together…",
+      "freeSample": false,
+      "hasGift": false,
+      "hasGame": false,
+      "collectedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "id": "prt-渋谷にk-ビューティーが集結-韓国の人気ブランド11社が参加する体験型イベント-2026-harupo-k-beauty-festa-in-shibuya-を1",
+      "title": "渋谷にK-ビューティーが集結！韓国の人気ブランド11社が参加する体験型イベント「2026 HARUPO K-BEAUTY FESTA in SHIBUYA」を11月12日（木）～15日（日）に開催",
+      "brand": "株式会社FIT",
+      "types": [
+        "popup",
+        "free_sample",
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "施工および運営を担当しています",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-15",
+      "url": "https://prtimes.jp/main/html/rd/p/000000023.000171754.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/171754/23/171754-23-ce40340cda91a6da9f6738e311519c79-1731x909.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "韓国ブランドと日本の消費者をつなぐ体験モニタープラットフォーム「HARUPO（ハルポ）」を運営するHaru Creative（ハルクリエイティブ、本社：韓国・ソウル）は、2026年11月12日（木）から15日（日）までの…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-11-05T00:00:00.000Z"
     },
     {
       "id": "prt-事前入場登録開始-ファッション好きが集い-繋げる1日だけの体験型フリマイベント-wwdjapan-reuse-market-2026-autumn-が11月14",
