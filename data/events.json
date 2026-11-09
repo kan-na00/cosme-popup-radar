@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-11-08T01:01:33.462Z",
+  "updatedAt": "2026-11-09T01:24:07.502Z",
   "events": [
-    {
-      "id": "prt-ムシンサ-関西最大級-3-400点の商品を展開-試着できる-musinsa-osaka-pop-up-store-2026-を10月23日-金-11月8日-日-",
-      "title": "ムシンサ、関西最大級 3,400点の商品を展開&試着できる「MUSINSA Osaka Pop-Up Store 2026」を10月23日(金)〜11月8日(日)の期間、大阪・梅田にて開催！",
-      "brand": "株式会社 MUSINSA JAPAN",
-      "types": [
-        "popup",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "原宿",
-      "venue": "には全71ブランドが集結し",
-      "startDate": "2026-10-23",
-      "endDate": "2026-11-08",
-      "url": "https://prtimes.jp/main/html/rd/p/000000107.000071607.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/71607/107/71607-107-1ab6f497820ccc4ebf4c0eedceda03eb-1056x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "韓国を代表するファッションプラットフォーム「MUSINSA（ムシンサ）」は、2026年10月23日（金）より17日間、大阪・梅田の「VS.（ヴイエス）」にて、『MUSINSA Osaka Pop-Up Store 202…",
-      "freeSample": false,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-09-30T00:00:00.000Z"
-    },
     {
       "id": "prt-jr東日本が展開する複合アウトドア施設-リトデポ-とone-breath-ワンブレス-が初コラボ-渋谷-2026-11-01",
       "title": "JR東日本が展開する複合アウトドア施設「リトデポ」とONE BREATH（ワンブレス）が初コラボ",
@@ -66,30 +44,25 @@
       "collectedAt": "2026-11-02T00:00:00.000Z"
     },
     {
-      "id": "prt-tirtir-自分らしい輝きを見つけるホテルステイ-がテーマの体験型popup-glam-suite-of-glow-を表参道にて期間限定開催-11月3日-火-",
-      "title": "【TIRTIR】\"自分らしい輝きを見つけるホテルステイ\"がテーマの体験型POPUP『GLAM SUITE OF GLOW』を表参道にて期間限定開催。11月3日（火・祝）～11月8日（日）",
-      "brand": "株式会社Goodai Global Japan",
+      "id": "prt-11-11-ソロウェディングの日-aim東京原宿店限定で-ソロウェディング-スペシャルウィークリーイベント-を11月1日より限定開催-最大20-offや衣装追加",
+      "title": "【11/11 | ソロウェディングの日！】aim東京原宿店限定で「ソロウェディング スペシャルウィークリーイベント」を11月1日より限定開催！〜最大20%OFFや衣装追加など豪華5大特典あり〜",
+      "brand": "有限会社三景スタジオ",
       "types": [
-        "popup",
-        "free_sample",
-        "minigame",
-        "novelty",
-        "gift",
-        "workshop"
+        "gift"
       ],
       "prefecture": "東京",
-      "area": "表参道",
-      "venue": "内を自由にお楽しみいただけます",
-      "startDate": "2026-11-03",
-      "endDate": "2026-11-08",
-      "url": "https://prtimes.jp/main/html/rd/p/000000085.000127171.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/127171/85/127171-85-40e9f6d40a2cc1b5278a0e6c1fa56a30-1080x1350.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "area": "原宿",
+      "venue": "】 aim 東京原宿店 【イベント限定特典】 ① 当日契約・ご入金でプラン基本金額より1",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-30",
+      "url": "https://prtimes.jp/main/html/rd/p/000001664.000041720.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/41720/1664/41720-1664-e15b107aac08b12c70dd3e53fc39fa13-1920x1280.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "source": "PR TIMES",
-      "description": "株式会社Goodai Global Japan（本社：東京都港区、代表取締役社長：呉 東勲）が展開する韓国発のコスメブランド「TIRTIR（ティルティル）」は、2026年11月3日（火・祝）～11月8日（日）までの6日間…",
-      "freeSample": true,
+      "description": "詳細を見る 自由な生き方を楽しむ女性たちへ、誰のためでもない“自分自身のためのウェディングドレス姿”を叶える特別な時間がやってきます。 洗練されたビジュアル提案で圧倒的な支持を集めるフォトスタジオ「aim東京原宿店」は、…",
+      "freeSample": false,
       "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-10-27T00:00:00.000Z"
+      "hasGame": false,
+      "collectedAt": "2026-11-09T00:00:00.000Z"
     },
     {
       "id": "prt-メンズ専門美容室-l-mark-アンファー-スカルプd-ネクストプラス-と連携-表参道-2026-11-04",
@@ -111,29 +84,6 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-11-02T00:00:00.000Z"
-    },
-    {
-      "id": "prt-韓国のビューティー-ファッション-ライフスタイルブランドが集結-sobune-seoul-life-in-omotesando-表参道-2026-11-06",
-      "title": "韓国のビューティー・ファッション・ライフスタイルブランドが集結！「SOBUNE × SEOUL LIFE in OMOTESANDO」",
-      "brand": "Sobune Co., Ltd",
-      "types": [
-        "popup",
-        "minigame",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "表参道",
-      "venue": "STUMP BASE 1F ・",
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-08",
-      "url": "https://prtimes.jp/main/html/rd/p/000000001.000193802.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/193802/1/193802-1-21987bbf36c5ae50f7da6d845c56f3a9-1920x1279.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "SOBUNE × SEOUL LIFE 韓国のビューティーをはじめ、ファッションやライフスタイルなど、多彩なジャンルのブランドが集まるポップアップイベント「SEOUL LIFE」が、2026年11月6日（金）から8日（日…",
-      "freeSample": false,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-11-03T00:00:00.000Z"
     },
     {
       "id": "prt-キヅナツキ先生の人気漫画-ギ-ン-とのコラボコスメが-icouleur-アイクルール-より登場-描き下ろしビジュアルをあしらったアイシャドウを11月7日発売-渋",
