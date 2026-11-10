@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-09T01:24:07.502Z",
+  "updatedAt": "2026-11-10T03:57:02.564Z",
   "events": [
+    {
+      "id": "prt-bioheal-boh-バイオヒールボ-この秋-街なかやスパで-ブランドの魅力に出会える多彩な体験型プロモーションを展開-渋谷-2026-10-31",
+      "title": "【BIOHEAL BOH（バイオヒールボ）】この秋、街なかやスパで、ブランドの魅力に出会える多彩な体験型プロモーションを展開！",
+      "brand": "CJ Olive Young Japan株式会社",
+      "types": [
+        "popup",
+        "free_sample",
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "やシーンを通じて",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-20",
+      "url": "https://prtimes.jp/main/html/rd/p/000000066.000148369.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/148369/66/148369-66-21d7881a558ce7e1b978f189af7d640d-1920x1280.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "韓国オリーブヤング発の高機能スキンケアブランド「BIOHEAL BOH（バイオヒールボ）」は、2026年秋、東京と大阪にて、アドトラックの走行やバスポップアップストアの開催、スパ施設でのサンプリングなど、多彩なプロモーシ…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-11-10T00:00:00.000Z"
+    },
     {
       "id": "prt-jr東日本が展開する複合アウトドア施設-リトデポ-とone-breath-ワンブレス-が初コラボ-渋谷-2026-11-01",
       "title": "JR東日本が展開する複合アウトドア施設「リトデポ」とONE BREATH（ワンブレス）が初コラボ",
@@ -203,6 +227,27 @@
       "collectedAt": "2026-10-30T00:00:00.000Z"
     },
     {
+      "id": "prt-追加情報解禁-俳優-安野澄や濱本愛弓スタイリストらがトーク-wwdjapan-reuse-market-2026-autumn-青山-2026-11-14",
+      "title": "【追加情報解禁】俳優・安野澄や濱本愛弓スタイリストらがトーク！「WWDJAPAN REUSE MARKET 2026 AUTUMN」",
+      "brand": "株式会社INFASパブリケーションズ",
+      "types": [
+        "popup"
+      ],
+      "prefecture": "東京",
+      "area": "青山",
+      "venue": "青山",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "url": "https://prtimes.jp/main/html/rd/p/000000223.000080364.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/80364/223/80364-223-cc98563b3dbe89cec207f985e1b802f7-1200x800.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "ファッション＆ビューティ業界メディア「WWDJAPAN」主催、サステナブルな社会実現に向けたサステナブル・カルチャー体験型フリーマーケット 「WWDJAPAN REUSE MARKET 2026 AUTUMN」 は、「C…",
+      "freeSample": false,
+      "hasGift": false,
+      "hasGame": false,
+      "collectedAt": "2026-11-09T00:00:00.000Z"
+    },
+    {
       "id": "prt-グローバルスキンケアブランドskin1004-渋谷の人気銭湯-改良湯-とコラボ-センテラの湯-を開催-渋谷-2026-11-15",
       "title": "【グローバルスキンケアブランドSKIN1004】渋谷の人気銭湯「改良湯」とコラボ！『センテラの湯』を開催！",
       "brand": "株式会社Goodai Global Japan",
@@ -383,6 +428,27 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "id": "prt-パーフェクト社ceoのalice-chang-asia-beautytech-awards-2026-に登壇-アジア発のビューティーイノベーションの未来を語る-",
+      "title": "パーフェクト社CEOのAlice Chang、「ASIA BEAUTYTECH AWARDS 2026」に登壇。アジア発のビューティーイノベーションの未来を語る",
+      "brand": "パーフェクト株式会社",
+      "types": [
+        "popup"
+      ],
+      "prefecture": "東京",
+      "area": "表参道",
+      "venue": "ザ・ストリングス 表参道",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "url": "https://prtimes.jp/main/html/rd/p/000000286.000066482.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/66482/286/66482-286-b6346101e0d8b468f8f61822fde8d2f8-1134x756.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "「消費者の生活をより美しく」をスローガンに掲げるパーフェクト株式会社（以下、パーフェクト）は、2026年11月19日（木）にザ・ストリングス 表参道で開催される「ASIA BEAUTYTECH AWARDS 2026」の…",
+      "freeSample": false,
+      "hasGift": false,
+      "hasGame": false,
+      "collectedAt": "2026-11-09T00:00:00.000Z"
     },
     {
       "id": "prt-その日に選んだマスクの色に-プロが-似合わせ-メイク-マスク-アイライナーブランド-mascode-渋谷でpopup開催-渋谷-2026-11-21",
