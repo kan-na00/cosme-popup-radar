@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T01:41:29.624Z",
+  "updatedAt": "2026-11-12T02:40:22.099Z",
   "events": [
     {
       "id": "prt-bioheal-boh-バイオヒールボ-この秋-街なかやスパで-ブランドの魅力に出会える多彩な体験型プロモーションを展開-渋谷-2026-10-31",
@@ -387,6 +387,29 @@
       "collectedAt": "2026-10-28T00:00:00.000Z"
     },
     {
+      "id": "prt-高級サロン発ヘアケアブランド-kuu-が博多阪急でのポップアップイベントを初開催-表参道-2026-11-18",
+      "title": "高級サロン発ヘアケアブランド「Kuu」が博多阪急でのポップアップイベントを初開催",
+      "brand": "株式会社Qvou",
+      "types": [
+        "popup",
+        "free_sample",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "表参道",
+      "venue": "表参道店〉店",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-24",
+      "url": "https://prtimes.jp/main/html/rd/p/000000058.000063938.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/63938/58/63938-58-252750292a1b7e5ec9273977e46378e9-1800x945.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社Qvou（兵庫県神戸市 代表取締役：久保龍太郎）は、一滴の水も含まない*、高級ヘッドスパサロン発ヘアケアブランド「Kuu」のポップアップショップを、博多阪急にて2026年11月18日(水)から11月24日(火)ま…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
       "id": "prt-yolu-初のコラボカフェが表参道に限定オープン-限定-夜パフェ-やドリンクを楽しめる新作ヘアマスク付きメニューが登場-表参道-2026-11-19",
       "title": "「YOLU」初のコラボカフェが表参道に限定オープン！限定「夜パフェ」やドリンクを楽しめる新作ヘアマスク付きメニューが登場！",
       "brand": "株式会社Ｉ－ｎｅ",
@@ -494,6 +517,54 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "id": "prt-ベルサイユのばら-顔タイプ診断-やプロのメイクアドバイスなどコスメ体験が渋谷に盛りだくさん-東急百貨店運営-shibuya-beauty-jam-the-wee",
+      "title": "『ベルサイユのばら』顔タイプ診断®やプロのメイクアドバイスなどコスメ体験が渋谷に盛りだくさん！東急百貨店運営「SHIBUYA BEAUTY JAM THE WEEKS」を11月26日（木）から開催",
+      "brand": "株式会社 東急百貨店",
+      "types": [
+        "popup",
+        "free_sample",
+        "novelty",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷スクランブルスクエア店",
+      "startDate": "2026-11-26",
+      "endDate": "2026-12-09",
+      "url": "https://prtimes.jp/main/html/rd/p/000000176.000020722.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/20722/176/20722-176-f5495692abb21dcd43a5f70bbde1e4d1-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "特設LP：https://www.tokyu-dept.co.jp/shibuyabeautyjam/specialcontents/2026winter/index.html 株式会社 東急百貨店（以下、当社）は、20…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "prt-spa-laqua-スパ-ラクーア-wonjungyo-ウォンジョンヨ-きらめくクリスマスに-コラボイベント開催-ヘアもメイクも楽しむ-特別な美容体験をお届け-",
+      "title": "Spa LaQua（スパ ラクーア）× Wonjungyo（ウォンジョンヨ）きらめくクリスマスに。コラボイベント開催！ヘアもメイクも楽しむ、特別な美容体験をお届け。",
+      "brand": "株式会社Rainmakers",
+      "types": [
+        "free_sample",
+        "minigame",
+        "novelty",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "日本橋",
+      "venue": "・商品",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-27",
+      "url": "https://prtimes.jp/main/html/rd/p/000000353.000084518.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/84518/353/84518-353-c294ddac84566eaef424d55c49d2b768-1600x1200.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社 Rainmakers（本社：東京都中央区、代表取締役：宇佐美 眞）が展開する、涙袋メイクの第一人者でヘアメイクサロンBit&Boot の共同代表を務めるウォン・ジョンヨ氏が監修するブランド「Wonjungyo（…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-11-12T00:00:00.000Z"
     },
     {
       "id": "prt-the-japan-beauty-runway-2027年4月24日-東京国際フォーラムで開催美容-ファッション-ダンスが融合-jbr-official-mod",
