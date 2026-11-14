@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T02:21:14.056Z",
+  "updatedAt": "2026-11-14T01:57:36.249Z",
   "events": [
     {
       "id": "prt-bioheal-boh-バイオヒールボ-この秋-街なかやスパで-ブランドの魅力に出会える多彩な体験型プロモーションを展開-渋谷-2026-10-31",
@@ -179,6 +179,29 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "id": "prt-開催中-渋谷-2026-harupo-k-beauty-festa-初日に1-461名が来場-混雑緩和のため-整理券によるご案内を開始-渋谷-2026-11-1",
+      "title": "【開催中】渋谷「2026 HARUPO K-BEAUTY FESTA」初日に1,461名が来場！混雑緩和のため、整理券によるご案内を開始",
+      "brand": "株式会社FIT",
+      "types": [
+        "popup",
+        "free_sample",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "の混雑を緩和し",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-15",
+      "url": "https://prtimes.jp/main/html/rd/p/000000026.000171754.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/171754/26/171754-26-2d0974cebc056e2db0f721f91853c059-1477x1108.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "体験モニタープラットフォーム「HARUPO（ハルポ）」を運営するHaru Creative（ハルクリエイティブ、本社：韓国・ソウル）は、2026年11月12日（木）より東京・渋谷の「ZeroBase渋谷」で開催中の「20…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-11-13T00:00:00.000Z"
     },
     {
       "id": "prt-事前入場登録開始-ファッション好きが集い-繋げる1日だけの体験型フリマイベント-wwdjapan-reuse-market-2026-autumn-が11月14",
@@ -410,6 +433,74 @@
       "collectedAt": "2026-11-12T00:00:00.000Z"
     },
     {
+      "id": "prt-日本初開催-韓国で累計900万本-売上350億円突破のバイオコスメ-cepolab-セポラボ-が-cosme-osakaにて期間限定ポップアップを開催-横浜-2",
+      "title": "【日本初開催】韓国で累計900万本・売上350億円突破のバイオコスメ「cepoLAB（セポラボ）」が＠cosme OSAKAにて期間限定ポップアップを開催！",
+      "brand": "グランソルース株式会社",
+      "types": [
+        "popup",
+        "free_sample",
+        "gift"
+      ],
+      "prefecture": "神奈川",
+      "area": "横浜",
+      "venue": "横浜",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-24",
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000141690.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/141690/5/141690-5-fc202052d470d06dff3fe6a3ef0bac76-1080x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "セポラボ国内初のポップアップイベントをアットコスメオーサカにて開催 グランソルース株式会社（本社：神奈川県横浜市、代表取締役：趙 晃大）は、韓国のバイオテクノロジー企業FugenBio社が手がけるバイオビューティーブラン…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "prt-韓国の-今-と出会う-ワクワクの12日間-k-beauty-pop-up-studio-seoul-が東京-木場に登場-渋谷-2026-11-18",
+      "title": "韓国の“今”と出会う、ワクワクの12日間！K-Beauty POP-UP「STUDIO SEOUL」が東京・木場に登場！",
+      "brand": "一般社団法人韓国化粧品協会",
+      "types": [
+        "popup",
+        "free_sample",
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "にてご案内いたします",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-29",
+      "url": "https://prtimes.jp/main/html/rd/p/000000008.000122777.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/122777/8/122777-8-675f8c9f9f9f906c29b689835e14fc97-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "一般社団法人韓国化粧品協会とメディブリッジ株式会社は、2026年11月18日（水）から11月29日（日）までの12日間、東京都江東区のイトーヨーカドー木場店にて、韓国のビューティーとライフスタイルを楽しめる期間限定POP…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "prt-tokyo-beauty-week-2026-来場前に楽しめる2つの診断を提供開始-原宿-2026-11-18",
+      "title": "「Tokyo Beauty Week 2026」来場前に楽しめる2つの診断を提供開始",
+      "brand": "株式会社アイスタイル",
+      "types": [
+        "popup"
+      ],
+      "prefecture": "東京",
+      "area": "原宿",
+      "venue": "内で訪れるべきおすすめのブランドブースやコスメ",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-24",
+      "url": "https://prtimes.jp/main/html/rd/p/000000540.000005126.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/5126/540/5126-540-c7fabec77afc661dfbea31e4ee8dff45-601x401.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "Tokyo Beauty Week実行委員会（企画・運営：株式会社アイスタイル）は、2026年11月18日（水）～24日（火）に原宿・表参道エリアで開催するビューティーの祭典「Tokyo Beauty Week 2026…",
+      "freeSample": false,
+      "hasGift": false,
+      "hasGame": false,
+      "collectedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
       "id": "prt-yolu-初のコラボカフェが表参道に限定オープン-限定-夜パフェ-やドリンクを楽しめる新作ヘアマスク付きメニューが登場-表参道-2026-11-19",
       "title": "「YOLU」初のコラボカフェが表参道に限定オープン！限定「夜パフェ」やドリンクを楽しめる新作ヘアマスク付きメニューが登場！",
       "brand": "株式会社Ｉ－ｎｅ",
@@ -565,6 +656,29 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "prt-ベースメイクブランド-vim-beauty-ィムビューティー-が-cosme-tokyoにて期間限定popupを開催-渋谷-2026-12-09",
+      "title": "ベースメイクブランド「vim BEAUTY（ヴィムビューティー）」が、@cosme TOKYOにて期間限定POPUPを開催！",
+      "brand": "株式会社Direct Tech",
+      "types": [
+        "popup",
+        "minigame",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-15",
+      "url": "https://prtimes.jp/main/html/rd/p/000000235.000054399.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/54399/235/54399-235-3783cbe9b2b13fe531a86ec9a7942468-1920x1280.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "BRANDING PRODUCE COMPANYである株式会社Direct Tech（本社：東京都渋谷区、代表取締役社長：井上 信太郎、以下Direct Tech）は、メイクアップクリエイター“マリリン”との協働プロデュ…",
+      "freeSample": false,
+      "hasGift": false,
+      "hasGame": true,
+      "collectedAt": "2026-11-13T00:00:00.000Z"
     },
     {
       "id": "prt-the-japan-beauty-runway-2027年4月24日-東京国際フォーラムで開催美容-ファッション-ダンスが融合-jbr-official-mod",
