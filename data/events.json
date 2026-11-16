@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T01:29:50.782Z",
+  "updatedAt": "2026-11-16T01:32:49.048Z",
   "events": [
     {
       "id": "prt-bioheal-boh-バイオヒールボ-この秋-街なかやスパで-ブランドの魅力に出会える多彩な体験型プロモーションを展開-渋谷-2026-10-31",
@@ -24,27 +24,6 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-11-10T00:00:00.000Z"
-    },
-    {
-      "id": "prt-jr東日本が展開する複合アウトドア施設-リトデポ-とone-breath-ワンブレス-が初コラボ-渋谷-2026-11-01",
-      "title": "JR東日本が展開する複合アウトドア施設「リトデポ」とONE BREATH（ワンブレス）が初コラボ",
-      "brand": "株式会社BUB",
-      "types": [
-        "free_sample"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "”から",
-      "startDate": "2026-11-01",
-      "endDate": "2026-11-15",
-      "url": "https://prtimes.jp/main/html/rd/p/000000026.000108126.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/108126/26/108126-26-f582d8705f2c284011f1f7096fe7a858-2048x1085.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "株式会社BUB（本社：東京都渋谷区、代表取締役：梅澤慶気）が展開するスポーツビューティーブランド「ONE BREATH（ワンブレス）」は、東日本旅客鉄道株式会社（以下、JR東日本）が事業主体となり、株式会社ジェイアール東…",
-      "freeSample": true,
-      "hasGift": false,
-      "hasGame": false,
-      "collectedAt": "2026-10-21T00:00:00.000Z"
     },
     {
       "id": "prt-kanebo-パラリンアート-私を動かす-光-と-色彩-障がい者アートコンテスト-作品募集開始-東京-2026-11-01",
@@ -155,53 +134,6 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-11-05T00:00:00.000Z"
-    },
-    {
-      "id": "prt-渋谷にk-ビューティーが集結-韓国の人気ブランド11社が参加する体験型イベント-2026-harupo-k-beauty-festa-in-shibuya-を1",
-      "title": "渋谷にK-ビューティーが集結！韓国の人気ブランド11社が参加する体験型イベント「2026 HARUPO K-BEAUTY FESTA in SHIBUYA」を11月12日（木）～15日（日）に開催",
-      "brand": "株式会社FIT",
-      "types": [
-        "popup",
-        "free_sample",
-        "minigame",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "施工および運営を担当しています",
-      "startDate": "2026-11-12",
-      "endDate": "2026-11-15",
-      "url": "https://prtimes.jp/main/html/rd/p/000000023.000171754.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/171754/23/171754-23-ce40340cda91a6da9f6738e311519c79-1731x909.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "韓国ブランドと日本の消費者をつなぐ体験モニタープラットフォーム「HARUPO（ハルポ）」を運営するHaru Creative（ハルクリエイティブ、本社：韓国・ソウル）は、2026年11月12日（木）から15日（日）までの…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-11-05T00:00:00.000Z"
-    },
-    {
-      "id": "prt-開催中-渋谷-2026-harupo-k-beauty-festa-初日に1-461名が来場-混雑緩和のため-整理券によるご案内を開始-渋谷-2026-11-1",
-      "title": "【開催中】渋谷「2026 HARUPO K-BEAUTY FESTA」初日に1,461名が来場！混雑緩和のため、整理券によるご案内を開始",
-      "brand": "株式会社FIT",
-      "types": [
-        "popup",
-        "free_sample",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "の混雑を緩和し",
-      "startDate": "2026-11-12",
-      "endDate": "2026-11-15",
-      "url": "https://prtimes.jp/main/html/rd/p/000000026.000171754.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/171754/26/171754-26-2d0974cebc056e2db0f721f91853c059-1477x1108.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "体験モニタープラットフォーム「HARUPO（ハルポ）」を運営するHaru Creative（ハルクリエイティブ、本社：韓国・ソウル）は、2026年11月12日（木）より東京・渋谷の「ZeroBase渋谷」で開催中の「20…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-11-13T00:00:00.000Z"
     },
     {
       "id": "prt-グローバルスキンケアブランドskin1004-渋谷の人気銭湯-改良湯-とコラボ-センテラの湯-を開催-渋谷-2026-11-15",
