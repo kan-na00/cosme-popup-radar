@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T01:32:49.048Z",
+  "updatedAt": "2026-11-17T04:18:01.120Z",
   "events": [
     {
       "id": "prt-bioheal-boh-バイオヒールボ-この秋-街なかやスパで-ブランドの魅力に出会える多彩な体験型プロモーションを展開-渋谷-2026-10-31",
@@ -428,6 +428,50 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-11-09T00:00:00.000Z"
+    },
+    {
+      "id": "prt-katan-alpha-drive-one-sangwon-渋谷modiに期間限定pop-up-storeが登場-11月20日-金-より開催-渋谷-2026-1",
+      "title": "KATAN × ALPHA DRIVE ONE 『SANGWON』、渋谷MODIに期間限定POP-UP STOREが登場！11月20日（金）より開催",
+      "brand": "株式会社Hello Venus",
+      "types": [
+        "minigame",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷MODIの館",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-29",
+      "url": "https://prtimes.jp/main/html/rd/p/000000014.000096848.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/96848/14/96848-14-e28d595cfde4d2c031a6467a8ba629e7-1200x900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "KATAN、新ヘアケアシリーズ「SURUN TO MILK」の世界観を体感できるPOP-UP STOREを渋谷MODIで開催！ 黒と白、2つの世界観を表現した特別空間。撮影衣装の展示や限定フォトカードなど、ファン必見の企…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-11-16T00:00:00.000Z"
+    },
+    {
+      "id": "prt-約1分で乾く-剥がせる-oui-nails-が-ネイルを着替える-体験をパリへ-madame-figaro-feel-good-に参加-渋谷-2026-11-2",
+      "title": "約1分で乾く、剥がせる。「oui nails」が“ネイルを着替える”体験をパリへ。Madame Figaro「Feel Good」に参加",
+      "brand": "HISTORIC株式会社",
+      "types": [
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "La Fondation所在地： 40 Rue Legendre, 75017 Pari",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-20",
+      "url": "https://prtimes.jp/main/html/rd/p/000000075.000031205.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/31205/75/31205-75-7787f46792e76f6f02516b00a026295c-806x1024.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "HISTORIC株式会社（東京オフィス：東京都渋谷区）が展開する日本発のネイルブランド「oui nails（ウィネイルズ）」は、2026年11月20日（金）から22日（日）まで、フランス・パリの「La Fondation…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-11-16T00:00:00.000Z"
     },
     {
       "id": "prt-その日に選んだマスクの色に-プロが-似合わせ-メイク-マスク-アイライナーブランド-mascode-渋谷でpopup開催-渋谷-2026-11-21",
