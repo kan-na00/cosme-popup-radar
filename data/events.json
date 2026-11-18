@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T04:18:01.120Z",
+  "updatedAt": "2026-11-18T03:17:38.562Z",
   "events": [
     {
       "id": "prt-bioheal-boh-バイオヒールボ-この秋-街なかやスパで-ブランドの魅力に出会える多彩な体験型プロモーションを展開-渋谷-2026-10-31",
@@ -366,6 +366,27 @@
       "collectedAt": "2026-11-13T00:00:00.000Z"
     },
     {
+      "id": "prt-パーフェクト社のai肌解析技術が-tokyo-beauty-week-2026-の-inner-beauty-check-に採用-原宿-2026-11-18",
+      "title": "パーフェクト社のAI肌解析技術が「Tokyo Beauty Week 2026」の「Inner Beauty Check」に採用",
+      "brand": "パーフェクト株式会社",
+      "types": [
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "原宿",
+      "venue": "「Inner Beauty Brands」でご提示いただくと",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-24",
+      "url": "https://prtimes.jp/main/html/rd/p/000000289.000066482.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/66482/289/66482-289-100070217e59a40c318bde4a49561f6a-1920x1280.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "「消費者の生活をより美しく」をスローガンに掲げるパーフェクト株式会社（以下、パーフェクト）は、Tokyo Beauty Week実行委員会（企画・運営：株式会社アイスタイル）が主催するビューティーの祭典「Tokyo Be…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
       "id": "prt-yolu-初のコラボカフェが表参道に限定オープン-限定-夜パフェ-やドリンクを楽しめる新作ヘアマスク付きメニューが登場-表参道-2026-11-19",
       "title": "「YOLU」初のコラボカフェが表参道に限定オープン！限定「夜パフェ」やドリンクを楽しめる新作ヘアマスク付きメニューが登場！",
       "brand": "株式会社Ｉ－ｎｅ",
@@ -541,6 +562,30 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "prt-韓国発ナチュラルスキンケアブランド-isoi-が11-26-木-より渋谷スクランブルスクエアでpopupイベントを開催-渋谷-2026-11-26",
+      "title": "韓国発ナチュラルスキンケアブランド「ISOI」が11/26(木)より渋谷スクランブルスクエアでPOPUPイベントを開催！",
+      "brand": "Jayeonin Inc.",
+      "types": [
+        "popup",
+        "free_sample",
+        "novelty",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "渋谷",
+      "venue": "渋谷スクランブルスクエア ショップ＆レストラン 6階 +Q",
+      "startDate": "2026-11-26",
+      "endDate": "2026-12-02",
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000175792.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/175792/6/175792-6-0e692f2ff269861c75a99d36ca54c028-1380x920.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社ジャヨンイン（韓国ソウル特別区、代表取締役社長：イ・ジンミン）が展開する韓国発のナチュラルスキンケアブランド「ISOI（アイソイ）」は11月26日(木)から12月2日(水)まで、SHIBUYA BEAUTY JA…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-11-18T00:00:00.000Z"
     },
     {
       "id": "prt-spa-laqua-スパ-ラクーア-wonjungyo-ウォンジョンヨ-きらめくクリスマスに-コラボイベント開催-ヘアもメイクも楽しむ-特別な美容体験をお届け-",
