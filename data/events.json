@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T03:17:38.562Z",
+  "updatedAt": "2026-11-19T02:55:23.622Z",
   "events": [
     {
       "id": "prt-bioheal-boh-バイオヒールボ-この秋-街なかやスパで-ブランドの魅力に出会える多彩な体験型プロモーションを展開-渋谷-2026-10-31",
@@ -493,6 +493,52 @@
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-11-16T00:00:00.000Z"
+    },
+    {
+      "id": "prt-キャンメイク-新宿マルイ-本館b1f-plaza-tokyo-新宿店-にかわいい-世界観がぎゅっと詰まった常設スペース-canmake-market-が2026",
+      "title": "【キャンメイク】新宿マルイ 本館B1F「PLAZA TOKYO+ 新宿店」にかわいい！世界観がぎゅっと詰まった常設スペース「CANMAKE MARKET」が2026年11月20日（金）オープン！",
+      "brand": "株式会社 井田ラボラトリーズ",
+      "types": [
+        "free_sample",
+        "novelty",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "新宿",
+      "venue": "イメージ 株式会社井田ラボラトリーズ",
+      "startDate": "2026-11-20",
+      "endDate": "2026-12-03",
+      "url": "https://prtimes.jp/main/html/rd/p/000000274.000019685.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/19685/274/19685-274-4c67452ec39ad824c626c57fc9094851-1193x960.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "※会場イメージ 株式会社井田ラボラトリーズ（本部：東京都千代田区、代表取締役社長：井田 仁祥）のメイクアップブランド「キャンメイク」は、 2026年11月20日（金）に新宿マルイ 本館（東京都新宿区）に出店する「PLAZ…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "prt-韓国コスメブランド-shionle-からコラボセット-宮川大聖-s-pick-がqoo10秋のメガ割で登場-宮川大聖と1対1でビデオ通話ができるチャンス-東京-",
+      "title": "韓国コスメブランド「ShionLe」からコラボセット「宮川大聖 ’S PICK」がQoo10秋のメガ割で登場！宮川大聖と1対1でビデオ通話ができるチャンス！",
+      "brand": "株式会社DONGRAMYPROJECT",
+      "types": [
+        "minigame",
+        "novelty",
+        "gift"
+      ],
+      "prefecture": "東京",
+      "area": "東京",
+      "venue": "・オンライン：ShionLe Qoo10公式ショップ",
+      "startDate": "2026-11-20",
+      "endDate": "2026-12-09",
+      "url": "https://prtimes.jp/main/html/rd/p/000000226.000107950.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/107950/226/107950-226-61a060364daa3477c06857dfe886c75f-1080x1350.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社DONGRAMY PROJECTが展開する韓国コスメ・スキンケアブランド「ShionLe（ションリ）」は、アーティスト・宮川大聖さんとのタイアップ企画として、コラボセット「宮川大聖 ’S PICK」を販売いたしま…",
+      "freeSample": false,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-11-19T00:00:00.000Z"
     },
     {
       "id": "prt-その日に選んだマスクの色に-プロが-似合わせ-メイク-マスク-アイライナーブランド-mascode-渋谷でpopup開催-渋谷-2026-11-21",
