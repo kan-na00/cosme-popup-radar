@@ -1,30 +1,6 @@
 {
-  "updatedAt": "2026-11-20T02:49:06.033Z",
+  "updatedAt": "2026-11-21T02:58:09.475Z",
   "events": [
-    {
-      "id": "prt-bioheal-boh-バイオヒールボ-この秋-街なかやスパで-ブランドの魅力に出会える多彩な体験型プロモーションを展開-渋谷-2026-10-31",
-      "title": "【BIOHEAL BOH（バイオヒールボ）】この秋、街なかやスパで、ブランドの魅力に出会える多彩な体験型プロモーションを展開！",
-      "brand": "CJ Olive Young Japan株式会社",
-      "types": [
-        "popup",
-        "free_sample",
-        "minigame",
-        "gift"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "やシーンを通じて",
-      "startDate": "2026-10-31",
-      "endDate": "2026-11-20",
-      "url": "https://prtimes.jp/main/html/rd/p/000000066.000148369.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/148369/66/148369-66-21d7881a558ce7e1b978f189af7d640d-1920x1280.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "韓国オリーブヤング発の高機能スキンケアブランド「BIOHEAL BOH（バイオヒールボ）」は、2026年秋、東京と大阪にて、アドトラックの走行やバスポップアップストアの開催、スパ施設でのサンプリングなど、多彩なプロモーシ…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-11-10T00:00:00.000Z"
-    },
     {
       "id": "prt-kanebo-パラリンアート-私を動かす-光-と-色彩-障がい者アートコンテスト-作品募集開始-東京-2026-11-01",
       "title": "KANEBO × パラリンアート「私を動かす『光』と『色彩』」障がい者アートコンテスト 作品募集開始！",
@@ -431,28 +407,6 @@
       "collectedAt": "2026-11-16T00:00:00.000Z"
     },
     {
-      "id": "prt-約1分で乾く-剥がせる-oui-nails-が-ネイルを着替える-体験をパリへ-madame-figaro-feel-good-に参加-渋谷-2026-11-2",
-      "title": "約1分で乾く、剥がせる。「oui nails」が“ネイルを着替える”体験をパリへ。Madame Figaro「Feel Good」に参加",
-      "brand": "HISTORIC株式会社",
-      "types": [
-        "gift",
-        "workshop"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "La Fondation所在地： 40 Rue Legendre, 75017 Pari",
-      "startDate": "2026-11-20",
-      "endDate": "2026-11-20",
-      "url": "https://prtimes.jp/main/html/rd/p/000000075.000031205.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/31205/75/31205-75-7787f46792e76f6f02516b00a026295c-806x1024.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "HISTORIC株式会社（東京オフィス：東京都渋谷区）が展開する日本発のネイルブランド「oui nails（ウィネイルズ）」は、2026年11月20日（金）から22日（日）まで、フランス・パリの「La Fondation…",
-      "freeSample": false,
-      "hasGift": true,
-      "hasGame": false,
-      "collectedAt": "2026-11-16T00:00:00.000Z"
-    },
-    {
       "id": "prt-キャンメイク-新宿マルイ-本館b1f-plaza-tokyo-新宿店-にかわいい-世界観がぎゅっと詰まった常設スペース-canmake-market-が2026",
       "title": "【キャンメイク】新宿マルイ 本館B1F「PLAZA TOKYO+ 新宿店」にかわいい！世界観がぎゅっと詰まった常設スペース「CANMAKE MARKET」が2026年11月20日（金）オープン！",
       "brand": "株式会社 井田ラボラトリーズ",
@@ -677,6 +631,29 @@
       "source": "PR TIMES",
       "description": "UIQ 代官山 蔦屋書店15周年記念 ホリデーミニポップアップ UIQブランドモデル「RIIZE」 マイクロバイオームスキンケアブランド「UIQ（ユイク）」は、2026年12月2日から12月25日まで、代官山 蔦屋書店に…",
       "freeSample": false,
+      "hasGift": true,
+      "hasGame": false,
+      "collectedAt": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "id": "prt-electron-伊勢丹新宿店にてpop-up-shop開催決定-イベント特別キットや限定販売アイテムも登場-新宿-2026-12-02",
+      "title": "〈ELECTRON〉伊勢丹新宿店にてPOP UP SHOP開催決定！イベント特別キットや限定販売アイテムも登場。",
+      "brand": "有限会社GM corporation",
+      "types": [
+        "popup",
+        "free_sample",
+        "novelty"
+      ],
+      "prefecture": "東京",
+      "area": "新宿",
+      "venue": "伊勢丹新宿店",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-08",
+      "url": "https://prtimes.jp/main/html/rd/p/000000240.000066044.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/66044/240/66044-240-d69fbdb797ffe0df94a905cedd1b165f-1920x1280.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "有限会社GMコーポレーション（本社：大阪市、代表取締役：辰巳祐子）は、2026年12月2日(水)～12月8日(火)の期間、伊勢丹新宿店 イセタン ビューティー アポセカリーにて「エレクトロンPOP UP SHOP」を開催…",
+      "freeSample": true,
       "hasGift": true,
       "hasGame": false,
       "collectedAt": "2026-11-20T00:00:00.000Z"
