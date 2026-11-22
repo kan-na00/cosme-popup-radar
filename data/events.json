@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T02:58:09.475Z",
+  "updatedAt": "2026-11-22T01:52:39.760Z",
   "events": [
     {
       "id": "prt-kanebo-パラリンアート-私を動かす-光-と-色彩-障がい者アートコンテスト-作品募集開始-東京-2026-11-01",
@@ -499,25 +499,28 @@
       "collectedAt": "2026-11-20T00:00:00.000Z"
     },
     {
-      "id": "prt-11-26は-いい風呂の日-yolu銭湯コラボ-yoluゆ-が今年も登場-新作バスタブレットやヘアケア-ボディソープの体験イベントを11月開催-東京-2026-",
-      "title": "【11/26は「いい風呂の日」】YOLU銭湯コラボ「YOLUゆ」が今年も登場！ 新作バスタブレットやヘアケア・ボディソープの体験イベントを11月開催！",
-      "brand": "株式会社Ｉ－ｎｅ",
+      "id": "prt-株式会社fit-sapporo-collection-2026-a-w-にk-beautyブースを出展-韓国コスメ複数ブランドの体験-サンプリングを実施-渋谷-",
+      "title": "株式会社FIT、「SAPPORO COLLECTION 2026 A/W」にK-BEAUTYブースを出展　韓国コスメ複数ブランドの体験・サンプリングを実施",
+      "brand": "株式会社FIT",
       "types": [
-        "popup"
+        "popup",
+        "free_sample",
+        "gift",
+        "workshop"
       ],
       "prefecture": "東京",
-      "area": "東京",
-      "venue": "東京",
-      "startDate": "2026-11-21",
-      "endDate": "2026-11-21",
-      "url": "https://prtimes.jp/main/html/rd/p/000001048.000012002.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/12002/1048/12002-1048-59bbf02d5feae3a784c5d433fe08d36f-1873x877.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "area": "渋谷",
+      "venue": "渋谷",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "url": "https://prtimes.jp/main/html/rd/p/000000025.000171754.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/171754/25/171754-25-fd250f6142126c89ab9e2e4f7a738b61-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "source": "PR TIMES",
-      "description": "株式会社Ｉ－ｎｅ (本社：大阪市中央区) が展開するナイトケアビューティーブランド【YOLU（ヨル）】は、新商品「ドリーミング バスタブレットアソート フレグランスコレクション」の体験イベントを開催します。2026年11…",
-      "freeSample": false,
-      "hasGift": false,
+      "description": "株式会社FIT（本社：東京都千代田区、代表取締役：木村 智善）は、2026年11月22日（日）に札幌コンベンションセンターで開催される「SAPPORO COLLECTION 2026 AUTUMN/WINTER」（主催：…",
+      "freeSample": true,
+      "hasGift": true,
       "hasGame": false,
-      "collectedAt": "2026-11-19T00:00:00.000Z"
+      "collectedAt": "2026-11-21T00:00:00.000Z"
     },
     {
       "id": "prt-開催決定-韓国発ec-w-concept-が11月26日-木-より11日間-渋谷にて過去最大級のpop-up-wonderful-holidays-from-s",
