@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T03:55:20.463Z",
+  "updatedAt": "2026-11-27T03:55:12.823Z",
   "events": [
     {
       "id": "prt-kanebo-パラリンアート-私を動かす-光-と-色彩-障がい者アートコンテスト-作品募集開始-東京-2026-11-01",
@@ -270,6 +270,31 @@
       "hasGift": true,
       "hasGame": true,
       "collectedAt": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "id": "prt-サロン発ヘアケアブランド-つるりんちょ-cosme-tokyoで自分の髪で試すきっかけになる7日間のポップアップ開催-原宿-2026-11-25",
+      "title": "サロン発ヘアケアブランド「つるりんちょ。」@cosme TOKYOで自分の髪で試すきっかけになる7日間のポップアップ開催",
+      "brand": "株式会社髪にドラマを",
+      "types": [
+        "popup",
+        "free_sample",
+        "minigame",
+        "gift",
+        "workshop"
+      ],
+      "prefecture": "東京",
+      "area": "原宿",
+      "venue": "原宿",
+      "startDate": "2026-11-25",
+      "endDate": "2026-12-01",
+      "url": "https://prtimes.jp/main/html/rd/p/000000020.000168683.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/168683/20/168683-20-0839b3e5f518662dc0836eac4392d733-3825x2550.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "source": "PR TIMES",
+      "description": "株式会社髪にドラマを（本社：大阪府大阪市阿倍野区、代表取締役：川畑賢太）は、2026年11月25日（水）から12月1日（火）までの7日間、東京・原宿の@cosme TOKYO 2F ポップアップスペースにて、「髪にドラマ…",
+      "freeSample": true,
+      "hasGift": true,
+      "hasGame": true,
+      "collectedAt": "2026-11-26T00:00:00.000Z"
     },
     {
       "id": "prt-開催決定-韓国発ec-w-concept-が11月26日-木-より11日間-渋谷にて過去最大級のpop-up-wonderful-holidays-from-s",
