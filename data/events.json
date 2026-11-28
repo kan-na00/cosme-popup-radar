@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T03:55:12.823Z",
+  "updatedAt": "2026-11-28T03:41:57.433Z",
   "events": [
     {
       "id": "prt-kanebo-パラリンアート-私を動かす-光-と-色彩-障がい者アートコンテスト-作品募集開始-東京-2026-11-01",
@@ -63,32 +63,6 @@
       "hasGift": false,
       "hasGame": false,
       "collectedAt": "2026-11-02T00:00:00.000Z"
-    },
-    {
-      "id": "prt-キヅナツキ先生の人気漫画-ギ-ン-とのコラボコスメが-icouleur-アイクルール-より登場-描き下ろしビジュアルをあしらったアイシャドウを11月7日発売-渋",
-      "title": "キヅナツキ先生の人気漫画『ギヴン』とのコラボコスメが「iCouleur（アイクルール）」より登場！描き下ろしビジュアルをあしらったアイシャドウを11月7日発売",
-      "brand": "株式会社サイバーエージェント アニメ＆IP事業本部",
-      "types": [
-        "popup",
-        "free_sample",
-        "minigame",
-        "novelty",
-        "gift",
-        "workshop"
-      ],
-      "prefecture": "東京",
-      "area": "渋谷",
-      "venue": "：SHIBUYA109渋谷店",
-      "startDate": "2026-11-07",
-      "endDate": "2026-11-27",
-      "url": "https://prtimes.jp/main/html/rd/p/000000323.000085936.html",
-      "image": "https://prcdn.freetls.fastly.net/release_image/85936/323/85936-323-3f3c104c567f5ca641fc75966b1aeb75-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "source": "PR TIMES",
-      "description": "株式会社サイバーエージェント（本社：東京都渋谷区、代表取締役社長：山内隆裕、東証プライム市場：証券コード4751）は、\"わたしの推しでわたしを彩る\"をコンセプトに『推し』とのコラボコスメを展開するコスメブランド「iCou…",
-      "freeSample": true,
-      "hasGift": true,
-      "hasGame": true,
-      "collectedAt": "2026-10-14T00:00:00.000Z"
     },
     {
       "id": "prt-木漏れ日をイメージした温かい光に包まれる-クリスマス-エリア-が初登場ラグジュアリーホテルのクリスマスホリデー-六本木-2026-11-07",
